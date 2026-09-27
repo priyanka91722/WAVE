@@ -1,0 +1,1476 @@
+Bin_ID,Date,Location,Waste_Type,Waste_Generated,Bin_Capacity,Collection_Status,Collection_Date,Overflow_Status,Bin_Utilization_Pct
+B08-GLA-01,2025-01-01,Bus Depot,Glass,10.4,20,Pending,,No,52.0
+B08-MET-01,2025-01-01,Bus Depot,Metal,6.2,20,Collected,2025-01-02,No,31.0
+B08-ORG-01,2025-01-01,Bus Depot,Organic,32.4,50,Collected,2025-01-02,No,64.8
+B08-PAP-01,2025-01-01,Bus Depot,Paper,13.1,20,Collected,2025-01-01,No,65.5
+B08-PLA-01,2025-01-01,Bus Depot,Plastic,25.3,30,Collected,2025-01-01,No,84.33
+B10-GLA-01,2025-01-01,Central Park,Glass,4.2,20,Collected,2025-01-01,No,21.0
+B10-MET-01,2025-01-01,Central Park,Metal,3.5,20,Pending,,No,17.5
+B10-ORG-01,2025-01-01,Central Park,Organic,16.1,30,Collected,2025-01-01,No,53.67
+B10-PAP-01,2025-01-01,Central Park,Paper,6.5,20,Collected,2025-01-01,No,32.5
+B06-GLA-01,2025-01-01,Hospital Zone,Glass,6.8,20,Collected,2025-01-02,No,34.0
+B06-MET-01,2025-01-01,Hospital Zone,Metal,7.3,20,Collected,2025-01-01,No,36.5
+B06-ORG-01,2025-01-01,Hospital Zone,Organic,38.4,50,Collected,2025-01-01,No,76.8
+B06-PAP-01,2025-01-01,Hospital Zone,Paper,13.5,30,Collected,2025-01-01,No,45.0
+B06-PLA-01,2025-01-01,Hospital Zone,Plastic,21.7,30,Collected,2025-01-01,No,72.33
+B03-GLA-01,2025-01-01,Industrial Zone,Glass,11.6,20,Collected,2025-01-02,No,58.0
+B03-MET-01,2025-01-01,Industrial Zone,Metal,13.0,20,Collected,2025-01-01,No,65.0
+B03-ORG-01,2025-01-01,Industrial Zone,Organic,78.9,100,Collected,2025-01-01,No,78.9
+B03-PAP-01,2025-01-01,Industrial Zone,Paper,28.9,40,Collected,2025-01-01,No,72.25
+B03-PLA-01,2025-01-01,Industrial Zone,Plastic,23.0,40,Pending,,No,57.5
+B04-GLA-01,2025-01-01,Mall Complex,Glass,16.9,20,Collected,2025-01-01,No,84.5
+B04-MET-01,2025-01-01,Mall Complex,Metal,10.8,20,Collected,2025-01-01,No,54.0
+B04-ORG-01,2025-01-01,Mall Complex,Organic,68.7,90,Pending,,No,76.33
+B04-PAP-01,2025-01-01,Mall Complex,Paper,22.6,30,Collected,2025-01-01,No,75.33
+B04-PLA-01,2025-01-01,Mall Complex,Plastic,25.7,50,Collected,2025-01-02,No,51.4
+B01-GLA-01,2025-01-01,Market Area,Glass,20.0,20,Pending,,No,100.0
+B01-MET-01,2025-01-01,Market Area,Metal,12.1,20,Collected,2025-01-02,No,60.5
+B01-ORG-01,2025-01-01,Market Area,Organic,92.9,90,Collected,2025-01-01,Yes,103.22
+B01-PAP-01,2025-01-01,Market Area,Paper,34.6,50,Collected,2025-01-02,No,69.2
+B01-PLA-01,2025-01-01,Market Area,Plastic,34.2,40,Collected,2025-01-01,No,85.5
+B02-MET-01,2025-01-01,Railway Station,Metal,10.0,20,Collected,2025-01-02,No,50.0
+B02-PAP-01,2025-01-01,Railway Station,Paper,32.2,40,Collected,2025-01-01,No,80.5
+B05-GLA-01,2025-01-01,Residential Sector 1,Glass,12.6,20,Collected,2025-01-01,No,63.0
+B05-MET-01,2025-01-01,Residential Sector 1,Metal,8.3,20,Collected,2025-01-02,No,41.5
+B05-ORG-01,2025-01-01,Residential Sector 1,Organic,45.6,60,Collected,2025-01-01,No,76.0
+B05-PAP-01,2025-01-01,Residential Sector 1,Paper,17.5,20,Pending,,No,87.5
+B05-PLA-01,2025-01-01,Residential Sector 1,Plastic,25.8,30,Collected,2025-01-01,No,86.0
+B07-GLA-01,2025-01-01,Residential Sector 2,Glass,9.2,20,Collected,2025-01-02,No,46.0
+B07-ORG-01,2025-01-01,Residential Sector 2,Organic,38.6,70,Collected,2025-01-01,No,55.14
+B07-PAP-01,2025-01-01,Residential Sector 2,Paper,17.3,30,Pending,,No,57.67
+B07-PLA-01,2025-01-01,Residential Sector 2,Plastic,25.5,30,Collected,2025-01-01,No,85.0
+B09-GLA-01,2025-01-01,School Zone,Glass,5.7,20,Pending,,No,28.5
+B09-MET-01,2025-01-01,School Zone,Metal,3.1,20,Collected,2025-01-01,No,15.5
+B09-ORG-01,2025-01-01,School Zone,Organic,20.7,30,Pending,,No,69.0
+B09-PAP-01,2025-01-01,School Zone,Paper,7.2,20,Collected,2025-01-01,No,36.0
+B09-PLA-01,2025-01-01,School Zone,Plastic,12.8,20,Pending,,No,64.0
+B08-GLA-01,2025-01-02,Bus Depot,Glass,10.0,20,Collected,2025-01-03,No,50.0
+B08-MET-01,2025-01-02,Bus Depot,Metal,5.9,20,Pending,,No,29.5
+B08-ORG-01,2025-01-02,Bus Depot,Organic,30.6,50,Pending,,No,61.2
+B08-PAP-01,2025-01-02,Bus Depot,Paper,19.2,20,Collected,2025-01-02,No,96.0
+B08-PLA-01,2025-01-02,Bus Depot,Plastic,21.0,30,Collected,2025-01-02,No,70.0
+B10-GLA-01,2025-01-02,Central Park,Glass,4.0,20,Collected,2025-01-02,No,20.0
+B10-MET-01,2025-01-02,Central Park,Metal,3.8,20,Collected,2025-01-02,No,19.0
+B10-ORG-01,2025-01-02,Central Park,Organic,19.4,30,Collected,2025-01-02,No,64.67
+B10-PAP-01,2025-01-02,Central Park,Paper,6.6,20,Pending,,No,33.0
+B10-PLA-01,2025-01-02,Central Park,Plastic,9.8,20,Collected,2025-01-02,No,49.0
+B06-GLA-01,2025-01-02,Hospital Zone,Glass,7.4,20,Collected,2025-01-03,No,37.0
+B06-MET-01,2025-01-02,Hospital Zone,Metal,7.7,20,Pending,,No,38.5
+B06-ORG-01,2025-01-02,Hospital Zone,Organic,35.6,50,Pending,,No,71.2
+B06-PAP-01,2025-01-02,Hospital Zone,Paper,20.4,30,Pending,,No,68.0
+B06-PLA-01,2025-01-02,Hospital Zone,Plastic,21.0,30,Collected,2025-01-03,No,70.0
+B03-GLA-01,2025-01-02,Industrial Zone,Glass,8.3,20,Collected,2025-01-02,No,41.5
+B03-MET-01,2025-01-02,Industrial Zone,Metal,11.3,20,Collected,2025-01-02,No,56.5
+B03-ORG-01,2025-01-02,Industrial Zone,Organic,43.4,100,Collected,2025-01-02,No,43.4
+B03-PAP-01,2025-01-02,Industrial Zone,Paper,22.3,40,Collected,2025-01-02,No,55.75
+B03-PLA-01,2025-01-02,Industrial Zone,Plastic,20.4,40,Collected,2025-01-02,No,51.0
+B04-GLA-01,2025-01-02,Mall Complex,Glass,17.4,20,Collected,2025-01-02,No,87.0
+B04-MET-01,2025-01-02,Mall Complex,Metal,10.9,20,Collected,2025-01-02,No,54.5
+B04-ORG-01,2025-01-02,Mall Complex,Organic,73.6,90,Collected,2025-01-02,No,81.78
+B04-PAP-01,2025-01-02,Mall Complex,Paper,22.1,30,Collected,2025-01-02,No,73.67
+B04-PLA-01,2025-01-02,Mall Complex,Plastic,19.1,50,Collected,2025-01-02,No,38.2
+B01-GLA-01,2025-01-02,Market Area,Glass,17.4,20,Collected,2025-01-02,No,87.0
+B01-MET-01,2025-01-02,Market Area,Metal,11.8,20,Collected,2025-01-02,No,59.0
+B01-ORG-01,2025-01-02,Market Area,Organic,75.4,90,Collected,2025-01-02,No,83.78
+B01-PAP-01,2025-01-02,Market Area,Paper,33.7,50,Collected,2025-01-02,No,67.4
+B01-PLA-01,2025-01-02,Market Area,Plastic,40.4,40,Collected,2025-01-02,Yes,101.0
+B02-GLA-01,2025-01-02,Railway Station,Glass,16.2,20,Collected,2025-01-02,No,81.0
+B02-MET-01,2025-01-02,Railway Station,Metal,9.7,20,Collected,2025-01-03,No,48.5
+B02-ORG-01,2025-01-02,Railway Station,Organic,65.9,80,Collected,2025-01-03,No,82.38
+B02-PAP-01,2025-01-02,Railway Station,Paper,26.7,40,Pending,,No,66.75
+B02-PLA-01,2025-01-02,Railway Station,Plastic,29.1,30,Collected,2025-01-02,No,97.0
+B05-GLA-01,2025-01-02,Residential Sector 1,Glass,8.7,20,Collected,2025-01-02,No,43.5
+B05-MET-01,2025-01-02,Residential Sector 1,Metal,10.6,20,Pending,,No,53.0
+B05-ORG-01,2025-01-02,Residential Sector 1,Organic,50.0,60,Collected,2025-01-03,No,83.33
+B05-PAP-01,2025-01-02,Residential Sector 1,Paper,12.2,20,Collected,2025-01-02,No,61.0
+B05-PLA-01,2025-01-02,Residential Sector 1,Plastic,22.3,30,Pending,,No,74.33
+B07-GLA-01,2025-01-02,Residential Sector 2,Glass,10.8,20,Collected,2025-01-02,No,54.0
+B07-MET-01,2025-01-02,Residential Sector 2,Metal,6.7,20,Pending,,No,33.5
+B07-ORG-01,2025-01-02,Residential Sector 2,Organic,58.3,70,Pending,,No,83.29
+B07-PAP-01,2025-01-02,Residential Sector 2,Paper,14.6,30,Collected,2025-01-03,No,48.67
+B07-PLA-01,2025-01-02,Residential Sector 2,Plastic,19.5,30,Collected,2025-01-03,No,65.0
+B09-GLA-01,2025-01-02,School Zone,Glass,7.8,20,Collected,2025-01-02,No,39.0
+B09-MET-01,2025-01-02,School Zone,Metal,2.9,20,Collected,2025-01-02,No,14.5
+B09-ORG-01,2025-01-02,School Zone,Organic,23.5,30,Collected,2025-01-03,No,78.33
+B09-PAP-01,2025-01-02,School Zone,Paper,12.1,20,Collected,2025-01-03,No,60.5
+B09-PLA-01,2025-01-02,School Zone,Plastic,14.9,20,Collected,2025-01-03,No,74.5
+B08-GLA-01,2025-01-03,Bus Depot,Glass,7.1,20,Collected,2025-01-03,No,35.5
+B08-MET-01,2025-01-03,Bus Depot,Metal,6.6,20,Collected,2025-01-03,No,33.0
+B08-ORG-01,2025-01-03,Bus Depot,Organic,29.2,50,Collected,2025-01-03,No,58.4
+B08-PAP-01,2025-01-03,Bus Depot,Paper,15.2,20,Pending,,No,76.0
+B08-PLA-01,2025-01-03,Bus Depot,Plastic,22.8,30,Collected,2025-01-04,No,76.0
+B10-GLA-01,2025-01-03,Central Park,Glass,5.2,20,Collected,2025-01-03,No,26.0
+B10-MET-01,2025-01-03,Central Park,Metal,4.2,20,Pending,,No,21.0
+B10-ORG-01,2025-01-03,Central Park,Organic,18.3,30,Collected,2025-01-03,No,61.0
+B10-PAP-01,2025-01-03,Central Park,Paper,7.9,20,Collected,2025-01-04,No,39.5
+B10-PLA-01,2025-01-03,Central Park,Plastic,11.2,20,Collected,2025-01-03,No,56.0
+B06-GLA-01,2025-01-03,Hospital Zone,Glass,7.1,20,Collected,2025-01-03,No,35.5
+B06-MET-01,2025-01-03,Hospital Zone,Metal,6.7,20,Collected,2025-01-03,No,33.5
+B06-ORG-01,2025-01-03,Hospital Zone,Organic,35.7,50,Collected,2025-01-04,No,71.4
+B06-PAP-01,2025-01-03,Hospital Zone,Paper,15.3,30,Collected,2025-01-04,No,51.0
+B06-PLA-01,2025-01-03,Hospital Zone,Plastic,20.3,30,Collected,2025-01-03,No,67.67
+B03-GLA-01,2025-01-03,Industrial Zone,Glass,9.2,20,Collected,2025-01-03,No,46.0
+B03-MET-01,2025-01-03,Industrial Zone,Metal,11.7,20,Collected,2025-01-03,No,58.5
+B03-ORG-01,2025-01-03,Industrial Zone,Organic,67.3,100,Collected,2025-01-03,No,67.3
+B03-PAP-01,2025-01-03,Industrial Zone,Paper,30.2,40,Collected,2025-01-03,No,75.5
+B03-PLA-01,2025-01-03,Industrial Zone,Plastic,26.1,40,Collected,2025-01-03,No,65.25
+B04-GLA-01,2025-01-03,Mall Complex,Glass,13.9,20,Collected,2025-01-03,No,69.5
+B04-MET-01,2025-01-03,Mall Complex,Metal,8.1,20,Collected,2025-01-04,No,40.5
+B04-ORG-01,2025-01-03,Mall Complex,Organic,71.6,90,Collected,2025-01-03,No,79.56
+B04-PAP-01,2025-01-03,Mall Complex,Paper,26.3,30,Collected,2025-01-03,No,87.67
+B04-PLA-01,2025-01-03,Mall Complex,Plastic,30.6,50,Collected,2025-01-03,No,61.2
+B01-GLA-01,2025-01-03,Market Area,Glass,20.7,20,Collected,2025-01-03,Yes,103.5
+B01-MET-01,2025-01-03,Market Area,Metal,14.9,20,Pending,,No,74.5
+B01-ORG-01,2025-01-03,Market Area,Organic,69.9,90,Collected,2025-01-04,No,77.67
+B01-PAP-01,2025-01-03,Market Area,Paper,29.1,50,Collected,2025-01-03,No,58.2
+B01-PLA-01,2025-01-03,Market Area,Plastic,29.7,40,Collected,2025-01-03,No,74.25
+B02-GLA-01,2025-01-03,Railway Station,Glass,11.1,20,Collected,2025-01-03,No,55.5
+B02-MET-01,2025-01-03,Railway Station,Metal,12.7,20,Pending,,No,63.5
+B02-ORG-01,2025-01-03,Railway Station,Organic,53.8,80,Collected,2025-01-03,No,67.25
+B02-PAP-01,2025-01-03,Railway Station,Paper,26.7,40,Collected,2025-01-03,No,66.75
+B02-PLA-01,2025-01-03,Railway Station,Plastic,27.4,30,Collected,2025-01-03,No,91.33
+B05-GLA-01,2025-01-03,Residential Sector 1,Glass,5.8,20,Pending,,No,29.0
+B05-MET-01,2025-01-03,Residential Sector 1,Metal,7.2,20,Collected,2025-01-04,No,36.0
+B05-ORG-01,2025-01-03,Residential Sector 1,Organic,48.5,60,Collected,2025-01-04,No,80.83
+B05-PAP-01,2025-01-03,Residential Sector 1,Paper,13.1,20,Collected,2025-01-04,No,65.5
+B05-PLA-01,2025-01-03,Residential Sector 1,Plastic,21.9,30,Collected,2025-01-04,No,73.0
+B07-GLA-01,2025-01-03,Residential Sector 2,Glass,8.8,20,Collected,2025-01-03,No,44.0
+B07-MET-01,2025-01-03,Residential Sector 2,Metal,7.7,20,Collected,2025-01-04,No,38.5
+B07-ORG-01,2025-01-03,Residential Sector 2,Organic,42.3,70,Collected,2025-01-03,No,60.43
+B07-PAP-01,2025-01-03,Residential Sector 2,Paper,20.2,30,Collected,2025-01-03,No,67.33
+B07-PLA-01,2025-01-03,Residential Sector 2,Plastic,23.8,30,Collected,2025-01-04,No,79.33
+B09-GLA-01,2025-01-03,School Zone,Glass,6.3,20,Collected,2025-01-03,No,31.5
+B09-MET-01,2025-01-03,School Zone,Metal,4.5,20,Collected,2025-01-03,No,22.5
+B09-ORG-01,2025-01-03,School Zone,Organic,23.6,30,Collected,2025-01-03,No,78.67
+B09-PAP-01,2025-01-03,School Zone,Paper,8.6,20,Collected,2025-01-03,No,43.0
+B09-PLA-01,2025-01-03,School Zone,Plastic,12.5,20,Collected,2025-01-03,No,62.5
+B08-GLA-01,2025-01-04,Bus Depot,Glass,8.8,20,Collected,2025-01-04,No,44.0
+B08-MET-01,2025-01-04,Bus Depot,Metal,6.3,20,Collected,2025-01-04,No,31.5
+B08-ORG-01,2025-01-04,Bus Depot,Organic,39.0,50,Collected,2025-01-05,No,78.0
+B08-PAP-01,2025-01-04,Bus Depot,Paper,18.2,20,Pending,,No,91.0
+B08-PLA-01,2025-01-04,Bus Depot,Plastic,23.0,30,Collected,2025-01-05,No,76.67
+B10-GLA-01,2025-01-04,Central Park,Glass,4.8,20,Collected,2025-01-05,No,24.0
+B10-MET-01,2025-01-04,Central Park,Metal,6.4,20,Collected,2025-01-05,No,32.0
+B10-ORG-01,2025-01-04,Central Park,Organic,20.1,30,Collected,2025-01-05,No,67.0
+B10-PAP-01,2025-01-04,Central Park,Paper,7.9,20,Collected,2025-01-04,No,39.5
+B10-PLA-01,2025-01-04,Central Park,Plastic,11.4,20,Collected,2025-01-04,No,57.0
+B06-GLA-01,2025-01-04,Hospital Zone,Glass,7.4,20,Collected,2025-01-04,No,37.0
+B06-MET-01,2025-01-04,Hospital Zone,Metal,7.8,20,Collected,2025-01-05,No,39.0
+B06-ORG-01,2025-01-04,Hospital Zone,Organic,51.0,50,Collected,2025-01-05,Yes,102.0
+B06-PAP-01,2025-01-04,Hospital Zone,Paper,20.7,30,Collected,2025-01-05,No,69.0
+B06-PLA-01,2025-01-04,Hospital Zone,Plastic,22.5,30,Pending,,No,75.0
+B03-GLA-01,2025-01-04,Industrial Zone,Glass,12.7,20,Collected,2025-01-04,No,63.5
+B03-MET-01,2025-01-04,Industrial Zone,Metal,10.7,20,Collected,2025-01-04,No,53.5
+B03-ORG-01,2025-01-04,Industrial Zone,Organic,68.6,100,Collected,2025-01-05,No,68.6
+B03-PAP-01,2025-01-04,Industrial Zone,Paper,37.9,40,Collected,2025-01-04,No,94.75
+B03-PLA-01,2025-01-04,Industrial Zone,Plastic,29.9,40,Collected,2025-01-04,No,74.75
+B04-GLA-01,2025-01-04,Mall Complex,Glass,14.7,20,Collected,2025-01-04,No,73.5
+B04-MET-01,2025-01-04,Mall Complex,Metal,15.2,20,Collected,2025-01-05,No,76.0
+B04-ORG-01,2025-01-04,Mall Complex,Organic,83.9,90,Pending,,No,93.22
+B04-PAP-01,2025-01-04,Mall Complex,Paper,18.7,30,Collected,2025-01-05,No,62.33
+B04-PLA-01,2025-01-04,Mall Complex,Plastic,25.4,50,Collected,2025-01-04,No,50.8
+B01-GLA-01,2025-01-04,Market Area,Glass,20.5,20,Collected,2025-01-04,Yes,102.5
+B01-MET-01,2025-01-04,Market Area,Metal,14.2,20,Collected,2025-01-04,No,71.0
+B01-ORG-01,2025-01-04,Market Area,Organic,72.1,90,Collected,2025-01-04,No,80.11
+B01-PAP-01,2025-01-04,Market Area,Paper,34.3,50,Collected,2025-01-04,No,68.6
+B01-PLA-01,2025-01-04,Market Area,Plastic,43.5,40,Collected,2025-01-05,Yes,108.75
+B02-GLA-01,2025-01-04,Railway Station,Glass,12.1,20,Collected,2025-01-05,No,60.5
+B02-MET-01,2025-01-04,Railway Station,Metal,8.9,20,Collected,2025-01-04,No,44.5
+B02-ORG-01,2025-01-04,Railway Station,Organic,79.2,80,Collected,2025-01-05,No,99.0
+B02-PAP-01,2025-01-04,Railway Station,Paper,34.8,40,Collected,2025-01-04,No,87.0
+B02-PLA-01,2025-01-04,Railway Station,Plastic,36.5,30,Collected,2025-01-04,Yes,121.67
+B05-GLA-01,2025-01-04,Residential Sector 1,Glass,10.9,20,Pending,,No,54.5
+B05-MET-01,2025-01-04,Residential Sector 1,Metal,10.0,20,Collected,2025-01-04,No,50.0
+B05-ORG-01,2025-01-04,Residential Sector 1,Organic,54.2,60,Collected,2025-01-04,No,90.33
+B05-PAP-01,2025-01-04,Residential Sector 1,Paper,14.8,20,Collected,2025-01-04,No,74.0
+B05-PLA-01,2025-01-04,Residential Sector 1,Plastic,31.3,30,Collected,2025-01-04,Yes,104.33
+B07-GLA-01,2025-01-04,Residential Sector 2,Glass,8.8,20,Collected,2025-01-04,No,44.0
+B07-MET-01,2025-01-04,Residential Sector 2,Metal,7.3,20,Collected,2025-01-04,No,36.5
+B07-ORG-01,2025-01-04,Residential Sector 2,Organic,55.0,70,Collected,2025-01-04,No,78.57
+B07-PAP-01,2025-01-04,Residential Sector 2,Paper,16.4,30,Collected,2025-01-04,No,54.67
+B07-PLA-01,2025-01-04,Residential Sector 2,Plastic,23.7,30,Collected,2025-01-04,No,79.0
+B09-GLA-01,2025-01-04,School Zone,Glass,8.3,20,Collected,2025-01-04,No,41.5
+B09-MET-01,2025-01-04,School Zone,Metal,3.7,20,Collected,2025-01-05,No,18.5
+B09-ORG-01,2025-01-04,School Zone,Organic,31.9,30,Collected,2025-01-05,Yes,106.33
+B09-PAP-01,2025-01-04,School Zone,Paper,12.4,20,Collected,2025-01-05,No,62.0
+B09-PLA-01,2025-01-04,School Zone,Plastic,13.8,20,Collected,2025-01-04,No,69.0
+B08-GLA-01,2025-01-05,Bus Depot,Glass,9.4,20,Pending,,No,47.0
+B08-MET-01,2025-01-05,Bus Depot,Metal,6.3,20,Pending,,No,31.5
+B08-ORG-01,2025-01-05,Bus Depot,Organic,42.8,50,Collected,2025-01-05,No,85.6
+B08-PAP-01,2025-01-05,Bus Depot,Paper,21.2,20,Collected,2025-01-05,Yes,106.0
+B08-PLA-01,2025-01-05,Bus Depot,Plastic,28.5,30,Collected,2025-01-05,No,95.0
+B10-GLA-01,2025-01-05,Central Park,Glass,5.5,20,Collected,2025-01-06,No,27.5
+B10-MET-01,2025-01-05,Central Park,Metal,4.9,20,Collected,2025-01-05,No,24.5
+B10-ORG-01,2025-01-05,Central Park,Organic,23.9,30,Pending,,No,79.67
+B10-PAP-01,2025-01-05,Central Park,Paper,9.7,20,Collected,2025-01-06,No,48.5
+B10-PLA-01,2025-01-05,Central Park,Plastic,11.5,20,Collected,2025-01-06,No,57.5
+B06-GLA-01,2025-01-05,Hospital Zone,Glass,10.6,20,Collected,2025-01-05,No,53.0
+B06-MET-01,2025-01-05,Hospital Zone,Metal,6.3,20,Collected,2025-01-06,No,31.5
+B06-ORG-01,2025-01-05,Hospital Zone,Organic,40.5,50,Collected,2025-01-05,No,81.0
+B06-PAP-01,2025-01-05,Hospital Zone,Paper,18.1,30,Pending,,No,60.33
+B06-PLA-01,2025-01-05,Hospital Zone,Plastic,24.4,30,Collected,2025-01-05,No,81.33
+B03-GLA-01,2025-01-05,Industrial Zone,Glass,12.4,20,Collected,2025-01-05,No,62.0
+B03-MET-01,2025-01-05,Industrial Zone,Metal,12.5,20,Collected,2025-01-05,No,62.5
+B03-ORG-01,2025-01-05,Industrial Zone,Organic,58.8,100,Collected,2025-01-05,No,58.8
+B03-PAP-01,2025-01-05,Industrial Zone,Paper,30.9,40,Collected,2025-01-05,No,77.25
+B03-PLA-01,2025-01-05,Industrial Zone,Plastic,22.1,40,Collected,2025-01-06,No,55.25
+B04-GLA-01,2025-01-05,Mall Complex,Glass,15.3,20,Pending,,No,76.5
+B04-ORG-01,2025-01-05,Mall Complex,Organic,72.4,90,Pending,,No,80.44
+B04-PAP-01,2025-01-05,Mall Complex,Paper,23.8,30,Collected,2025-01-05,No,79.33
+B04-PLA-01,2025-01-05,Mall Complex,Plastic,25.7,50,Collected,2025-01-05,No,51.4
+B01-GLA-01,2025-01-05,Market Area,Glass,23.9,20,Collected,2025-01-05,Yes,119.5
+B01-MET-01,2025-01-05,Market Area,Metal,14.3,20,Collected,2025-01-05,No,71.5
+B01-ORG-01,2025-01-05,Market Area,Organic,84.9,90,Collected,2025-01-05,No,94.33
+B01-PAP-01,2025-01-05,Market Area,Paper,31.6,50,Collected,2025-01-06,No,63.2
+B01-PLA-01,2025-01-05,Market Area,Plastic,43.7,40,Collected,2025-01-06,Yes,109.25
+B02-GLA-01,2025-01-05,Railway Station,Glass,11.3,20,Pending,,No,56.5
+B02-MET-01,2025-01-05,Railway Station,Metal,14.4,20,Collected,2025-01-05,No,72.0
+B02-ORG-01,2025-01-05,Railway Station,Organic,78.4,80,Collected,2025-01-05,No,98.0
+B02-PAP-01,2025-01-05,Railway Station,Paper,31.3,40,Collected,2025-01-06,No,78.25
+B02-PLA-01,2025-01-05,Railway Station,Plastic,24.5,30,Collected,2025-01-05,No,81.67
+B05-GLA-01,2025-01-05,Residential Sector 1,Glass,10.9,20,Collected,2025-01-05,No,54.5
+B05-MET-01,2025-01-05,Residential Sector 1,Metal,8.5,20,Collected,2025-01-05,No,42.5
+B05-ORG-01,2025-01-05,Residential Sector 1,Organic,87.7,60,Collected,2025-01-05,Yes,146.17
+B05-PAP-01,2025-01-05,Residential Sector 1,Paper,14.5,20,Pending,,No,72.5
+B05-PLA-01,2025-01-05,Residential Sector 1,Plastic,19.9,30,Collected,2025-01-06,No,66.33
+B07-GLA-01,2025-01-05,Residential Sector 2,Glass,9.6,20,Collected,2025-01-06,No,48.0
+B07-MET-01,2025-01-05,Residential Sector 2,Metal,7.7,20,Pending,,No,38.5
+B07-ORG-01,2025-01-05,Residential Sector 2,Organic,43.0,70,Pending,,No,61.43
+B07-PAP-01,2025-01-05,Residential Sector 2,Paper,17.8,30,Collected,2025-01-06,No,59.33
+B07-PLA-01,2025-01-05,Residential Sector 2,Plastic,24.7,30,Collected,2025-01-05,No,82.33
+B09-GLA-01,2025-01-05,School Zone,Glass,8.8,20,Collected,2025-01-05,No,44.0
+B09-MET-01,2025-01-05,School Zone,Metal,3.0,20,Collected,2025-01-06,No,15.0
+B09-ORG-01,2025-01-05,School Zone,Organic,25.0,30,Collected,2025-01-05,No,83.33
+B09-PAP-01,2025-01-05,School Zone,Paper,9.8,20,Pending,,No,49.0
+B09-PLA-01,2025-01-05,School Zone,Plastic,13.8,20,Collected,2025-01-05,No,69.0
+B08-GLA-01,2025-01-06,Bus Depot,Glass,8.6,20,Collected,2025-01-06,No,43.0
+B08-MET-01,2025-01-06,Bus Depot,Metal,7.4,20,Collected,2025-01-06,No,37.0
+B08-ORG-01,2025-01-06,Bus Depot,Organic,46.0,50,Collected,2025-01-06,No,92.0
+B08-PAP-01,2025-01-06,Bus Depot,Paper,14.4,20,Pending,,No,72.0
+B08-PLA-01,2025-01-06,Bus Depot,Plastic,20.0,30,Collected,2025-01-06,No,66.67
+B10-GLA-01,2025-01-06,Central Park,Glass,5.6,20,Collected,2025-01-06,No,28.0
+B10-MET-01,2025-01-06,Central Park,Metal,3.1,20,Pending,,No,15.5
+B10-ORG-01,2025-01-06,Central Park,Organic,21.9,30,Collected,2025-01-07,No,73.0
+B10-PAP-01,2025-01-06,Central Park,Paper,6.5,20,Collected,2025-01-06,No,32.5
+B10-PLA-01,2025-01-06,Central Park,Plastic,7.3,20,Collected,2025-01-06,No,36.5
+B06-GLA-01,2025-01-06,Hospital Zone,Glass,9.9,20,Collected,2025-01-06,No,49.5
+B06-MET-01,2025-01-06,Hospital Zone,Metal,4.8,20,Collected,2025-01-06,No,24.0
+B06-ORG-01,2025-01-06,Hospital Zone,Organic,44.6,50,Collected,2025-01-06,No,89.2
+B06-PAP-01,2025-01-06,Hospital Zone,Paper,17.6,30,Collected,2025-01-06,No,58.67
+B06-PLA-01,2025-01-06,Hospital Zone,Plastic,22.0,30,Collected,2025-01-06,No,73.33
+B03-GLA-01,2025-01-06,Industrial Zone,Glass,9.1,20,Pending,,No,45.5
+B03-MET-01,2025-01-06,Industrial Zone,Metal,10.5,20,Collected,2025-01-07,No,52.5
+B03-ORG-01,2025-01-06,Industrial Zone,Organic,62.4,100,Collected,2025-01-07,No,62.4
+B03-PAP-01,2025-01-06,Industrial Zone,Paper,22.6,40,Pending,,No,56.5
+B03-PLA-01,2025-01-06,Industrial Zone,Plastic,26.6,40,Collected,2025-01-06,No,66.5
+B04-GLA-01,2025-01-06,Mall Complex,Glass,13.8,20,Collected,2025-01-06,No,69.0
+B04-MET-01,2025-01-06,Mall Complex,Metal,9.1,20,Pending,,No,45.5
+B04-ORG-01,2025-01-06,Mall Complex,Organic,66.8,90,Pending,,No,74.22
+B04-PAP-01,2025-01-06,Mall Complex,Paper,21.9,30,Pending,,No,73.0
+B04-PLA-01,2025-01-06,Mall Complex,Plastic,29.9,50,Collected,2025-01-07,No,59.8
+B01-GLA-01,2025-01-06,Market Area,Glass,22.0,20,Collected,2025-01-06,Yes,110.0
+B01-MET-01,2025-01-06,Market Area,Metal,12.2,20,Collected,2025-01-06,No,61.0
+B01-ORG-01,2025-01-06,Market Area,Organic,65.1,90,Collected,2025-01-06,No,72.33
+B01-PAP-01,2025-01-06,Market Area,Paper,33.6,50,Collected,2025-01-06,No,67.2
+B01-PLA-01,2025-01-06,Market Area,Plastic,32.5,40,Collected,2025-01-06,No,81.25
+B02-GLA-01,2025-01-06,Railway Station,Glass,14.7,20,Collected,2025-01-06,No,73.5
+B02-MET-01,2025-01-06,Railway Station,Metal,10.9,20,Collected,2025-01-06,No,54.5
+B02-ORG-01,2025-01-06,Railway Station,Organic,45.0,80,Collected,2025-01-07,No,56.25
+B02-PAP-01,2025-01-06,Railway Station,Paper,26.2,40,Collected,2025-01-07,No,65.5
+B02-PLA-01,2025-01-06,Railway Station,Plastic,32.3,30,Collected,2025-01-06,Yes,107.67
+B05-GLA-01,2025-01-06,Residential Sector 1,Glass,10.9,20,Collected,2025-01-07,No,54.5
+B05-MET-01,2025-01-06,Residential Sector 1,Metal,9.0,20,Pending,,No,45.0
+B05-ORG-01,2025-01-06,Residential Sector 1,Organic,40.0,60,Pending,,No,66.67
+B05-PAP-01,2025-01-06,Residential Sector 1,Paper,16.2,20,Collected,2025-01-06,No,81.0
+B05-PLA-01,2025-01-06,Residential Sector 1,Plastic,23.9,30,Collected,2025-01-07,No,79.67
+B07-GLA-01,2025-01-06,Residential Sector 2,Glass,9.2,20,Collected,2025-01-07,No,46.0
+B07-MET-01,2025-01-06,Residential Sector 2,Metal,5.9,20,Collected,2025-01-06,No,29.5
+B07-ORG-01,2025-01-06,Residential Sector 2,Organic,37.6,70,Collected,2025-01-06,No,53.71
+B07-PAP-01,2025-01-06,Residential Sector 2,Paper,15.4,30,Collected,2025-01-06,No,51.33
+B07-PLA-01,2025-01-06,Residential Sector 2,Plastic,18.1,30,Collected,2025-01-06,No,60.33
+B09-GLA-01,2025-01-06,School Zone,Glass,5.6,20,Collected,2025-01-06,No,28.0
+B09-MET-01,2025-01-06,School Zone,Metal,3.4,20,Collected,2025-01-06,No,17.0
+B09-ORG-01,2025-01-06,School Zone,Organic,21.9,30,Collected,2025-01-07,No,73.0
+B09-PAP-01,2025-01-06,School Zone,Paper,8.6,20,Collected,2025-01-06,No,43.0
+B09-PLA-01,2025-01-06,School Zone,Plastic,9.7,20,Collected,2025-01-07,No,48.5
+B08-GLA-01,2025-01-07,Bus Depot,Glass,7.4,20,Collected,2025-01-08,No,37.0
+B08-MET-01,2025-01-07,Bus Depot,Metal,6.6,20,Collected,2025-01-07,No,33.0
+B08-ORG-01,2025-01-07,Bus Depot,Organic,36.7,50,Collected,2025-01-08,No,73.4
+B08-PAP-01,2025-01-07,Bus Depot,Paper,13.1,20,Collected,2025-01-07,No,65.5
+B08-PLA-01,2025-01-07,Bus Depot,Plastic,22.5,30,Collected,2025-01-08,No,75.0
+B10-GLA-01,2025-01-07,Central Park,Glass,4.8,20,Collected,2025-01-08,No,24.0
+B10-MET-01,2025-01-07,Central Park,Metal,3.5,20,Collected,2025-01-08,No,17.5
+B10-ORG-01,2025-01-07,Central Park,Organic,14.6,30,Collected,2025-01-07,No,48.67
+B10-PAP-01,2025-01-07,Central Park,Paper,7.9,20,Collected,2025-01-07,No,39.5
+B10-PLA-01,2025-01-07,Central Park,Plastic,11.1,20,Collected,2025-01-07,No,55.5
+B06-GLA-01,2025-01-07,Hospital Zone,Glass,9.4,20,Collected,2025-01-07,No,47.0
+B06-MET-01,2025-01-07,Hospital Zone,Metal,7.4,20,Collected,2025-01-07,No,37.0
+B06-ORG-01,2025-01-07,Hospital Zone,Organic,48.2,50,Collected,2025-01-07,No,96.4
+B06-PAP-01,2025-01-07,Hospital Zone,Paper,16.6,30,Collected,2025-01-08,No,55.33
+B06-PLA-01,2025-01-07,Hospital Zone,Plastic,22.4,30,Collected,2025-01-08,No,74.67
+B03-GLA-01,2025-01-07,Industrial Zone,Glass,13.4,20,Pending,,No,67.0
+B03-MET-01,2025-01-07,Industrial Zone,Metal,9.1,20,Collected,2025-01-07,No,45.5
+B03-ORG-01,2025-01-07,Industrial Zone,Organic,80.9,100,Collected,2025-01-07,No,80.9
+B03-PAP-01,2025-01-07,Industrial Zone,Paper,30.3,40,Collected,2025-01-08,No,75.75
+B04-GLA-01,2025-01-07,Mall Complex,Glass,14.5,20,Collected,2025-01-07,No,72.5
+B04-MET-01,2025-01-07,Mall Complex,Metal,10.3,20,Pending,,No,51.5
+B04-ORG-01,2025-01-07,Mall Complex,Organic,68.7,90,Collected,2025-01-07,No,76.33
+B04-PAP-01,2025-01-07,Mall Complex,Paper,26.0,30,Collected,2025-01-08,No,86.67
+B04-PLA-01,2025-01-07,Mall Complex,Plastic,19.6,50,Collected,2025-01-07,No,39.2
+B01-GLA-01,2025-01-07,Market Area,Glass,17.1,20,Collected,2025-01-07,No,85.5
+B01-MET-01,2025-01-07,Market Area,Metal,9.7,20,Collected,2025-01-07,No,48.5
+B01-ORG-01,2025-01-07,Market Area,Organic,93.8,90,Collected,2025-01-08,Yes,104.22
+B01-PAP-01,2025-01-07,Market Area,Paper,39.1,50,Collected,2025-01-08,No,78.2
+B01-PLA-01,2025-01-07,Market Area,Plastic,43.8,40,Pending,,Yes,109.5
+B02-GLA-01,2025-01-07,Railway Station,Glass,13.4,20,Collected,2025-01-08,No,67.0
+B02-MET-01,2025-01-07,Railway Station,Metal,12.9,20,Collected,2025-01-07,No,64.5
+B02-ORG-01,2025-01-07,Railway Station,Organic,62.4,80,Collected,2025-01-08,No,78.0
+B02-PAP-01,2025-01-07,Railway Station,Paper,28.7,40,Collected,2025-01-08,No,71.75
+B02-PLA-01,2025-01-07,Railway Station,Plastic,29.9,30,Collected,2025-01-08,No,99.67
+B05-GLA-01,2025-01-07,Residential Sector 1,Glass,7.8,20,Collected,2025-01-07,No,39.0
+B05-MET-01,2025-01-07,Residential Sector 1,Metal,10.0,20,Collected,2025-01-08,No,50.0
+B05-ORG-01,2025-01-07,Residential Sector 1,Organic,46.2,60,Collected,2025-01-07,No,77.0
+B05-PAP-01,2025-01-07,Residential Sector 1,Paper,14.9,20,Collected,2025-01-07,No,74.5
+B05-PLA-01,2025-01-07,Residential Sector 1,Plastic,24.7,30,Collected,2025-01-07,No,82.33
+B07-GLA-01,2025-01-07,Residential Sector 2,Glass,6.8,20,Collected,2025-01-07,No,34.0
+B07-MET-01,2025-01-07,Residential Sector 2,Metal,7.5,20,Pending,,No,37.5
+B07-ORG-01,2025-01-07,Residential Sector 2,Organic,58.1,70,Collected,2025-01-07,No,83.0
+B07-PAP-01,2025-01-07,Residential Sector 2,Paper,17.5,30,Collected,2025-01-07,No,58.33
+B07-PLA-01,2025-01-07,Residential Sector 2,Plastic,20.9,30,Collected,2025-01-07,No,69.67
+B09-GLA-01,2025-01-07,School Zone,Glass,6.2,20,Collected,2025-01-08,No,31.0
+B09-MET-01,2025-01-07,School Zone,Metal,4.2,20,Collected,2025-01-08,No,21.0
+B09-ORG-01,2025-01-07,School Zone,Organic,23.4,30,Collected,2025-01-07,No,78.0
+B09-PAP-01,2025-01-07,School Zone,Paper,11.1,20,Collected,2025-01-07,No,55.5
+B09-PLA-01,2025-01-07,School Zone,Plastic,11.9,20,Collected,2025-01-07,No,59.5
+B08-GLA-01,2025-01-08,Bus Depot,Glass,8.2,20,Collected,2025-01-08,No,41.0
+B08-MET-01,2025-01-08,Bus Depot,Metal,6.3,20,Collected,2025-01-08,No,31.5
+B08-ORG-01,2025-01-08,Bus Depot,Organic,33.6,50,Collected,2025-01-09,No,67.2
+B08-PAP-01,2025-01-08,Bus Depot,Paper,14.6,20,Collected,2025-01-08,No,73.0
+B08-PLA-01,2025-01-08,Bus Depot,Plastic,21.2,30,Collected,2025-01-08,No,70.67
+B10-GLA-01,2025-01-08,Central Park,Glass,4.1,20,Collected,2025-01-08,No,20.5
+B10-MET-01,2025-01-08,Central Park,Metal,3.2,20,Collected,2025-01-08,No,16.0
+B10-ORG-01,2025-01-08,Central Park,Organic,13.8,30,Collected,2025-01-09,No,46.0
+B10-PAP-01,2025-01-08,Central Park,Paper,5.8,20,Collected,2025-01-08,No,29.0
+B10-PLA-01,2025-01-08,Central Park,Plastic,11.0,20,Pending,,No,55.0
+B06-GLA-01,2025-01-08,Hospital Zone,Glass,8.9,20,Collected,2025-01-09,No,44.5
+B06-MET-01,2025-01-08,Hospital Zone,Metal,6.3,20,Collected,2025-01-09,No,31.5
+B06-ORG-01,2025-01-08,Hospital Zone,Organic,43.2,50,Collected,2025-01-08,No,86.4
+B06-PAP-01,2025-01-08,Hospital Zone,Paper,20.2,30,Collected,2025-01-08,No,67.33
+B06-PLA-01,2025-01-08,Hospital Zone,Plastic,19.8,30,Collected,2025-01-08,No,66.0
+B03-GLA-01,2025-01-08,Industrial Zone,Glass,10.6,20,Collected,2025-01-08,No,53.0
+B03-MET-01,2025-01-08,Industrial Zone,Metal,15.1,20,Collected,2025-01-08,No,75.5
+B03-ORG-01,2025-01-08,Industrial Zone,Organic,71.4,100,Collected,2025-01-08,No,71.4
+B03-PAP-01,2025-01-08,Industrial Zone,Paper,28.9,40,Collected,2025-01-09,No,72.25
+B04-GLA-01,2025-01-08,Mall Complex,Glass,13.2,20,Collected,2025-01-08,No,66.0
+B04-MET-01,2025-01-08,Mall Complex,Metal,8.1,20,Collected,2025-01-08,No,40.5
+B04-ORG-01,2025-01-08,Mall Complex,Organic,62.0,90,Collected,2025-01-08,No,68.89
+B04-PAP-01,2025-01-08,Mall Complex,Paper,22.7,30,Collected,2025-01-08,No,75.67
+B04-PLA-01,2025-01-08,Mall Complex,Plastic,35.3,50,Collected,2025-01-08,No,70.6
+B01-GLA-01,2025-01-08,Market Area,Glass,17.2,20,Collected,2025-01-09,No,86.0
+B01-MET-01,2025-01-08,Market Area,Metal,14.3,20,Pending,,No,71.5
+B01-ORG-01,2025-01-08,Market Area,Organic,79.5,90,Collected,2025-01-09,No,88.33
+B01-PAP-01,2025-01-08,Market Area,Paper,27.1,50,Collected,2025-01-08,No,54.2
+B01-PLA-01,2025-01-08,Market Area,Plastic,34.9,40,Collected,2025-01-08,No,87.25
+B02-GLA-01,2025-01-08,Railway Station,Glass,11.0,20,Collected,2025-01-09,No,55.0
+B02-MET-01,2025-01-08,Railway Station,Metal,14.6,20,Collected,2025-01-09,No,73.0
+B02-ORG-01,2025-01-08,Railway Station,Organic,48.4,80,Collected,2025-01-08,No,60.5
+B02-PAP-01,2025-01-08,Railway Station,Paper,25.5,40,Collected,2025-01-09,No,63.75
+B02-PLA-01,2025-01-08,Railway Station,Plastic,25.0,30,Collected,2025-01-08,No,83.33
+B05-GLA-01,2025-01-08,Residential Sector 1,Glass,11.9,20,Collected,2025-01-08,No,59.5
+B05-MET-01,2025-01-08,Residential Sector 1,Metal,6.8,20,Collected,2025-01-08,No,34.0
+B05-ORG-01,2025-01-08,Residential Sector 1,Organic,42.6,60,Collected,2025-01-08,No,71.0
+B05-PAP-01,2025-01-08,Residential Sector 1,Paper,16.2,20,Collected,2025-01-08,No,81.0
+B05-PLA-01,2025-01-08,Residential Sector 1,Plastic,18.8,30,Collected,2025-01-08,No,62.67
+B07-GLA-01,2025-01-08,Residential Sector 2,Glass,7.1,20,Collected,2025-01-08,No,35.5
+B07-MET-01,2025-01-08,Residential Sector 2,Metal,6.8,20,Collected,2025-01-09,No,34.0
+B07-ORG-01,2025-01-08,Residential Sector 2,Organic,46.9,70,Pending,,No,67.0
+B07-PAP-01,2025-01-08,Residential Sector 2,Paper,22.3,30,Collected,2025-01-08,No,74.33
+B07-PLA-01,2025-01-08,Residential Sector 2,Plastic,19.3,30,Collected,2025-01-08,No,64.33
+B09-GLA-01,2025-01-08,School Zone,Glass,4.7,20,Collected,2025-01-08,No,23.5
+B09-MET-01,2025-01-08,School Zone,Metal,3.7,20,Collected,2025-01-09,No,18.5
+B09-ORG-01,2025-01-08,School Zone,Organic,27.8,30,Pending,,No,92.67
+B09-PAP-01,2025-01-08,School Zone,Paper,10.4,20,Collected,2025-01-08,No,52.0
+B09-PLA-01,2025-01-08,School Zone,Plastic,13.8,20,Collected,2025-01-09,No,69.0
+B08-GLA-01,2025-01-09,Bus Depot,Glass,12.9,20,Collected,2025-01-09,No,64.5
+B08-MET-01,2025-01-09,Bus Depot,Metal,5.0,20,Collected,2025-01-09,No,25.0
+B08-ORG-01,2025-01-09,Bus Depot,Organic,29.7,50,Collected,2025-01-09,No,59.4
+B08-PAP-01,2025-01-09,Bus Depot,Paper,14.7,20,Collected,2025-01-09,No,73.5
+B08-PLA-01,2025-01-09,Bus Depot,Plastic,17.6,30,Collected,2025-01-09,No,58.67
+B10-GLA-01,2025-01-09,Central Park,Glass,4.6,20,Pending,,No,23.0
+B10-MET-01,2025-01-09,Central Park,Metal,4.0,20,Collected,2025-01-09,No,20.0
+B10-ORG-01,2025-01-09,Central Park,Organic,22.1,30,Collected,2025-01-09,No,73.67
+B10-PAP-01,2025-01-09,Central Park,Paper,6.7,20,Collected,2025-01-09,No,33.5
+B10-PLA-01,2025-01-09,Central Park,Plastic,12.0,20,Collected,2025-01-09,No,60.0
+B06-GLA-01,2025-01-09,Hospital Zone,Glass,9.3,20,Collected,2025-01-10,No,46.5
+B06-MET-01,2025-01-09,Hospital Zone,Metal,6.5,20,Pending,,No,32.5
+B06-ORG-01,2025-01-09,Hospital Zone,Organic,40.9,50,Collected,2025-01-09,No,81.8
+B06-PAP-01,2025-01-09,Hospital Zone,Paper,25.0,30,Collected,2025-01-09,No,83.33
+B06-PLA-01,2025-01-09,Hospital Zone,Plastic,22.2,30,Collected,2025-01-09,No,74.0
+B03-GLA-01,2025-01-09,Industrial Zone,Glass,13.3,20,Collected,2025-01-09,No,66.5
+B03-MET-01,2025-01-09,Industrial Zone,Metal,12.2,20,Collected,2025-01-09,No,61.0
+B03-ORG-01,2025-01-09,Industrial Zone,Organic,59.6,100,Collected,2025-01-09,No,59.6
+B03-PAP-01,2025-01-09,Industrial Zone,Paper,29.5,40,Collected,2025-01-09,No,73.75
+B03-PLA-01,2025-01-09,Industrial Zone,Plastic,28.6,40,Collected,2025-01-09,No,71.5
+B04-GLA-01,2025-01-09,Mall Complex,Glass,12.5,20,Collected,2025-01-09,No,62.5
+B04-MET-01,2025-01-09,Mall Complex,Metal,12.8,20,Pending,,No,64.0
+B04-ORG-01,2025-01-09,Mall Complex,Organic,48.5,90,Collected,2025-01-09,No,53.89
+B04-PAP-01,2025-01-09,Mall Complex,Paper,17.0,30,Pending,,No,56.67
+B04-PLA-01,2025-01-09,Mall Complex,Plastic,27.4,50,Pending,,No,54.8
+B01-GLA-01,2025-01-09,Market Area,Glass,20.0,20,Pending,,No,100.0
+B01-MET-01,2025-01-09,Market Area,Metal,10.7,20,Collected,2025-01-09,No,53.5
+B01-ORG-01,2025-01-09,Market Area,Organic,72.3,90,Collected,2025-01-09,No,80.33
+B01-PAP-01,2025-01-09,Market Area,Paper,39.1,50,Collected,2025-01-10,No,78.2
+B01-PLA-01,2025-01-09,Market Area,Plastic,37.5,40,Collected,2025-01-09,No,93.75
+B02-GLA-01,2025-01-09,Railway Station,Glass,14.1,20,Pending,,No,70.5
+B02-MET-01,2025-01-09,Railway Station,Metal,12.6,20,Collected,2025-01-10,No,63.0
+B02-ORG-01,2025-01-09,Railway Station,Organic,51.8,80,Collected,2025-01-10,No,64.75
+B02-PAP-01,2025-01-09,Railway Station,Paper,29.1,40,Collected,2025-01-09,No,72.75
+B02-PLA-01,2025-01-09,Railway Station,Plastic,20.4,30,Collected,2025-01-09,No,68.0
+B05-GLA-01,2025-01-09,Residential Sector 1,Glass,7.0,20,Collected,2025-01-09,No,35.0
+B05-MET-01,2025-01-09,Residential Sector 1,Metal,6.9,20,Collected,2025-01-09,No,34.5
+B05-ORG-01,2025-01-09,Residential Sector 1,Organic,48.7,60,Collected,2025-01-10,No,81.17
+B05-PAP-01,2025-01-09,Residential Sector 1,Paper,18.0,20,Collected,2025-01-10,No,90.0
+B05-PLA-01,2025-01-09,Residential Sector 1,Plastic,19.0,30,Collected,2025-01-09,No,63.33
+B07-GLA-01,2025-01-09,Residential Sector 2,Glass,6.4,20,Collected,2025-01-09,No,32.0
+B07-MET-01,2025-01-09,Residential Sector 2,Metal,6.3,20,Collected,2025-01-09,No,31.5
+B07-ORG-01,2025-01-09,Residential Sector 2,Organic,52.1,70,Collected,2025-01-09,No,74.43
+B07-PAP-01,2025-01-09,Residential Sector 2,Paper,19.9,30,Collected,2025-01-09,No,66.33
+B07-PLA-01,2025-01-09,Residential Sector 2,Plastic,21.1,30,Collected,2025-01-09,No,70.33
+B09-GLA-01,2025-01-09,School Zone,Glass,5.4,20,Pending,,No,27.0
+B09-MET-01,2025-01-09,School Zone,Metal,3.5,20,Collected,2025-01-10,No,17.5
+B09-ORG-01,2025-01-09,School Zone,Organic,31.1,30,Collected,2025-01-09,Yes,103.67
+B09-PAP-01,2025-01-09,School Zone,Paper,10.6,20,Collected,2025-01-10,No,53.0
+B09-PLA-01,2025-01-09,School Zone,Plastic,11.6,20,Collected,2025-01-09,No,58.0
+B08-GLA-01,2025-01-10,Bus Depot,Glass,6.2,20,Collected,2025-01-11,No,31.0
+B08-MET-01,2025-01-10,Bus Depot,Metal,8.4,20,Pending,,No,42.0
+B08-ORG-01,2025-01-10,Bus Depot,Organic,27.4,50,Collected,2025-01-10,No,54.8
+B08-PAP-01,2025-01-10,Bus Depot,Paper,13.7,20,Collected,2025-01-11,No,68.5
+B08-PLA-01,2025-01-10,Bus Depot,Plastic,17.6,30,Collected,2025-01-10,No,58.67
+B10-GLA-01,2025-01-10,Central Park,Glass,5.2,20,Collected,2025-01-10,No,26.0
+B10-MET-01,2025-01-10,Central Park,Metal,4.3,20,Collected,2025-01-10,No,21.5
+B10-ORG-01,2025-01-10,Central Park,Organic,19.7,30,Collected,2025-01-11,No,65.67
+B10-PAP-01,2025-01-10,Central Park,Paper,8.3,20,Collected,2025-01-10,No,41.5
+B10-PLA-01,2025-01-10,Central Park,Plastic,9.0,20,Collected,2025-01-10,No,45.0
+B06-GLA-01,2025-01-10,Hospital Zone,Glass,9.8,20,Collected,2025-01-10,No,49.0
+B06-MET-01,2025-01-10,Hospital Zone,Metal,6.2,20,Pending,,No,31.0
+B06-ORG-01,2025-01-10,Hospital Zone,Organic,44.2,50,Collected,2025-01-11,No,88.4
+B06-PAP-01,2025-01-10,Hospital Zone,Paper,17.9,30,Collected,2025-01-11,No,59.67
+B06-PLA-01,2025-01-10,Hospital Zone,Plastic,18.3,30,Collected,2025-01-10,No,61.0
+B03-GLA-01,2025-01-10,Industrial Zone,Glass,13.2,20,Collected,2025-01-10,No,66.0
+B03-MET-01,2025-01-10,Industrial Zone,Metal,6.4,20,Collected,2025-01-10,No,32.0
+B03-ORG-01,2025-01-10,Industrial Zone,Organic,58.4,100,Collected,2025-01-10,No,58.4
+B03-PAP-01,2025-01-10,Industrial Zone,Paper,22.1,40,Collected,2025-01-11,No,55.25
+B03-PLA-01,2025-01-10,Industrial Zone,Plastic,28.4,40,Collected,2025-01-10,No,71.0
+B04-GLA-01,2025-01-10,Mall Complex,Glass,11.4,20,Collected,2025-01-10,No,57.0
+B04-MET-01,2025-01-10,Mall Complex,Metal,8.9,20,Collected,2025-01-10,No,44.5
+B04-ORG-01,2025-01-10,Mall Complex,Organic,60.1,90,Collected,2025-01-10,No,66.78
+B04-PAP-01,2025-01-10,Mall Complex,Paper,21.4,30,Collected,2025-01-11,No,71.33
+B04-PLA-01,2025-01-10,Mall Complex,Plastic,31.6,50,Collected,2025-01-11,No,63.2
+B01-GLA-01,2025-01-10,Market Area,Glass,14.5,20,Collected,2025-01-10,No,72.5
+B01-MET-01,2025-01-10,Market Area,Metal,13.6,20,Collected,2025-01-10,No,68.0
+B01-ORG-01,2025-01-10,Market Area,Organic,94.9,90,Collected,2025-01-11,Yes,105.44
+B01-PAP-01,2025-01-10,Market Area,Paper,34.4,50,Collected,2025-01-11,No,68.8
+B01-PLA-01,2025-01-10,Market Area,Plastic,29.6,40,Collected,2025-01-10,No,74.0
+B02-GLA-01,2025-01-10,Railway Station,Glass,12.3,20,Pending,,No,61.5
+B02-MET-01,2025-01-10,Railway Station,Metal,12.5,20,Collected,2025-01-10,No,62.5
+B02-ORG-01,2025-01-10,Railway Station,Organic,62.0,80,Collected,2025-01-10,No,77.5
+B02-PAP-01,2025-01-10,Railway Station,Paper,29.0,40,Collected,2025-01-11,No,72.5
+B02-PLA-01,2025-01-10,Railway Station,Plastic,30.2,30,Collected,2025-01-10,Yes,100.67
+B05-GLA-01,2025-01-10,Residential Sector 1,Glass,9.1,20,Collected,2025-01-10,No,45.5
+B05-MET-01,2025-01-10,Residential Sector 1,Metal,8.9,20,Pending,,No,44.5
+B05-ORG-01,2025-01-10,Residential Sector 1,Organic,53.0,60,Collected,2025-01-10,No,88.33
+B05-PAP-01,2025-01-10,Residential Sector 1,Paper,17.2,20,Collected,2025-01-10,No,86.0
+B05-PLA-01,2025-01-10,Residential Sector 1,Plastic,20.2,30,Collected,2025-01-10,No,67.33
+B07-GLA-01,2025-01-10,Residential Sector 2,Glass,7.6,20,Collected,2025-01-10,No,38.0
+B07-MET-01,2025-01-10,Residential Sector 2,Metal,7.2,20,Collected,2025-01-10,No,36.0
+B07-ORG-01,2025-01-10,Residential Sector 2,Organic,45.4,70,Collected,2025-01-11,No,64.86
+B07-PLA-01,2025-01-10,Residential Sector 2,Plastic,13.9,30,Collected,2025-01-10,No,46.33
+B09-GLA-01,2025-01-10,School Zone,Glass,7.2,20,Collected,2025-01-11,No,36.0
+B09-MET-01,2025-01-10,School Zone,Metal,3.3,20,Collected,2025-01-10,No,16.5
+B09-ORG-01,2025-01-10,School Zone,Organic,29.2,30,Collected,2025-01-11,No,97.33
+B09-PAP-01,2025-01-10,School Zone,Paper,10.5,20,Collected,2025-01-10,No,52.5
+B09-PLA-01,2025-01-10,School Zone,Plastic,13.5,20,Collected,2025-01-11,No,67.5
+B08-GLA-01,2025-01-11,Bus Depot,Glass,8.8,20,Collected,2025-01-11,No,44.0
+B08-MET-01,2025-01-11,Bus Depot,Metal,6.1,20,Collected,2025-01-11,No,30.5
+B08-ORG-01,2025-01-11,Bus Depot,Organic,38.6,50,Collected,2025-01-12,No,77.2
+B08-PAP-01,2025-01-11,Bus Depot,Paper,11.7,20,Collected,2025-01-11,No,58.5
+B08-PLA-01,2025-01-11,Bus Depot,Plastic,21.5,30,Pending,,No,71.67
+B10-GLA-01,2025-01-11,Central Park,Glass,6.6,20,Collected,2025-01-11,No,33.0
+B10-MET-01,2025-01-11,Central Park,Metal,3.8,20,Collected,2025-01-11,No,19.0
+B10-ORG-01,2025-01-11,Central Park,Organic,19.2,30,Pending,,No,64.0
+B10-PAP-01,2025-01-11,Central Park,Paper,7.6,20,Collected,2025-01-11,No,38.0
+B10-PLA-01,2025-01-11,Central Park,Plastic,7.3,20,Collected,2025-01-11,No,36.5
+B06-GLA-01,2025-01-11,Hospital Zone,Glass,10.3,20,Collected,2025-01-11,No,51.5
+B06-MET-01,2025-01-11,Hospital Zone,Metal,7.7,20,Collected,2025-01-12,No,38.5
+B06-ORG-01,2025-01-11,Hospital Zone,Organic,54.9,50,Collected,2025-01-11,Yes,109.8
+B06-PAP-01,2025-01-11,Hospital Zone,Paper,16.2,30,Collected,2025-01-12,No,54.0
+B06-PLA-01,2025-01-11,Hospital Zone,Plastic,19.7,30,Collected,2025-01-12,No,65.67
+B03-GLA-01,2025-01-11,Industrial Zone,Glass,12.5,20,Collected,2025-01-11,No,62.5
+B03-MET-01,2025-01-11,Industrial Zone,Metal,13.2,20,Collected,2025-01-12,No,66.0
+B03-ORG-01,2025-01-11,Industrial Zone,Organic,73.0,100,Collected,2025-01-11,No,73.0
+B03-PAP-01,2025-01-11,Industrial Zone,Paper,28.7,40,Collected,2025-01-12,No,71.75
+B03-PLA-01,2025-01-11,Industrial Zone,Plastic,30.5,40,Collected,2025-01-11,No,76.25
+B04-GLA-01,2025-01-11,Mall Complex,Glass,17.8,20,Collected,2025-01-12,No,89.0
+B04-MET-01,2025-01-11,Mall Complex,Metal,16.3,20,Collected,2025-01-11,No,81.5
+B04-PAP-01,2025-01-11,Mall Complex,Paper,20.9,30,Collected,2025-01-11,No,69.67
+B01-GLA-01,2025-01-11,Market Area,Glass,20.1,20,Collected,2025-01-12,Yes,100.5
+B01-MET-01,2025-01-11,Market Area,Metal,12.8,20,Collected,2025-01-12,No,64.0
+B01-ORG-01,2025-01-11,Market Area,Organic,82.1,90,Collected,2025-01-12,No,91.22
+B01-PAP-01,2025-01-11,Market Area,Paper,31.5,50,Pending,,No,63.0
+B01-PLA-01,2025-01-11,Market Area,Plastic,41.4,40,Collected,2025-01-12,Yes,103.5
+B02-GLA-01,2025-01-11,Railway Station,Glass,12.1,20,Collected,2025-01-11,No,60.5
+B02-MET-01,2025-01-11,Railway Station,Metal,10.8,20,Collected,2025-01-11,No,54.0
+B02-ORG-01,2025-01-11,Railway Station,Organic,66.1,80,Collected,2025-01-11,No,82.62
+B02-PAP-01,2025-01-11,Railway Station,Paper,31.7,40,Collected,2025-01-12,No,79.25
+B02-PLA-01,2025-01-11,Railway Station,Plastic,35.5,30,Collected,2025-01-12,Yes,118.33
+B05-GLA-01,2025-01-11,Residential Sector 1,Glass,8.6,20,Collected,2025-01-11,No,43.0
+B05-MET-01,2025-01-11,Residential Sector 1,Metal,9.1,20,Collected,2025-01-11,No,45.5
+B05-ORG-01,2025-01-11,Residential Sector 1,Organic,59.2,60,Collected,2025-01-12,No,98.67
+B05-PAP-01,2025-01-11,Residential Sector 1,Paper,22.8,20,Collected,2025-01-11,Yes,114.0
+B05-PLA-01,2025-01-11,Residential Sector 1,Plastic,26.1,30,Collected,2025-01-12,No,87.0
+B07-GLA-01,2025-01-11,Residential Sector 2,Glass,9.4,20,Collected,2025-01-11,No,47.0
+B07-MET-01,2025-01-11,Residential Sector 2,Metal,6.1,20,Collected,2025-01-11,No,30.5
+B07-ORG-01,2025-01-11,Residential Sector 2,Organic,41.3,70,Collected,2025-01-11,No,59.0
+B07-PAP-01,2025-01-11,Residential Sector 2,Paper,14.2,30,Collected,2025-01-11,No,47.33
+B07-PLA-01,2025-01-11,Residential Sector 2,Plastic,24.9,30,Collected,2025-01-12,No,83.0
+B09-GLA-01,2025-01-11,School Zone,Glass,7.6,20,Collected,2025-01-11,No,38.0
+B09-MET-01,2025-01-11,School Zone,Metal,3.4,20,Collected,2025-01-11,No,17.0
+B09-ORG-01,2025-01-11,School Zone,Organic,26.0,30,Collected,2025-01-11,No,86.67
+B09-PAP-01,2025-01-11,School Zone,Paper,11.0,20,Collected,2025-01-11,No,55.0
+B09-PLA-01,2025-01-11,School Zone,Plastic,15.5,20,Pending,,No,77.5
+B08-GLA-01,2025-01-12,Bus Depot,Glass,11.6,20,Collected,2025-01-12,No,58.0
+B08-MET-01,2025-01-12,Bus Depot,Metal,4.3,20,Collected,2025-01-13,No,21.5
+B08-ORG-01,2025-01-12,Bus Depot,Organic,44.5,50,Pending,,No,89.0
+B08-PAP-01,2025-01-12,Bus Depot,Paper,14.7,20,Collected,2025-01-13,No,73.5
+B08-PLA-01,2025-01-12,Bus Depot,Plastic,22.9,30,Collected,2025-01-12,No,76.33
+B10-GLA-01,2025-01-12,Central Park,Glass,4.0,20,Pending,,No,20.0
+B10-MET-01,2025-01-12,Central Park,Metal,5.3,20,Collected,2025-01-12,No,26.5
+B10-ORG-01,2025-01-12,Central Park,Organic,16.4,30,Collected,2025-01-13,No,54.67
+B10-PAP-01,2025-01-12,Central Park,Paper,8.8,20,Pending,,No,44.0
+B10-PLA-01,2025-01-12,Central Park,Plastic,14.5,20,Collected,2025-01-12,No,72.5
+B06-GLA-01,2025-01-12,Hospital Zone,Glass,8.6,20,Collected,2025-01-13,No,43.0
+B06-MET-01,2025-01-12,Hospital Zone,Metal,7.5,20,Collected,2025-01-12,No,37.5
+B06-ORG-01,2025-01-12,Hospital Zone,Organic,40.0,50,Pending,,No,80.0
+B06-PAP-01,2025-01-12,Hospital Zone,Paper,19.2,30,Collected,2025-01-12,No,64.0
+B06-PLA-01,2025-01-12,Hospital Zone,Plastic,22.5,30,Collected,2025-01-12,No,75.0
+B03-GLA-01,2025-01-12,Industrial Zone,Glass,11.4,20,Collected,2025-01-13,No,57.0
+B03-MET-01,2025-01-12,Industrial Zone,Metal,11.7,20,Collected,2025-01-12,No,58.5
+B03-ORG-01,2025-01-12,Industrial Zone,Organic,62.7,100,Collected,2025-01-12,No,62.7
+B03-PAP-01,2025-01-12,Industrial Zone,Paper,29.9,40,Collected,2025-01-13,No,74.75
+B03-PLA-01,2025-01-12,Industrial Zone,Plastic,31.1,40,Pending,,No,77.75
+B04-GLA-01,2025-01-12,Mall Complex,Glass,19.2,20,Collected,2025-01-12,No,96.0
+B04-MET-01,2025-01-12,Mall Complex,Metal,11.4,20,Collected,2025-01-12,No,57.0
+B04-ORG-01,2025-01-12,Mall Complex,Organic,85.3,90,Pending,,No,94.78
+B04-PAP-01,2025-01-12,Mall Complex,Paper,20.6,30,Collected,2025-01-12,No,68.67
+B04-PLA-01,2025-01-12,Mall Complex,Plastic,24.0,50,Collected,2025-01-12,No,48.0
+B01-GLA-01,2025-01-12,Market Area,Glass,23.6,20,Collected,2025-01-12,Yes,118.0
+B01-MET-01,2025-01-12,Market Area,Metal,16.7,20,Collected,2025-01-13,No,83.5
+B01-ORG-01,2025-01-12,Market Area,Organic,97.7,90,Collected,2025-01-12,Yes,108.56
+B01-PAP-01,2025-01-12,Market Area,Paper,36.3,50,Collected,2025-01-12,No,72.6
+B01-PLA-01,2025-01-12,Market Area,Plastic,31.1,40,Collected,2025-01-12,No,77.75
+B02-GLA-01,2025-01-12,Railway Station,Glass,15.7,20,Collected,2025-01-12,No,78.5
+B02-MET-01,2025-01-12,Railway Station,Metal,13.8,20,Collected,2025-01-12,No,69.0
+B02-ORG-01,2025-01-12,Railway Station,Organic,63.7,80,Collected,2025-01-13,No,79.62
+B02-PAP-01,2025-01-12,Railway Station,Paper,38.4,40,Collected,2025-01-12,No,96.0
+B02-PLA-01,2025-01-12,Railway Station,Plastic,24.6,30,Collected,2025-01-12,No,82.0
+B05-GLA-01,2025-01-12,Residential Sector 1,Glass,11.3,20,Collected,2025-01-12,No,56.5
+B05-MET-01,2025-01-12,Residential Sector 1,Metal,9.1,20,Collected,2025-01-13,No,45.5
+B05-ORG-01,2025-01-12,Residential Sector 1,Organic,62.0,60,Collected,2025-01-13,Yes,103.33
+B05-PAP-01,2025-01-12,Residential Sector 1,Paper,25.2,20,Collected,2025-01-12,Yes,126.0
+B05-PLA-01,2025-01-12,Residential Sector 1,Plastic,28.9,30,Collected,2025-01-12,No,96.33
+B07-GLA-01,2025-01-12,Residential Sector 2,Glass,10.9,20,Collected,2025-01-12,No,54.5
+B07-MET-01,2025-01-12,Residential Sector 2,Metal,7.8,20,Collected,2025-01-12,No,39.0
+B07-ORG-01,2025-01-12,Residential Sector 2,Organic,52.4,70,Collected,2025-01-12,No,74.86
+B07-PAP-01,2025-01-12,Residential Sector 2,Paper,19.6,30,Collected,2025-01-13,No,65.33
+B07-PLA-01,2025-01-12,Residential Sector 2,Plastic,17.1,30,Collected,2025-01-12,No,57.0
+B09-GLA-01,2025-01-12,School Zone,Glass,6.2,20,Collected,2025-01-12,No,31.0
+B09-MET-01,2025-01-12,School Zone,Metal,3.7,20,Collected,2025-01-12,No,18.5
+B09-ORG-01,2025-01-12,School Zone,Organic,24.5,30,Collected,2025-01-12,No,81.67
+B09-PAP-01,2025-01-12,School Zone,Paper,12.5,20,Collected,2025-01-12,No,62.5
+B09-PLA-01,2025-01-12,School Zone,Plastic,15.4,20,Collected,2025-01-12,No,77.0
+B08-GLA-01,2025-01-13,Bus Depot,Glass,8.7,20,Collected,2025-01-14,No,43.5
+B08-MET-01,2025-01-13,Bus Depot,Metal,6.0,20,Collected,2025-01-13,No,30.0
+B08-ORG-01,2025-01-13,Bus Depot,Organic,31.8,50,Collected,2025-01-13,No,63.6
+B08-PAP-01,2025-01-13,Bus Depot,Paper,14.6,20,Collected,2025-01-13,No,73.0
+B08-PLA-01,2025-01-13,Bus Depot,Plastic,19.0,30,Collected,2025-01-14,No,63.33
+B10-GLA-01,2025-01-13,Central Park,Glass,4.4,20,Collected,2025-01-13,No,22.0
+B10-MET-01,2025-01-13,Central Park,Metal,4.7,20,Collected,2025-01-13,No,23.5
+B10-ORG-01,2025-01-13,Central Park,Organic,13.2,30,Collected,2025-01-13,No,44.0
+B10-PAP-01,2025-01-13,Central Park,Paper,6.9,20,Pending,,No,34.5
+B10-PLA-01,2025-01-13,Central Park,Plastic,12.5,20,Pending,,No,62.5
+B06-GLA-01,2025-01-13,Hospital Zone,Glass,7.9,20,Collected,2025-01-13,No,39.5
+B06-MET-01,2025-01-13,Hospital Zone,Metal,6.3,20,Collected,2025-01-13,No,31.5
+B06-ORG-01,2025-01-13,Hospital Zone,Organic,36.4,50,Pending,,No,72.8
+B06-PAP-01,2025-01-13,Hospital Zone,Paper,22.1,30,Collected,2025-01-14,No,73.67
+B06-PLA-01,2025-01-13,Hospital Zone,Plastic,19.4,30,Collected,2025-01-13,No,64.67
+B03-GLA-01,2025-01-13,Industrial Zone,Glass,12.1,20,Collected,2025-01-13,No,60.5
+B03-MET-01,2025-01-13,Industrial Zone,Metal,12.8,20,Collected,2025-01-13,No,64.0
+B03-ORG-01,2025-01-13,Industrial Zone,Organic,59.4,100,Collected,2025-01-13,No,59.4
+B03-PAP-01,2025-01-13,Industrial Zone,Paper,24.8,40,Collected,2025-01-13,No,62.0
+B03-PLA-01,2025-01-13,Industrial Zone,Plastic,41.3,40,Collected,2025-01-14,Yes,103.25
+B04-GLA-01,2025-01-13,Mall Complex,Glass,14.4,20,Collected,2025-01-13,No,72.0
+B04-MET-01,2025-01-13,Mall Complex,Metal,11.7,20,Collected,2025-01-13,No,58.5
+B04-ORG-01,2025-01-13,Mall Complex,Organic,75.3,90,Collected,2025-01-13,No,83.67
+B04-PAP-01,2025-01-13,Mall Complex,Paper,16.2,30,Collected,2025-01-13,No,54.0
+B04-PLA-01,2025-01-13,Mall Complex,Plastic,34.1,50,Collected,2025-01-13,No,68.2
+B01-GLA-01,2025-01-13,Market Area,Glass,17.2,20,Pending,,No,86.0
+B01-MET-01,2025-01-13,Market Area,Metal,14.1,20,Collected,2025-01-14,No,70.5
+B01-ORG-01,2025-01-13,Market Area,Organic,85.1,90,Collected,2025-01-14,No,94.56
+B01-PAP-01,2025-01-13,Market Area,Paper,23.7,50,Pending,,No,47.4
+B01-PLA-01,2025-01-13,Market Area,Plastic,32.7,40,Collected,2025-01-13,No,81.75
+B02-GLA-01,2025-01-13,Railway Station,Glass,16.9,20,Collected,2025-01-13,No,84.5
+B02-MET-01,2025-01-13,Railway Station,Metal,10.6,20,Collected,2025-01-14,No,53.0
+B02-ORG-01,2025-01-13,Railway Station,Organic,75.2,80,Pending,,No,94.0
+B02-PAP-01,2025-01-13,Railway Station,Paper,29.7,40,Pending,,No,74.25
+B02-PLA-01,2025-01-13,Railway Station,Plastic,23.7,30,Pending,,No,79.0
+B05-GLA-01,2025-01-13,Residential Sector 1,Glass,9.1,20,Collected,2025-01-13,No,45.5
+B05-MET-01,2025-01-13,Residential Sector 1,Metal,10.4,20,Collected,2025-01-13,No,52.0
+B05-ORG-01,2025-01-13,Residential Sector 1,Organic,51.6,60,Collected,2025-01-14,No,86.0
+B05-PAP-01,2025-01-13,Residential Sector 1,Paper,16.5,20,Collected,2025-01-13,No,82.5
+B05-PLA-01,2025-01-13,Residential Sector 1,Plastic,13.9,30,Collected,2025-01-13,No,46.33
+B07-GLA-01,2025-01-13,Residential Sector 2,Glass,7.8,20,Collected,2025-01-13,No,39.0
+B07-MET-01,2025-01-13,Residential Sector 2,Metal,6.1,20,Collected,2025-01-13,No,30.5
+B07-ORG-01,2025-01-13,Residential Sector 2,Organic,47.1,70,Collected,2025-01-14,No,67.29
+B07-PAP-01,2025-01-13,Residential Sector 2,Paper,17.4,30,Collected,2025-01-13,No,58.0
+B07-PLA-01,2025-01-13,Residential Sector 2,Plastic,22.7,30,Collected,2025-01-13,No,75.67
+B09-GLA-01,2025-01-13,School Zone,Glass,6.2,20,Collected,2025-01-13,No,31.0
+B09-MET-01,2025-01-13,School Zone,Metal,3.8,20,Pending,,No,19.0
+B09-ORG-01,2025-01-13,School Zone,Organic,27.0,30,Collected,2025-01-13,No,90.0
+B09-PAP-01,2025-01-13,School Zone,Paper,12.6,20,Collected,2025-01-14,No,63.0
+B09-PLA-01,2025-01-13,School Zone,Plastic,9.6,20,Collected,2025-01-13,No,48.0
+B08-GLA-01,2025-01-14,Bus Depot,Glass,9.0,20,Collected,2025-01-14,No,45.0
+B08-MET-01,2025-01-14,Bus Depot,Metal,6.9,20,Pending,,No,34.5
+B08-ORG-01,2025-01-14,Bus Depot,Organic,46.2,50,Collected,2025-01-14,No,92.4
+B08-PAP-01,2025-01-14,Bus Depot,Paper,13.7,20,Collected,2025-01-14,No,68.5
+B08-PLA-01,2025-01-14,Bus Depot,Plastic,23.4,30,Collected,2025-01-14,No,78.0
+B10-GLA-01,2025-01-14,Central Park,Glass,4.6,20,Collected,2025-01-15,No,23.0
+B10-MET-01,2025-01-14,Central Park,Metal,3.5,20,Collected,2025-01-15,No,17.5
+B10-ORG-01,2025-01-14,Central Park,Organic,16.4,30,Collected,2025-01-15,No,54.67
+B10-PAP-01,2025-01-14,Central Park,Paper,7.0,20,Collected,2025-01-15,No,35.0
+B10-PLA-01,2025-01-14,Central Park,Plastic,8.5,20,Collected,2025-01-14,No,42.5
+B06-GLA-01,2025-01-14,Hospital Zone,Glass,8.8,20,Collected,2025-01-14,No,44.0
+B06-MET-01,2025-01-14,Hospital Zone,Metal,6.3,20,Collected,2025-01-15,No,31.5
+B06-ORG-01,2025-01-14,Hospital Zone,Organic,38.3,50,Collected,2025-01-14,No,76.6
+B06-PAP-01,2025-01-14,Hospital Zone,Paper,20.3,30,Collected,2025-01-14,No,67.67
+B06-PLA-01,2025-01-14,Hospital Zone,Plastic,20.7,30,Collected,2025-01-15,No,69.0
+B03-GLA-01,2025-01-14,Industrial Zone,Glass,15.1,20,Collected,2025-01-14,No,75.5
+B03-MET-01,2025-01-14,Industrial Zone,Metal,11.0,20,Collected,2025-01-14,No,55.0
+B03-ORG-01,2025-01-14,Industrial Zone,Organic,59.9,100,Collected,2025-01-15,No,59.9
+B03-PAP-01,2025-01-14,Industrial Zone,Paper,25.6,40,Collected,2025-01-14,No,64.0
+B04-GLA-01,2025-01-14,Mall Complex,Glass,12.4,20,Collected,2025-01-15,No,62.0
+B04-MET-01,2025-01-14,Mall Complex,Metal,9.7,20,Pending,,No,48.5
+B04-ORG-01,2025-01-14,Mall Complex,Organic,68.5,90,Collected,2025-01-14,No,76.11
+B04-PAP-01,2025-01-14,Mall Complex,Paper,24.7,30,Pending,,No,82.33
+B04-PLA-01,2025-01-14,Mall Complex,Plastic,38.1,50,Pending,,No,76.2
+B01-GLA-01,2025-01-14,Market Area,Glass,18.5,20,Collected,2025-01-15,No,92.5
+B01-MET-01,2025-01-14,Market Area,Metal,12.4,20,Collected,2025-01-15,No,62.0
+B01-ORG-01,2025-01-14,Market Area,Organic,81.5,90,Collected,2025-01-15,No,90.56
+B01-PAP-01,2025-01-14,Market Area,Paper,34.9,50,Collected,2025-01-14,No,69.8
+B01-PLA-01,2025-01-14,Market Area,Plastic,39.4,40,Collected,2025-01-14,No,98.5
+B02-GLA-01,2025-01-14,Railway Station,Glass,13.7,20,Collected,2025-01-15,No,68.5
+B02-MET-01,2025-01-14,Railway Station,Metal,12.6,20,Collected,2025-01-15,No,63.0
+B02-ORG-01,2025-01-14,Railway Station,Organic,67.0,80,Collected,2025-01-14,No,83.75
+B02-PAP-01,2025-01-14,Railway Station,Paper,23.0,40,Collected,2025-01-14,No,57.5
+B02-PLA-01,2025-01-14,Railway Station,Plastic,29.2,30,Collected,2025-01-15,No,97.33
+B05-GLA-01,2025-01-14,Residential Sector 1,Glass,7.9,20,Collected,2025-01-15,No,39.5
+B05-MET-01,2025-01-14,Residential Sector 1,Metal,10.2,20,Pending,,No,51.0
+B05-ORG-01,2025-01-14,Residential Sector 1,Organic,44.8,60,Collected,2025-01-14,No,74.67
+B05-PAP-01,2025-01-14,Residential Sector 1,Paper,16.9,20,Collected,2025-01-14,No,84.5
+B05-PLA-01,2025-01-14,Residential Sector 1,Plastic,17.0,30,Collected,2025-01-14,No,56.67
+B07-GLA-01,2025-01-14,Residential Sector 2,Glass,11.0,20,Pending,,No,55.0
+B07-MET-01,2025-01-14,Residential Sector 2,Metal,9.6,20,Collected,2025-01-14,No,48.0
+B07-ORG-01,2025-01-14,Residential Sector 2,Organic,50.6,70,Collected,2025-01-14,No,72.29
+B07-PAP-01,2025-01-14,Residential Sector 2,Paper,14.4,30,Collected,2025-01-15,No,48.0
+B07-PLA-01,2025-01-14,Residential Sector 2,Plastic,25.3,30,Collected,2025-01-15,No,84.33
+B09-GLA-01,2025-01-14,School Zone,Glass,6.0,20,Pending,,No,30.0
+B09-MET-01,2025-01-14,School Zone,Metal,3.2,20,Collected,2025-01-14,No,16.0
+B09-ORG-01,2025-01-14,School Zone,Organic,17.6,30,Pending,,No,58.67
+B09-PAP-01,2025-01-14,School Zone,Paper,8.4,20,Collected,2025-01-14,No,42.0
+B09-PLA-01,2025-01-14,School Zone,Plastic,13.0,20,Collected,2025-01-14,No,65.0
+B08-GLA-01,2025-01-15,Bus Depot,Glass,7.9,20,Pending,,No,39.5
+B08-MET-01,2025-01-15,Bus Depot,Metal,5.9,20,Collected,2025-01-15,No,29.5
+B08-ORG-01,2025-01-15,Bus Depot,Organic,34.8,50,Collected,2025-01-16,No,69.6
+B08-PAP-01,2025-01-15,Bus Depot,Paper,17.5,20,Pending,,No,87.5
+B08-PLA-01,2025-01-15,Bus Depot,Plastic,16.0,30,Collected,2025-01-15,No,53.33
+B10-GLA-01,2025-01-15,Central Park,Glass,4.6,20,Collected,2025-01-15,No,23.0
+B10-MET-01,2025-01-15,Central Park,Metal,3.7,20,Collected,2025-01-15,No,18.5
+B10-ORG-01,2025-01-15,Central Park,Organic,17.8,30,Collected,2025-01-15,No,59.33
+B10-PAP-01,2025-01-15,Central Park,Paper,7.4,20,Collected,2025-01-15,No,37.0
+B10-PLA-01,2025-01-15,Central Park,Plastic,9.0,20,Collected,2025-01-15,No,45.0
+B06-GLA-01,2025-01-15,Hospital Zone,Glass,7.1,20,Collected,2025-01-15,No,35.5
+B06-MET-01,2025-01-15,Hospital Zone,Metal,6.1,20,Collected,2025-01-15,No,30.5
+B06-ORG-01,2025-01-15,Hospital Zone,Organic,42.8,50,Pending,,No,85.6
+B06-PAP-01,2025-01-15,Hospital Zone,Paper,18.2,30,Collected,2025-01-16,No,60.67
+B06-PLA-01,2025-01-15,Hospital Zone,Plastic,19.8,30,Pending,,No,66.0
+B03-GLA-01,2025-01-15,Industrial Zone,Glass,12.9,20,Collected,2025-01-15,No,64.5
+B03-MET-01,2025-01-15,Industrial Zone,Metal,10.4,20,Collected,2025-01-16,No,52.0
+B03-ORG-01,2025-01-15,Industrial Zone,Organic,57.6,100,Pending,,No,57.6
+B03-PAP-01,2025-01-15,Industrial Zone,Paper,29.0,40,Collected,2025-01-16,No,72.5
+B03-PLA-01,2025-01-15,Industrial Zone,Plastic,21.8,40,Collected,2025-01-15,No,54.5
+B04-GLA-01,2025-01-15,Mall Complex,Glass,12.0,20,Collected,2025-01-15,No,60.0
+B04-MET-01,2025-01-15,Mall Complex,Metal,12.4,20,Collected,2025-01-15,No,62.0
+B04-ORG-01,2025-01-15,Mall Complex,Organic,68.2,90,Collected,2025-01-15,No,75.78
+B04-PAP-01,2025-01-15,Mall Complex,Paper,17.8,30,Collected,2025-01-15,No,59.33
+B04-PLA-01,2025-01-15,Mall Complex,Plastic,32.0,50,Pending,,No,64.0
+B01-GLA-01,2025-01-15,Market Area,Glass,12.8,20,Collected,2025-01-16,No,64.0
+B01-MET-01,2025-01-15,Market Area,Metal,12.7,20,Collected,2025-01-15,No,63.5
+B01-ORG-01,2025-01-15,Market Area,Organic,50.3,90,Collected,2025-01-15,No,55.89
+B01-PAP-01,2025-01-15,Market Area,Paper,37.4,50,Collected,2025-01-16,No,74.8
+B01-PLA-01,2025-01-15,Market Area,Plastic,34.6,40,Collected,2025-01-15,No,86.5
+B02-GLA-01,2025-01-15,Railway Station,Glass,15.7,20,Collected,2025-01-16,No,78.5
+B02-MET-01,2025-01-15,Railway Station,Metal,12.5,20,Collected,2025-01-16,No,62.5
+B02-ORG-01,2025-01-15,Railway Station,Organic,72.7,80,Collected,2025-01-15,No,90.88
+B02-PAP-01,2025-01-15,Railway Station,Paper,22.1,40,Collected,2025-01-15,No,55.25
+B02-PLA-01,2025-01-15,Railway Station,Plastic,24.7,30,Collected,2025-01-15,No,82.33
+B05-GLA-01,2025-01-15,Residential Sector 1,Glass,9.8,20,Pending,,No,49.0
+B05-MET-01,2025-01-15,Residential Sector 1,Metal,8.4,20,Collected,2025-01-16,No,42.0
+B05-ORG-01,2025-01-15,Residential Sector 1,Organic,38.9,60,Collected,2025-01-16,No,64.83
+B05-PAP-01,2025-01-15,Residential Sector 1,Paper,18.6,20,Pending,,No,93.0
+B05-PLA-01,2025-01-15,Residential Sector 1,Plastic,24.5,30,Collected,2025-01-15,No,81.67
+B07-GLA-01,2025-01-15,Residential Sector 2,Glass,11.2,20,Pending,,No,56.0
+B07-MET-01,2025-01-15,Residential Sector 2,Metal,7.7,20,Collected,2025-01-15,No,38.5
+B07-ORG-01,2025-01-15,Residential Sector 2,Organic,46.9,70,Collected,2025-01-16,No,67.0
+B07-PAP-01,2025-01-15,Residential Sector 2,Paper,22.8,30,Collected,2025-01-15,No,76.0
+B07-PLA-01,2025-01-15,Residential Sector 2,Plastic,26.3,30,Collected,2025-01-16,No,87.67
+B09-GLA-01,2025-01-15,School Zone,Glass,7.5,20,Collected,2025-01-15,No,37.5
+B09-MET-01,2025-01-15,School Zone,Metal,4.2,20,Collected,2025-01-15,No,21.0
+B09-ORG-01,2025-01-15,School Zone,Organic,23.7,30,Collected,2025-01-16,No,79.0
+B09-PAP-01,2025-01-15,School Zone,Paper,10.6,20,Collected,2025-01-16,No,53.0
+B09-PLA-01,2025-01-15,School Zone,Plastic,11.7,20,Collected,2025-01-15,No,58.5
+B08-GLA-01,2025-01-16,Bus Depot,Glass,9.8,20,Pending,,No,49.0
+B08-MET-01,2025-01-16,Bus Depot,Metal,5.8,20,Collected,2025-01-16,No,29.0
+B08-PAP-01,2025-01-16,Bus Depot,Paper,13.7,20,Collected,2025-01-16,No,68.5
+B08-PLA-01,2025-01-16,Bus Depot,Plastic,17.1,30,Collected,2025-01-16,No,57.0
+B10-GLA-01,2025-01-16,Central Park,Glass,5.6,20,Collected,2025-01-16,No,28.0
+B10-MET-01,2025-01-16,Central Park,Metal,4.8,20,Collected,2025-01-16,No,24.0
+B10-ORG-01,2025-01-16,Central Park,Organic,16.3,30,Collected,2025-01-16,No,54.33
+B10-PAP-01,2025-01-16,Central Park,Paper,8.1,20,Collected,2025-01-16,No,40.5
+B10-PLA-01,2025-01-16,Central Park,Plastic,12.1,20,Pending,,No,60.5
+B06-GLA-01,2025-01-16,Hospital Zone,Glass,7.1,20,Collected,2025-01-17,No,35.5
+B06-MET-01,2025-01-16,Hospital Zone,Metal,6.6,20,Collected,2025-01-16,No,33.0
+B06-ORG-01,2025-01-16,Hospital Zone,Organic,51.3,50,Collected,2025-01-17,Yes,102.6
+B06-PAP-01,2025-01-16,Hospital Zone,Paper,15.2,30,Pending,,No,50.67
+B06-PLA-01,2025-01-16,Hospital Zone,Plastic,19.2,30,Collected,2025-01-16,No,64.0
+B03-GLA-01,2025-01-16,Industrial Zone,Glass,13.4,20,Pending,,No,67.0
+B03-MET-01,2025-01-16,Industrial Zone,Metal,11.0,20,Collected,2025-01-16,No,55.0
+B03-ORG-01,2025-01-16,Industrial Zone,Organic,82.9,100,Collected,2025-01-16,No,82.9
+B03-PAP-01,2025-01-16,Industrial Zone,Paper,28.5,40,Pending,,No,71.25
+B03-PLA-01,2025-01-16,Industrial Zone,Plastic,19.7,40,Pending,,No,49.25
+B04-GLA-01,2025-01-16,Mall Complex,Glass,12.8,20,Pending,,No,64.0
+B04-MET-01,2025-01-16,Mall Complex,Metal,9.0,20,Collected,2025-01-17,No,45.0
+B04-ORG-01,2025-01-16,Mall Complex,Organic,75.3,90,Collected,2025-01-16,No,83.67
+B04-PAP-01,2025-01-16,Mall Complex,Paper,18.7,30,Collected,2025-01-16,No,62.33
+B04-PLA-01,2025-01-16,Mall Complex,Plastic,30.2,50,Collected,2025-01-16,No,60.4
+B01-GLA-01,2025-01-16,Market Area,Glass,19.2,20,Collected,2025-01-16,No,96.0
+B01-MET-01,2025-01-16,Market Area,Metal,10.5,20,Collected,2025-01-16,No,52.5
+B01-ORG-01,2025-01-16,Market Area,Organic,95.4,90,Pending,,Yes,106.0
+B01-PAP-01,2025-01-16,Market Area,Paper,29.2,50,Collected,2025-01-16,No,58.4
+B01-PLA-01,2025-01-16,Market Area,Plastic,27.4,40,Collected,2025-01-16,No,68.5
+B02-GLA-01,2025-01-16,Railway Station,Glass,11.9,20,Collected,2025-01-16,No,59.5
+B02-MET-01,2025-01-16,Railway Station,Metal,14.5,20,Collected,2025-01-17,No,72.5
+B02-ORG-01,2025-01-16,Railway Station,Organic,63.8,80,Collected,2025-01-16,No,79.75
+B02-PAP-01,2025-01-16,Railway Station,Paper,25.4,40,Pending,,No,63.5
+B02-PLA-01,2025-01-16,Railway Station,Plastic,25.3,30,Collected,2025-01-16,No,84.33
+B05-GLA-01,2025-01-16,Residential Sector 1,Glass,9.6,20,Collected,2025-01-17,No,48.0
+B05-MET-01,2025-01-16,Residential Sector 1,Metal,12.4,20,Collected,2025-01-16,No,62.0
+B05-ORG-01,2025-01-16,Residential Sector 1,Organic,45.3,60,Collected,2025-01-17,No,75.5
+B05-PAP-01,2025-01-16,Residential Sector 1,Paper,13.3,20,Collected,2025-01-16,No,66.5
+B05-PLA-01,2025-01-16,Residential Sector 1,Plastic,23.2,30,Collected,2025-01-16,No,77.33
+B07-GLA-01,2025-01-16,Residential Sector 2,Glass,5.1,20,Collected,2025-01-16,No,25.5
+B07-MET-01,2025-01-16,Residential Sector 2,Metal,5.3,20,Collected,2025-01-16,No,26.5
+B07-ORG-01,2025-01-16,Residential Sector 2,Organic,44.9,70,Pending,,No,64.14
+B07-PAP-01,2025-01-16,Residential Sector 2,Paper,17.9,30,Collected,2025-01-16,No,59.67
+B07-PLA-01,2025-01-16,Residential Sector 2,Plastic,19.7,30,Collected,2025-01-16,No,65.67
+B09-GLA-01,2025-01-16,School Zone,Glass,7.0,20,Collected,2025-01-16,No,35.0
+B09-MET-01,2025-01-16,School Zone,Metal,3.6,20,Pending,,No,18.0
+B09-ORG-01,2025-01-16,School Zone,Organic,22.2,30,Collected,2025-01-16,No,74.0
+B09-PAP-01,2025-01-16,School Zone,Paper,8.9,20,Collected,2025-01-16,No,44.5
+B09-PLA-01,2025-01-16,School Zone,Plastic,12.7,20,Collected,2025-01-16,No,63.5
+B08-GLA-01,2025-01-17,Bus Depot,Glass,11.2,20,Collected,2025-01-18,No,56.0
+B08-MET-01,2025-01-17,Bus Depot,Metal,5.8,20,Collected,2025-01-18,No,29.0
+B08-ORG-01,2025-01-17,Bus Depot,Organic,35.7,50,Collected,2025-01-17,No,71.4
+B08-PAP-01,2025-01-17,Bus Depot,Paper,14.7,20,Collected,2025-01-18,No,73.5
+B08-PLA-01,2025-01-17,Bus Depot,Plastic,17.6,30,Collected,2025-01-17,No,58.67
+B10-GLA-01,2025-01-17,Central Park,Glass,5.4,20,Collected,2025-01-17,No,27.0
+B10-MET-01,2025-01-17,Central Park,Metal,3.1,20,Collected,2025-01-17,No,15.5
+B10-ORG-01,2025-01-17,Central Park,Organic,19.3,30,Collected,2025-01-17,No,64.33
+B10-PAP-01,2025-01-17,Central Park,Paper,9.4,20,Collected,2025-01-17,No,47.0
+B10-PLA-01,2025-01-17,Central Park,Plastic,10.3,20,Collected,2025-01-18,No,51.5
+B06-GLA-01,2025-01-17,Hospital Zone,Glass,9.0,20,Pending,,No,45.0
+B06-MET-01,2025-01-17,Hospital Zone,Metal,6.1,20,Collected,2025-01-17,No,30.5
+B06-ORG-01,2025-01-17,Hospital Zone,Organic,49.8,50,Collected,2025-01-17,No,99.6
+B06-PAP-01,2025-01-17,Hospital Zone,Paper,15.1,30,Collected,2025-01-18,No,50.33
+B06-PLA-01,2025-01-17,Hospital Zone,Plastic,19.8,30,Pending,,No,66.0
+B03-GLA-01,2025-01-17,Industrial Zone,Glass,13.3,20,Collected,2025-01-17,No,66.5
+B03-MET-01,2025-01-17,Industrial Zone,Metal,13.9,20,Collected,2025-01-17,No,69.5
+B03-ORG-01,2025-01-17,Industrial Zone,Organic,72.2,100,Collected,2025-01-17,No,72.2
+B03-PAP-01,2025-01-17,Industrial Zone,Paper,30.1,40,Collected,2025-01-17,No,75.25
+B03-PLA-01,2025-01-17,Industrial Zone,Plastic,31.2,40,Collected,2025-01-17,No,78.0
+B04-GLA-01,2025-01-17,Mall Complex,Glass,11.5,20,Collected,2025-01-17,No,57.5
+B04-MET-01,2025-01-17,Mall Complex,Metal,10.9,20,Collected,2025-01-17,No,54.5
+B04-ORG-01,2025-01-17,Mall Complex,Organic,61.5,90,Collected,2025-01-17,No,68.33
+B04-PAP-01,2025-01-17,Mall Complex,Paper,22.7,30,Collected,2025-01-18,No,75.67
+B04-PLA-01,2025-01-17,Mall Complex,Plastic,32.3,50,Collected,2025-01-17,No,64.6
+B01-GLA-01,2025-01-17,Market Area,Glass,18.7,20,Collected,2025-01-17,No,93.5
+B01-MET-01,2025-01-17,Market Area,Metal,11.0,20,Pending,,No,55.0
+B01-ORG-01,2025-01-17,Market Area,Organic,66.1,90,Collected,2025-01-17,No,73.44
+B01-PAP-01,2025-01-17,Market Area,Paper,33.0,50,Pending,,No,66.0
+B01-PLA-01,2025-01-17,Market Area,Plastic,31.0,40,Collected,2025-01-18,No,77.5
+B02-GLA-01,2025-01-17,Railway Station,Glass,14.5,20,Collected,2025-01-17,No,72.5
+B02-MET-01,2025-01-17,Railway Station,Metal,9.7,20,Collected,2025-01-17,No,48.5
+B02-ORG-01,2025-01-17,Railway Station,Organic,60.8,80,Collected,2025-01-17,No,76.0
+B02-PAP-01,2025-01-17,Railway Station,Paper,23.7,40,Collected,2025-01-17,No,59.25
+B02-PLA-01,2025-01-17,Railway Station,Plastic,23.0,30,Collected,2025-01-17,No,76.67
+B05-GLA-01,2025-01-17,Residential Sector 1,Glass,10.9,20,Collected,2025-01-17,No,54.5
+B05-MET-01,2025-01-17,Residential Sector 1,Metal,10.5,20,Collected,2025-01-17,No,52.5
+B05-ORG-01,2025-01-17,Residential Sector 1,Organic,52.9,60,Collected,2025-01-17,No,88.17
+B05-PAP-01,2025-01-17,Residential Sector 1,Paper,18.3,20,Collected,2025-01-18,No,91.5
+B05-PLA-01,2025-01-17,Residential Sector 1,Plastic,22.6,30,Collected,2025-01-17,No,75.33
+B07-GLA-01,2025-01-17,Residential Sector 2,Glass,6.8,20,Collected,2025-01-17,No,34.0
+B07-MET-01,2025-01-17,Residential Sector 2,Metal,7.1,20,Collected,2025-01-17,No,35.5
+B07-ORG-01,2025-01-17,Residential Sector 2,Organic,49.2,70,Pending,,No,70.29
+B07-PAP-01,2025-01-17,Residential Sector 2,Paper,19.1,30,Collected,2025-01-18,No,63.67
+B07-PLA-01,2025-01-17,Residential Sector 2,Plastic,17.5,30,Collected,2025-01-17,No,58.33
+B09-GLA-01,2025-01-17,School Zone,Glass,4.8,20,Collected,2025-01-17,No,24.0
+B09-MET-01,2025-01-17,School Zone,Metal,3.2,20,Collected,2025-01-18,No,16.0
+B09-ORG-01,2025-01-17,School Zone,Organic,32.0,30,Collected,2025-01-18,Yes,106.67
+B09-PAP-01,2025-01-17,School Zone,Paper,10.5,20,Collected,2025-01-17,No,52.5
+B09-PLA-01,2025-01-17,School Zone,Plastic,12.2,20,Collected,2025-01-18,No,61.0
+B08-GLA-01,2025-01-18,Bus Depot,Glass,9.0,20,Pending,,No,45.0
+B08-MET-01,2025-01-18,Bus Depot,Metal,5.0,20,Collected,2025-01-18,No,25.0
+B08-ORG-01,2025-01-18,Bus Depot,Organic,36.5,50,Collected,2025-01-19,No,73.0
+B08-PAP-01,2025-01-18,Bus Depot,Paper,16.2,20,Collected,2025-01-18,No,81.0
+B08-PLA-01,2025-01-18,Bus Depot,Plastic,29.9,30,Collected,2025-01-19,No,99.67
+B10-GLA-01,2025-01-18,Central Park,Glass,5.3,20,Collected,2025-01-18,No,26.5
+B10-MET-01,2025-01-18,Central Park,Metal,3.4,20,Collected,2025-01-18,No,17.0
+B10-ORG-01,2025-01-18,Central Park,Organic,18.0,30,Collected,2025-01-19,No,60.0
+B10-PAP-01,2025-01-18,Central Park,Paper,7.4,20,Collected,2025-01-18,No,37.0
+B10-PLA-01,2025-01-18,Central Park,Plastic,10.3,20,Collected,2025-01-19,No,51.5
+B06-GLA-01,2025-01-18,Hospital Zone,Glass,9.8,20,Collected,2025-01-18,No,49.0
+B06-MET-01,2025-01-18,Hospital Zone,Metal,8.1,20,Collected,2025-01-19,No,40.5
+B06-ORG-01,2025-01-18,Hospital Zone,Organic,52.5,50,Collected,2025-01-18,Yes,105.0
+B06-PAP-01,2025-01-18,Hospital Zone,Paper,16.3,30,Collected,2025-01-18,No,54.33
+B06-PLA-01,2025-01-18,Hospital Zone,Plastic,22.7,30,Collected,2025-01-19,No,75.67
+B03-GLA-01,2025-01-18,Industrial Zone,Glass,16.0,20,Collected,2025-01-18,No,80.0
+B03-MET-01,2025-01-18,Industrial Zone,Metal,11.8,20,Collected,2025-01-18,No,59.0
+B03-ORG-01,2025-01-18,Industrial Zone,Organic,72.5,100,Pending,,No,72.5
+B03-PAP-01,2025-01-18,Industrial Zone,Paper,27.8,40,Collected,2025-01-18,No,69.5
+B03-PLA-01,2025-01-18,Industrial Zone,Plastic,36.2,40,Collected,2025-01-18,No,90.5
+B04-GLA-01,2025-01-18,Mall Complex,Glass,15.2,20,Collected,2025-01-19,No,76.0
+B04-MET-01,2025-01-18,Mall Complex,Metal,11.2,20,Collected,2025-01-19,No,56.0
+B04-ORG-01,2025-01-18,Mall Complex,Organic,68.5,90,Collected,2025-01-18,No,76.11
+B04-PAP-01,2025-01-18,Mall Complex,Paper,14.2,30,Collected,2025-01-18,No,47.33
+B04-PLA-01,2025-01-18,Mall Complex,Plastic,37.1,50,Collected,2025-01-18,No,74.2
+B01-GLA-01,2025-01-18,Market Area,Glass,17.6,20,Collected,2025-01-18,No,88.0
+B01-MET-01,2025-01-18,Market Area,Metal,13.4,20,Collected,2025-01-19,No,67.0
+B01-ORG-01,2025-01-18,Market Area,Organic,97.3,90,Collected,2025-01-18,Yes,108.11
+B01-PAP-01,2025-01-18,Market Area,Paper,36.4,50,Collected,2025-01-18,No,72.8
+B01-PLA-01,2025-01-18,Market Area,Plastic,39.9,40,Collected,2025-01-18,No,99.75
+B02-GLA-01,2025-01-18,Railway Station,Glass,16.8,20,Collected,2025-01-19,No,84.0
+B02-MET-01,2025-01-18,Railway Station,Metal,15.7,20,Collected,2025-01-18,No,78.5
+B02-ORG-01,2025-01-18,Railway Station,Organic,62.1,80,Collected,2025-01-18,No,77.62
+B02-PAP-01,2025-01-18,Railway Station,Paper,25.9,40,Collected,2025-01-18,No,64.75
+B02-PLA-01,2025-01-18,Railway Station,Plastic,33.5,30,Collected,2025-01-19,Yes,111.67
+B05-GLA-01,2025-01-18,Residential Sector 1,Glass,10.7,20,Collected,2025-01-18,No,53.5
+B05-MET-01,2025-01-18,Residential Sector 1,Metal,7.8,20,Pending,,No,39.0
+B05-ORG-01,2025-01-18,Residential Sector 1,Organic,56.5,60,Pending,,No,94.17
+B05-PAP-01,2025-01-18,Residential Sector 1,Paper,22.6,20,Collected,2025-01-19,Yes,113.0
+B05-PLA-01,2025-01-18,Residential Sector 1,Plastic,22.5,30,Collected,2025-01-18,No,75.0
+B07-GLA-01,2025-01-18,Residential Sector 2,Glass,8.0,20,Pending,,No,40.0
+B07-MET-01,2025-01-18,Residential Sector 2,Metal,6.8,20,Collected,2025-01-18,No,34.0
+B07-ORG-01,2025-01-18,Residential Sector 2,Organic,45.4,70,Collected,2025-01-18,No,64.86
+B07-PAP-01,2025-01-18,Residential Sector 2,Paper,19.5,30,Collected,2025-01-19,No,65.0
+B07-PLA-01,2025-01-18,Residential Sector 2,Plastic,16.4,30,Collected,2025-01-18,No,54.67
+B09-GLA-01,2025-01-18,School Zone,Glass,6.0,20,Collected,2025-01-18,No,30.0
+B09-MET-01,2025-01-18,School Zone,Metal,3.7,20,Collected,2025-01-18,No,18.5
+B09-ORG-01,2025-01-18,School Zone,Organic,30.0,30,Collected,2025-01-18,No,100.0
+B09-PAP-01,2025-01-18,School Zone,Paper,9.1,20,Collected,2025-01-19,No,45.5
+B09-PLA-01,2025-01-18,School Zone,Plastic,14.3,20,Collected,2025-01-18,No,71.5
+B08-GLA-01,2025-01-19,Bus Depot,Glass,12.0,20,Collected,2025-01-19,No,60.0
+B08-MET-01,2025-01-19,Bus Depot,Metal,7.8,20,Collected,2025-01-20,No,39.0
+B08-ORG-01,2025-01-19,Bus Depot,Organic,34.1,50,Pending,,No,68.2
+B08-PAP-01,2025-01-19,Bus Depot,Paper,16.2,20,Collected,2025-01-19,No,81.0
+B08-PLA-01,2025-01-19,Bus Depot,Plastic,17.1,30,Collected,2025-01-20,No,57.0
+B10-GLA-01,2025-01-19,Central Park,Glass,6.3,20,Collected,2025-01-20,No,31.5
+B10-MET-01,2025-01-19,Central Park,Metal,3.5,20,Collected,2025-01-19,No,17.5
+B10-ORG-01,2025-01-19,Central Park,Organic,21.0,30,Collected,2025-01-20,No,70.0
+B10-PAP-01,2025-01-19,Central Park,Paper,8.7,20,Collected,2025-01-19,No,43.5
+B10-PLA-01,2025-01-19,Central Park,Plastic,12.5,20,Collected,2025-01-19,No,62.5
+B06-GLA-01,2025-01-19,Hospital Zone,Glass,11.4,20,Collected,2025-01-19,No,57.0
+B06-ORG-01,2025-01-19,Hospital Zone,Organic,55.5,50,Collected,2025-01-19,Yes,111.0
+B06-PAP-01,2025-01-19,Hospital Zone,Paper,20.6,30,Collected,2025-01-19,No,68.67
+B06-PLA-01,2025-01-19,Hospital Zone,Plastic,16.8,30,Collected,2025-01-20,No,56.0
+B03-GLA-01,2025-01-19,Industrial Zone,Glass,13.1,20,Collected,2025-01-19,No,65.5
+B03-MET-01,2025-01-19,Industrial Zone,Metal,12.0,20,Pending,,No,60.0
+B03-ORG-01,2025-01-19,Industrial Zone,Organic,66.9,100,Collected,2025-01-19,No,66.9
+B03-PAP-01,2025-01-19,Industrial Zone,Paper,28.9,40,Pending,,No,72.25
+B03-PLA-01,2025-01-19,Industrial Zone,Plastic,34.3,40,Collected,2025-01-19,No,85.75
+B04-GLA-01,2025-01-19,Mall Complex,Glass,15.0,20,Collected,2025-01-19,No,75.0
+B04-ORG-01,2025-01-19,Mall Complex,Organic,71.6,90,Pending,,No,79.56
+B04-PAP-01,2025-01-19,Mall Complex,Paper,21.3,30,Collected,2025-01-19,No,71.0
+B04-PLA-01,2025-01-19,Mall Complex,Plastic,21.5,50,Collected,2025-01-19,No,43.0
+B01-GLA-01,2025-01-19,Market Area,Glass,15.5,20,Collected,2025-01-20,No,77.5
+B01-MET-01,2025-01-19,Market Area,Metal,13.4,20,Collected,2025-01-20,No,67.0
+B01-ORG-01,2025-01-19,Market Area,Organic,66.8,90,Collected,2025-01-20,No,74.22
+B01-PAP-01,2025-01-19,Market Area,Paper,32.1,50,Collected,2025-01-20,No,64.2
+B01-PLA-01,2025-01-19,Market Area,Plastic,39.4,40,Collected,2025-01-19,No,98.5
+B02-GLA-01,2025-01-19,Railway Station,Glass,13.8,20,Collected,2025-01-19,No,69.0
+B02-MET-01,2025-01-19,Railway Station,Metal,13.2,20,Collected,2025-01-19,No,66.0
+B02-ORG-01,2025-01-19,Railway Station,Organic,59.1,80,Collected,2025-01-20,No,73.88
+B02-PAP-01,2025-01-19,Railway Station,Paper,28.6,40,Collected,2025-01-20,No,71.5
+B02-PLA-01,2025-01-19,Railway Station,Plastic,30.6,30,Collected,2025-01-19,Yes,102.0
+B05-GLA-01,2025-01-19,Residential Sector 1,Glass,10.8,20,Collected,2025-01-19,No,54.0
+B05-MET-01,2025-01-19,Residential Sector 1,Metal,10.3,20,Collected,2025-01-19,No,51.5
+B05-ORG-01,2025-01-19,Residential Sector 1,Organic,63.0,60,Pending,,Yes,105.0
+B05-PAP-01,2025-01-19,Residential Sector 1,Paper,16.4,20,Collected,2025-01-19,No,82.0
+B05-PLA-01,2025-01-19,Residential Sector 1,Plastic,30.4,30,Collected,2025-01-19,Yes,101.33
+B07-GLA-01,2025-01-19,Residential Sector 2,Glass,9.0,20,Pending,,No,45.0
+B07-MET-01,2025-01-19,Residential Sector 2,Metal,7.2,20,Pending,,No,36.0
+B07-ORG-01,2025-01-19,Residential Sector 2,Organic,51.2,70,Collected,2025-01-20,No,73.14
+B07-PAP-01,2025-01-19,Residential Sector 2,Paper,17.4,30,Collected,2025-01-19,No,58.0
+B07-PLA-01,2025-01-19,Residential Sector 2,Plastic,22.5,30,Collected,2025-01-19,No,75.0
+B09-GLA-01,2025-01-19,School Zone,Glass,7.6,20,Collected,2025-01-19,No,38.0
+B09-MET-01,2025-01-19,School Zone,Metal,4.3,20,Collected,2025-01-19,No,21.5
+B09-ORG-01,2025-01-19,School Zone,Organic,27.3,30,Collected,2025-01-20,No,91.0
+B09-PAP-01,2025-01-19,School Zone,Paper,9.8,20,Collected,2025-01-19,No,49.0
+B09-PLA-01,2025-01-19,School Zone,Plastic,15.2,20,Collected,2025-01-20,No,76.0
+B08-GLA-01,2025-01-20,Bus Depot,Glass,10.4,20,Collected,2025-01-20,No,52.0
+B08-MET-01,2025-01-20,Bus Depot,Metal,5.2,20,Collected,2025-01-20,No,26.0
+B08-ORG-01,2025-01-20,Bus Depot,Organic,25.9,50,Collected,2025-01-21,No,51.8
+B08-PAP-01,2025-01-20,Bus Depot,Paper,14.2,20,Pending,,No,71.0
+B08-PLA-01,2025-01-20,Bus Depot,Plastic,23.9,30,Collected,2025-01-20,No,79.67
+B10-GLA-01,2025-01-20,Central Park,Glass,6.3,20,Collected,2025-01-21,No,31.5
+B10-MET-01,2025-01-20,Central Park,Metal,5.3,20,Collected,2025-01-20,No,26.5
+B10-ORG-01,2025-01-20,Central Park,Organic,15.5,30,Pending,,No,51.67
+B10-PAP-01,2025-01-20,Central Park,Paper,8.8,20,Collected,2025-01-20,No,44.0
+B10-PLA-01,2025-01-20,Central Park,Plastic,8.2,20,Collected,2025-01-20,No,41.0
+B06-GLA-01,2025-01-20,Hospital Zone,Glass,12.6,20,Collected,2025-01-20,No,63.0
+B06-MET-01,2025-01-20,Hospital Zone,Metal,7.0,20,Collected,2025-01-21,No,35.0
+B06-ORG-01,2025-01-20,Hospital Zone,Organic,42.5,50,Collected,2025-01-21,No,85.0
+B06-PAP-01,2025-01-20,Hospital Zone,Paper,17.6,30,Collected,2025-01-21,No,58.67
+B06-PLA-01,2025-01-20,Hospital Zone,Plastic,20.8,30,Pending,,No,69.33
+B03-GLA-01,2025-01-20,Industrial Zone,Glass,12.5,20,Collected,2025-01-20,No,62.5
+B03-MET-01,2025-01-20,Industrial Zone,Metal,14.3,20,Collected,2025-01-20,No,71.5
+B03-ORG-01,2025-01-20,Industrial Zone,Organic,61.1,100,Pending,,No,61.1
+B03-PAP-01,2025-01-20,Industrial Zone,Paper,31.9,40,Collected,2025-01-20,No,79.75
+B03-PLA-01,2025-01-20,Industrial Zone,Plastic,29.6,40,Collected,2025-01-20,No,74.0
+B04-GLA-01,2025-01-20,Mall Complex,Glass,13.2,20,Collected,2025-01-20,No,66.0
+B04-MET-01,2025-01-20,Mall Complex,Metal,10.8,20,Collected,2025-01-21,No,54.0
+B04-ORG-01,2025-01-20,Mall Complex,Organic,64.2,90,Collected,2025-01-20,No,71.33
+B04-PAP-01,2025-01-20,Mall Complex,Paper,21.2,30,Collected,2025-01-20,No,70.67
+B04-PLA-01,2025-01-20,Mall Complex,Plastic,29.4,50,Collected,2025-01-20,No,58.8
+B01-GLA-01,2025-01-20,Market Area,Glass,18.8,20,Collected,2025-01-20,No,94.0
+B01-MET-01,2025-01-20,Market Area,Metal,12.7,20,Collected,2025-01-21,No,63.5
+B01-ORG-01,2025-01-20,Market Area,Organic,75.7,90,Collected,2025-01-20,No,84.11
+B01-PAP-01,2025-01-20,Market Area,Paper,35.7,50,Collected,2025-01-21,No,71.4
+B01-PLA-01,2025-01-20,Market Area,Plastic,38.6,40,Collected,2025-01-21,No,96.5
+B02-GLA-01,2025-01-20,Railway Station,Glass,13.1,20,Collected,2025-01-20,No,65.5
+B02-MET-01,2025-01-20,Railway Station,Metal,15.7,20,Pending,,No,78.5
+B02-ORG-01,2025-01-20,Railway Station,Organic,54.5,80,Pending,,No,68.12
+B02-PAP-01,2025-01-20,Railway Station,Paper,32.5,40,Collected,2025-01-20,No,81.25
+B02-PLA-01,2025-01-20,Railway Station,Plastic,32.9,30,Collected,2025-01-20,Yes,109.67
+B05-GLA-01,2025-01-20,Residential Sector 1,Glass,8.3,20,Pending,,No,41.5
+B05-MET-01,2025-01-20,Residential Sector 1,Metal,7.5,20,Collected,2025-01-20,No,37.5
+B05-ORG-01,2025-01-20,Residential Sector 1,Organic,40.6,60,Collected,2025-01-21,No,67.67
+B05-PAP-01,2025-01-20,Residential Sector 1,Paper,17.4,20,Collected,2025-01-20,No,87.0
+B05-PLA-01,2025-01-20,Residential Sector 1,Plastic,21.4,30,Pending,,No,71.33
+B07-GLA-01,2025-01-20,Residential Sector 2,Glass,7.2,20,Collected,2025-01-20,No,36.0
+B07-MET-01,2025-01-20,Residential Sector 2,Metal,7.2,20,Pending,,No,36.0
+B07-ORG-01,2025-01-20,Residential Sector 2,Organic,48.3,70,Pending,,No,69.0
+B07-PAP-01,2025-01-20,Residential Sector 2,Paper,18.5,30,Collected,2025-01-21,No,61.67
+B07-PLA-01,2025-01-20,Residential Sector 2,Plastic,20.0,30,Collected,2025-01-21,No,66.67
+B09-GLA-01,2025-01-20,School Zone,Glass,4.2,20,Collected,2025-01-20,No,21.0
+B09-MET-01,2025-01-20,School Zone,Metal,4.5,20,Collected,2025-01-21,No,22.5
+B09-ORG-01,2025-01-20,School Zone,Organic,25.5,30,Collected,2025-01-21,No,85.0
+B09-PAP-01,2025-01-20,School Zone,Paper,8.7,20,Collected,2025-01-20,No,43.5
+B09-PLA-01,2025-01-20,School Zone,Plastic,14.6,20,Collected,2025-01-20,No,73.0
+B08-GLA-01,2025-01-21,Bus Depot,Glass,9.1,20,Collected,2025-01-21,No,45.5
+B08-MET-01,2025-01-21,Bus Depot,Metal,6.2,20,Collected,2025-01-21,No,31.0
+B08-ORG-01,2025-01-21,Bus Depot,Organic,36.6,50,Collected,2025-01-21,No,73.2
+B08-PAP-01,2025-01-21,Bus Depot,Paper,13.7,20,Collected,2025-01-21,No,68.5
+B08-PLA-01,2025-01-21,Bus Depot,Plastic,22.4,30,Collected,2025-01-21,No,74.67
+B10-GLA-01,2025-01-21,Central Park,Glass,6.3,20,Pending,,No,31.5
+B10-MET-01,2025-01-21,Central Park,Metal,5.6,20,Collected,2025-01-21,No,28.0
+B10-ORG-01,2025-01-21,Central Park,Organic,18.0,30,Collected,2025-01-21,No,60.0
+B10-PAP-01,2025-01-21,Central Park,Paper,5.9,20,Collected,2025-01-22,No,29.5
+B10-PLA-01,2025-01-21,Central Park,Plastic,13.4,20,Collected,2025-01-21,No,67.0
+B06-GLA-01,2025-01-21,Hospital Zone,Glass,8.8,20,Collected,2025-01-21,No,44.0
+B06-MET-01,2025-01-21,Hospital Zone,Metal,7.7,20,Collected,2025-01-21,No,38.5
+B06-ORG-01,2025-01-21,Hospital Zone,Organic,45.6,50,Collected,2025-01-21,No,91.2
+B06-PAP-01,2025-01-21,Hospital Zone,Paper,20.3,30,Collected,2025-01-21,No,67.67
+B03-GLA-01,2025-01-21,Industrial Zone,Glass,12.4,20,Collected,2025-01-21,No,62.0
+B03-MET-01,2025-01-21,Industrial Zone,Metal,13.4,20,Collected,2025-01-22,No,67.0
+B03-ORG-01,2025-01-21,Industrial Zone,Organic,76.2,100,Collected,2025-01-22,No,76.2
+B03-PAP-01,2025-01-21,Industrial Zone,Paper,24.5,40,Collected,2025-01-21,No,61.25
+B03-PLA-01,2025-01-21,Industrial Zone,Plastic,36.6,40,Collected,2025-01-22,No,91.5
+B04-GLA-01,2025-01-21,Mall Complex,Glass,12.1,20,Collected,2025-01-21,No,60.5
+B04-MET-01,2025-01-21,Mall Complex,Metal,8.9,20,Collected,2025-01-21,No,44.5
+B04-ORG-01,2025-01-21,Mall Complex,Organic,61.7,90,Pending,,No,68.56
+B04-PAP-01,2025-01-21,Mall Complex,Paper,21.9,30,Collected,2025-01-22,No,73.0
+B04-PLA-01,2025-01-21,Mall Complex,Plastic,24.4,50,Collected,2025-01-21,No,48.8
+B01-GLA-01,2025-01-21,Market Area,Glass,20.3,20,Collected,2025-01-22,Yes,101.5
+B01-MET-01,2025-01-21,Market Area,Metal,14.2,20,Pending,,No,71.0
+B01-ORG-01,2025-01-21,Market Area,Organic,92.7,90,Collected,2025-01-22,Yes,103.0
+B01-PLA-01,2025-01-21,Market Area,Plastic,32.3,40,Collected,2025-01-21,No,80.75
+B02-GLA-01,2025-01-21,Railway Station,Glass,14.3,20,Collected,2025-01-21,No,71.5
+B02-MET-01,2025-01-21,Railway Station,Metal,11.9,20,Pending,,No,59.5
+B02-ORG-01,2025-01-21,Railway Station,Organic,56.3,80,Pending,,No,70.38
+B02-PAP-01,2025-01-21,Railway Station,Paper,28.1,40,Collected,2025-01-21,No,70.25
+B02-PLA-01,2025-01-21,Railway Station,Plastic,33.2,30,Collected,2025-01-22,Yes,110.67
+B05-GLA-01,2025-01-21,Residential Sector 1,Glass,8.7,20,Collected,2025-01-21,No,43.5
+B05-MET-01,2025-01-21,Residential Sector 1,Metal,11.9,20,Collected,2025-01-22,No,59.5
+B05-ORG-01,2025-01-21,Residential Sector 1,Organic,43.4,60,Collected,2025-01-21,No,72.33
+B05-PAP-01,2025-01-21,Residential Sector 1,Paper,11.7,20,Collected,2025-01-21,No,58.5
+B05-PLA-01,2025-01-21,Residential Sector 1,Plastic,29.7,30,Collected,2025-01-22,No,99.0
+B07-GLA-01,2025-01-21,Residential Sector 2,Glass,8.5,20,Collected,2025-01-21,No,42.5
+B07-MET-01,2025-01-21,Residential Sector 2,Metal,5.7,20,Collected,2025-01-21,No,28.5
+B07-ORG-01,2025-01-21,Residential Sector 2,Organic,41.5,70,Collected,2025-01-21,No,59.29
+B07-PAP-01,2025-01-21,Residential Sector 2,Paper,19.4,30,Collected,2025-01-21,No,64.67
+B07-PLA-01,2025-01-21,Residential Sector 2,Plastic,23.0,30,Collected,2025-01-21,No,76.67
+B09-GLA-01,2025-01-21,School Zone,Glass,6.8,20,Collected,2025-01-22,No,34.0
+B09-MET-01,2025-01-21,School Zone,Metal,3.5,20,Pending,,No,17.5
+B09-ORG-01,2025-01-21,School Zone,Organic,15.1,30,Collected,2025-01-21,No,50.33
+B09-PLA-01,2025-01-21,School Zone,Plastic,11.1,20,Collected,2025-01-22,No,55.5
+B08-GLA-01,2025-01-22,Bus Depot,Glass,10.4,20,Collected,2025-01-22,No,52.0
+B08-MET-01,2025-01-22,Bus Depot,Metal,4.9,20,Collected,2025-01-22,No,24.5
+B08-ORG-01,2025-01-22,Bus Depot,Organic,30.8,50,Collected,2025-01-22,No,61.6
+B08-PAP-01,2025-01-22,Bus Depot,Paper,17.4,20,Pending,,No,87.0
+B08-PLA-01,2025-01-22,Bus Depot,Plastic,19.5,30,Collected,2025-01-22,No,65.0
+B10-GLA-01,2025-01-22,Central Park,Glass,5.6,20,Collected,2025-01-22,No,28.0
+B10-MET-01,2025-01-22,Central Park,Metal,3.5,20,Collected,2025-01-22,No,17.5
+B10-ORG-01,2025-01-22,Central Park,Organic,15.6,30,Collected,2025-01-22,No,52.0
+B10-PAP-01,2025-01-22,Central Park,Paper,5.3,20,Collected,2025-01-22,No,26.5
+B10-PLA-01,2025-01-22,Central Park,Plastic,9.6,20,Collected,2025-01-22,No,48.0
+B06-GLA-01,2025-01-22,Hospital Zone,Glass,10.3,20,Collected,2025-01-22,No,51.5
+B06-MET-01,2025-01-22,Hospital Zone,Metal,5.3,20,Pending,,No,26.5
+B06-ORG-01,2025-01-22,Hospital Zone,Organic,33.9,50,Collected,2025-01-22,No,67.8
+B06-PAP-01,2025-01-22,Hospital Zone,Paper,22.6,30,Collected,2025-01-22,No,75.33
+B06-PLA-01,2025-01-22,Hospital Zone,Plastic,24.6,30,Pending,,No,82.0
+B03-GLA-01,2025-01-22,Industrial Zone,Glass,13.3,20,Collected,2025-01-22,No,66.5
+B03-MET-01,2025-01-22,Industrial Zone,Metal,9.6,20,Collected,2025-01-23,No,48.0
+B03-ORG-01,2025-01-22,Industrial Zone,Organic,61.8,100,Collected,2025-01-22,No,61.8
+B03-PAP-01,2025-01-22,Industrial Zone,Paper,24.0,40,Collected,2025-01-22,No,60.0
+B03-PLA-01,2025-01-22,Industrial Zone,Plastic,28.0,40,Collected,2025-01-22,No,70.0
+B04-GLA-01,2025-01-22,Mall Complex,Glass,13.4,20,Collected,2025-01-22,No,67.0
+B04-MET-01,2025-01-22,Mall Complex,Metal,12.2,20,Collected,2025-01-23,No,61.0
+B04-ORG-01,2025-01-22,Mall Complex,Organic,52.7,90,Collected,2025-01-22,No,58.56
+B04-PAP-01,2025-01-22,Mall Complex,Paper,14.4,30,Collected,2025-01-23,No,48.0
+B04-PLA-01,2025-01-22,Mall Complex,Plastic,28.3,50,Pending,,No,56.6
+B01-GLA-01,2025-01-22,Market Area,Glass,24.3,20,Collected,2025-01-22,Yes,121.5
+B01-MET-01,2025-01-22,Market Area,Metal,11.1,20,Collected,2025-01-22,No,55.5
+B01-ORG-01,2025-01-22,Market Area,Organic,45.7,90,Collected,2025-01-23,No,50.78
+B01-PAP-01,2025-01-22,Market Area,Paper,30.6,50,Pending,,No,61.2
+B01-PLA-01,2025-01-22,Market Area,Plastic,40.9,40,Collected,2025-01-23,Yes,102.25
+B02-GLA-01,2025-01-22,Railway Station,Glass,10.4,20,Pending,,No,52.0
+B02-MET-01,2025-01-22,Railway Station,Metal,10.7,20,Pending,,No,53.5
+B02-ORG-01,2025-01-22,Railway Station,Organic,63.8,80,Pending,,No,79.75
+B02-PAP-01,2025-01-22,Railway Station,Paper,21.5,40,Collected,2025-01-22,No,53.75
+B02-PLA-01,2025-01-22,Railway Station,Plastic,29.0,30,Collected,2025-01-22,No,96.67
+B05-GLA-01,2025-01-22,Residential Sector 1,Glass,8.9,20,Collected,2025-01-23,No,44.5
+B05-MET-01,2025-01-22,Residential Sector 1,Metal,10.5,20,Collected,2025-01-22,No,52.5
+B05-ORG-01,2025-01-22,Residential Sector 1,Organic,65.2,60,Collected,2025-01-23,Yes,108.67
+B05-PAP-01,2025-01-22,Residential Sector 1,Paper,15.9,20,Collected,2025-01-23,No,79.5
+B05-PLA-01,2025-01-22,Residential Sector 1,Plastic,29.0,30,Collected,2025-01-22,No,96.67
+B07-GLA-01,2025-01-22,Residential Sector 2,Glass,8.6,20,Pending,,No,43.0
+B07-MET-01,2025-01-22,Residential Sector 2,Metal,5.9,20,Collected,2025-01-23,No,29.5
+B07-ORG-01,2025-01-22,Residential Sector 2,Organic,44.7,70,Collected,2025-01-22,No,63.86
+B07-PAP-01,2025-01-22,Residential Sector 2,Paper,20.3,30,Collected,2025-01-22,No,67.67
+B07-PLA-01,2025-01-22,Residential Sector 2,Plastic,18.1,30,Collected,2025-01-22,No,60.33
+B09-GLA-01,2025-01-22,School Zone,Glass,6.3,20,Pending,,No,31.5
+B09-MET-01,2025-01-22,School Zone,Metal,3.4,20,Collected,2025-01-22,No,17.0
+B09-ORG-01,2025-01-22,School Zone,Organic,25.8,30,Collected,2025-01-23,No,86.0
+B09-PAP-01,2025-01-22,School Zone,Paper,10.5,20,Collected,2025-01-22,No,52.5
+B09-PLA-01,2025-01-22,School Zone,Plastic,9.3,20,Collected,2025-01-22,No,46.5
+B08-GLA-01,2025-01-23,Bus Depot,Glass,8.9,20,Collected,2025-01-24,No,44.5
+B08-MET-01,2025-01-23,Bus Depot,Metal,4.7,20,Pending,,No,23.5
+B08-ORG-01,2025-01-23,Bus Depot,Organic,26.9,50,Collected,2025-01-23,No,53.8
+B08-PAP-01,2025-01-23,Bus Depot,Paper,17.2,20,Collected,2025-01-23,No,86.0
+B08-PLA-01,2025-01-23,Bus Depot,Plastic,17.2,30,Collected,2025-01-24,No,57.33
+B10-GLA-01,2025-01-23,Central Park,Glass,6.4,20,Collected,2025-01-23,No,32.0
+B10-MET-01,2025-01-23,Central Park,Metal,4.1,20,Collected,2025-01-23,No,20.5
+B10-ORG-01,2025-01-23,Central Park,Organic,16.9,30,Collected,2025-01-24,No,56.33
+B10-PAP-01,2025-01-23,Central Park,Paper,8.3,20,Collected,2025-01-23,No,41.5
+B10-PLA-01,2025-01-23,Central Park,Plastic,10.9,20,Collected,2025-01-24,No,54.5
+B06-GLA-01,2025-01-23,Hospital Zone,Glass,10.1,20,Collected,2025-01-24,No,50.5
+B06-MET-01,2025-01-23,Hospital Zone,Metal,8.5,20,Collected,2025-01-23,No,42.5
+B06-ORG-01,2025-01-23,Hospital Zone,Organic,38.7,50,Collected,2025-01-23,No,77.4
+B06-PAP-01,2025-01-23,Hospital Zone,Paper,17.3,30,Collected,2025-01-24,No,57.67
+B06-PLA-01,2025-01-23,Hospital Zone,Plastic,19.3,30,Collected,2025-01-23,No,64.33
+B03-GLA-01,2025-01-23,Industrial Zone,Glass,11.2,20,Collected,2025-01-24,No,56.0
+B03-ORG-01,2025-01-23,Industrial Zone,Organic,70.8,100,Collected,2025-01-23,No,70.8
+B03-PAP-01,2025-01-23,Industrial Zone,Paper,29.4,40,Collected,2025-01-23,No,73.5
+B03-PLA-01,2025-01-23,Industrial Zone,Plastic,19.6,40,Collected,2025-01-24,No,49.0
+B04-GLA-01,2025-01-23,Mall Complex,Glass,15.4,20,Pending,,No,77.0
+B04-MET-01,2025-01-23,Mall Complex,Metal,9.5,20,Collected,2025-01-24,No,47.5
+B04-ORG-01,2025-01-23,Mall Complex,Organic,55.8,90,Collected,2025-01-23,No,62.0
+B04-PAP-01,2025-01-23,Mall Complex,Paper,19.0,30,Collected,2025-01-23,No,63.33
+B04-PLA-01,2025-01-23,Mall Complex,Plastic,28.4,50,Collected,2025-01-23,No,56.8
+B01-GLA-01,2025-01-23,Market Area,Glass,16.8,20,Pending,,No,84.0
+B01-MET-01,2025-01-23,Market Area,Metal,13.6,20,Collected,2025-01-23,No,68.0
+B01-ORG-01,2025-01-23,Market Area,Organic,106.9,90,Collected,2025-01-24,Yes,118.78
+B01-PAP-01,2025-01-23,Market Area,Paper,34.2,50,Collected,2025-01-24,No,68.4
+B01-PLA-01,2025-01-23,Market Area,Plastic,39.8,40,Collected,2025-01-24,No,99.5
+B02-MET-01,2025-01-23,Railway Station,Metal,10.0,20,Collected,2025-01-23,No,50.0
+B02-ORG-01,2025-01-23,Railway Station,Organic,44.1,80,Collected,2025-01-24,No,55.12
+B02-PAP-01,2025-01-23,Railway Station,Paper,15.4,40,Collected,2025-01-23,No,38.5
+B02-PLA-01,2025-01-23,Railway Station,Plastic,19.7,30,Collected,2025-01-23,No,65.67
+B05-GLA-01,2025-01-23,Residential Sector 1,Glass,10.5,20,Collected,2025-01-23,No,52.5
+B05-MET-01,2025-01-23,Residential Sector 1,Metal,10.0,20,Collected,2025-01-24,No,50.0
+B05-ORG-01,2025-01-23,Residential Sector 1,Organic,66.0,60,Collected,2025-01-24,Yes,110.0
+B05-PAP-01,2025-01-23,Residential Sector 1,Paper,21.6,20,Collected,2025-01-23,Yes,108.0
+B05-PLA-01,2025-01-23,Residential Sector 1,Plastic,25.3,30,Collected,2025-01-23,No,84.33
+B07-GLA-01,2025-01-23,Residential Sector 2,Glass,9.5,20,Collected,2025-01-23,No,47.5
+B07-MET-01,2025-01-23,Residential Sector 2,Metal,6.0,20,Collected,2025-01-23,No,30.0
+B07-ORG-01,2025-01-23,Residential Sector 2,Organic,41.6,70,Pending,,No,59.43
+B07-PAP-01,2025-01-23,Residential Sector 2,Paper,18.6,30,Collected,2025-01-23,No,62.0
+B07-PLA-01,2025-01-23,Residential Sector 2,Plastic,18.2,30,Collected,2025-01-23,No,60.67
+B09-GLA-01,2025-01-23,School Zone,Glass,5.8,20,Collected,2025-01-24,No,29.0
+B09-MET-01,2025-01-23,School Zone,Metal,3.4,20,Collected,2025-01-23,No,17.0
+B09-ORG-01,2025-01-23,School Zone,Organic,20.3,30,Collected,2025-01-23,No,67.67
+B09-PAP-01,2025-01-23,School Zone,Paper,10.6,20,Collected,2025-01-24,No,53.0
+B09-PLA-01,2025-01-23,School Zone,Plastic,15.8,20,Pending,,No,79.0
+B08-GLA-01,2025-01-24,Bus Depot,Glass,5.4,20,Collected,2025-01-24,No,27.0
+B08-MET-01,2025-01-24,Bus Depot,Metal,5.0,20,Collected,2025-01-25,No,25.0
+B08-ORG-01,2025-01-24,Bus Depot,Organic,32.2,50,Collected,2025-01-24,No,64.4
+B08-PAP-01,2025-01-24,Bus Depot,Paper,13.7,20,Collected,2025-01-25,No,68.5
+B08-PLA-01,2025-01-24,Bus Depot,Plastic,19.0,30,Collected,2025-01-24,No,63.33
+B10-GLA-01,2025-01-24,Central Park,Glass,6.1,20,Collected,2025-01-24,No,30.5
+B10-MET-01,2025-01-24,Central Park,Metal,4.5,20,Collected,2025-01-24,No,22.5
+B10-ORG-01,2025-01-24,Central Park,Organic,15.1,30,Collected,2025-01-24,No,50.33
+B10-PAP-01,2025-01-24,Central Park,Paper,7.0,20,Collected,2025-01-24,No,35.0
+B10-PLA-01,2025-01-24,Central Park,Plastic,8.6,20,Collected,2025-01-24,No,43.0
+B06-GLA-01,2025-01-24,Hospital Zone,Glass,8.1,20,Collected,2025-01-24,No,40.5
+B06-MET-01,2025-01-24,Hospital Zone,Metal,7.7,20,Collected,2025-01-25,No,38.5
+B06-ORG-01,2025-01-24,Hospital Zone,Organic,39.7,50,Pending,,No,79.4
+B06-PAP-01,2025-01-24,Hospital Zone,Paper,21.0,30,Collected,2025-01-24,No,70.0
+B06-PLA-01,2025-01-24,Hospital Zone,Plastic,22.4,30,Collected,2025-01-25,No,74.67
+B03-GLA-01,2025-01-24,Industrial Zone,Glass,12.8,20,Collected,2025-01-24,No,64.0
+B03-ORG-01,2025-01-24,Industrial Zone,Organic,73.6,100,Collected,2025-01-24,No,73.6
+B03-PAP-01,2025-01-24,Industrial Zone,Paper,30.1,40,Collected,2025-01-25,No,75.25
+B03-PLA-01,2025-01-24,Industrial Zone,Plastic,23.3,40,Collected,2025-01-25,No,58.25
+B04-GLA-01,2025-01-24,Mall Complex,Glass,13.3,20,Collected,2025-01-24,No,66.5
+B04-MET-01,2025-01-24,Mall Complex,Metal,10.1,20,Collected,2025-01-25,No,50.5
+B04-ORG-01,2025-01-24,Mall Complex,Organic,65.1,90,Collected,2025-01-24,No,72.33
+B04-PAP-01,2025-01-24,Mall Complex,Paper,20.3,30,Pending,,No,67.67
+B04-PLA-01,2025-01-24,Mall Complex,Plastic,28.4,50,Collected,2025-01-24,No,56.8
+B01-GLA-01,2025-01-24,Market Area,Glass,22.0,20,Collected,2025-01-25,Yes,110.0
+B01-MET-01,2025-01-24,Market Area,Metal,13.1,20,Collected,2025-01-24,No,65.5
+B01-ORG-01,2025-01-24,Market Area,Organic,85.7,90,Collected,2025-01-24,No,95.22
+B01-PAP-01,2025-01-24,Market Area,Paper,30.3,50,Collected,2025-01-25,No,60.6
+B01-PLA-01,2025-01-24,Market Area,Plastic,40.3,40,Collected,2025-01-24,Yes,100.75
+B02-GLA-01,2025-01-24,Railway Station,Glass,14.5,20,Collected,2025-01-24,No,72.5
+B02-MET-01,2025-01-24,Railway Station,Metal,16.5,20,Collected,2025-01-25,No,82.5
+B02-ORG-01,2025-01-24,Railway Station,Organic,62.1,80,Collected,2025-01-24,No,77.62
+B02-PAP-01,2025-01-24,Railway Station,Paper,26.6,40,Collected,2025-01-24,No,66.5
+B02-PLA-01,2025-01-24,Railway Station,Plastic,24.9,30,Collected,2025-01-24,No,83.0
+B05-GLA-01,2025-01-24,Residential Sector 1,Glass,11.0,20,Collected,2025-01-24,No,55.0
+B05-MET-01,2025-01-24,Residential Sector 1,Metal,9.0,20,Collected,2025-01-24,No,45.0
+B05-ORG-01,2025-01-24,Residential Sector 1,Organic,63.2,60,Collected,2025-01-24,Yes,105.33
+B05-PAP-01,2025-01-24,Residential Sector 1,Paper,16.6,20,Pending,,No,83.0
+B05-PLA-01,2025-01-24,Residential Sector 1,Plastic,25.6,30,Pending,,No,85.33
+B07-GLA-01,2025-01-24,Residential Sector 2,Glass,10.1,20,Collected,2025-01-24,No,50.5
+B07-MET-01,2025-01-24,Residential Sector 2,Metal,8.1,20,Collected,2025-01-24,No,40.5
+B07-ORG-01,2025-01-24,Residential Sector 2,Organic,56.9,70,Collected,2025-01-24,No,81.29
+B07-PAP-01,2025-01-24,Residential Sector 2,Paper,16.2,30,Collected,2025-01-25,No,54.0
+B07-PLA-01,2025-01-24,Residential Sector 2,Plastic,25.6,30,Collected,2025-01-24,No,85.33
+B09-GLA-01,2025-01-24,School Zone,Glass,6.5,20,Collected,2025-01-24,No,32.5
+B09-MET-01,2025-01-24,School Zone,Metal,3.9,20,Pending,,No,19.5
+B09-ORG-01,2025-01-24,School Zone,Organic,29.1,30,Collected,2025-01-24,No,97.0
+B09-PAP-01,2025-01-24,School Zone,Paper,10.3,20,Collected,2025-01-24,No,51.5
+B09-PLA-01,2025-01-24,School Zone,Plastic,9.4,20,Collected,2025-01-25,No,47.0
+B08-GLA-01,2025-01-25,Bus Depot,Glass,10.1,20,Collected,2025-01-25,No,50.5
+B08-MET-01,2025-01-25,Bus Depot,Metal,8.4,20,Collected,2025-01-25,No,42.0
+B08-ORG-01,2025-01-25,Bus Depot,Organic,32.7,50,Collected,2025-01-25,No,65.4
+B08-PAP-01,2025-01-25,Bus Depot,Paper,19.7,20,Collected,2025-01-25,No,98.5
+B08-PLA-01,2025-01-25,Bus Depot,Plastic,25.3,30,Collected,2025-01-26,No,84.33
+B10-GLA-01,2025-01-25,Central Park,Glass,6.9,20,Pending,,No,34.5
+B10-MET-01,2025-01-25,Central Park,Metal,3.5,20,Collected,2025-01-25,No,17.5
+B10-ORG-01,2025-01-25,Central Park,Organic,13.8,30,Pending,,No,46.0
+B10-PAP-01,2025-01-25,Central Park,Paper,9.1,20,Collected,2025-01-26,No,45.5
+B10-PLA-01,2025-01-25,Central Park,Plastic,11.2,20,Collected,2025-01-25,No,56.0
+B06-GLA-01,2025-01-25,Hospital Zone,Glass,9.0,20,Collected,2025-01-25,No,45.0
+B06-MET-01,2025-01-25,Hospital Zone,Metal,7.0,20,Pending,,No,35.0
+B06-ORG-01,2025-01-25,Hospital Zone,Organic,48.1,50,Collected,2025-01-25,No,96.2
+B06-PAP-01,2025-01-25,Hospital Zone,Paper,14.6,30,Collected,2025-01-25,No,48.67
+B06-PLA-01,2025-01-25,Hospital Zone,Plastic,20.7,30,Collected,2025-01-26,No,69.0
+B03-GLA-01,2025-01-25,Industrial Zone,Glass,11.5,20,Collected,2025-01-25,No,57.5
+B03-MET-01,2025-01-25,Industrial Zone,Metal,13.9,20,Collected,2025-01-25,No,69.5
+B03-ORG-01,2025-01-25,Industrial Zone,Organic,63.3,100,Collected,2025-01-26,No,63.3
+B03-PAP-01,2025-01-25,Industrial Zone,Paper,38.1,40,Collected,2025-01-26,No,95.25
+B03-PLA-01,2025-01-25,Industrial Zone,Plastic,35.0,40,Collected,2025-01-25,No,87.5
+B04-GLA-01,2025-01-25,Mall Complex,Glass,15.2,20,Collected,2025-01-25,No,76.0
+B04-MET-01,2025-01-25,Mall Complex,Metal,11.1,20,Pending,,No,55.5
+B04-ORG-01,2025-01-25,Mall Complex,Organic,66.4,90,Collected,2025-01-26,No,73.78
+B04-PAP-01,2025-01-25,Mall Complex,Paper,20.5,30,Collected,2025-01-25,No,68.33
+B04-PLA-01,2025-01-25,Mall Complex,Plastic,34.3,50,Collected,2025-01-26,No,68.6
+B01-GLA-01,2025-01-25,Market Area,Glass,18.6,20,Collected,2025-01-25,No,93.0
+B01-MET-01,2025-01-25,Market Area,Metal,13.8,20,Collected,2025-01-26,No,69.0
+B01-ORG-01,2025-01-25,Market Area,Organic,68.8,90,Collected,2025-01-25,No,76.44
+B01-PAP-01,2025-01-25,Market Area,Paper,27.6,50,Collected,2025-01-25,No,55.2
+B01-PLA-01,2025-01-25,Market Area,Plastic,25.2,40,Collected,2025-01-25,No,63.0
+B02-GLA-01,2025-01-25,Railway Station,Glass,13.9,20,Collected,2025-01-25,No,69.5
+B02-MET-01,2025-01-25,Railway Station,Metal,10.4,20,Collected,2025-01-26,No,52.0
+B02-ORG-01,2025-01-25,Railway Station,Organic,58.2,80,Pending,,No,72.75
+B02-PAP-01,2025-01-25,Railway Station,Paper,34.9,40,Collected,2025-01-25,No,87.25
+B02-PLA-01,2025-01-25,Railway Station,Plastic,29.0,30,Collected,2025-01-25,No,96.67
+B05-GLA-01,2025-01-25,Residential Sector 1,Glass,9.3,20,Pending,,No,46.5
+B05-MET-01,2025-01-25,Residential Sector 1,Metal,9.0,20,Collected,2025-01-26,No,45.0
+B05-ORG-01,2025-01-25,Residential Sector 1,Organic,48.2,60,Pending,,No,80.33
+B05-PAP-01,2025-01-25,Residential Sector 1,Paper,18.8,20,Pending,,No,94.0
+B05-PLA-01,2025-01-25,Residential Sector 1,Plastic,24.4,30,Pending,,No,81.33
+B07-GLA-01,2025-01-25,Residential Sector 2,Glass,10.4,20,Collected,2025-01-26,No,52.0
+B07-MET-01,2025-01-25,Residential Sector 2,Metal,7.8,20,Collected,2025-01-26,No,39.0
+B07-ORG-01,2025-01-25,Residential Sector 2,Organic,39.6,70,Collected,2025-01-25,No,56.57
+B07-PAP-01,2025-01-25,Residential Sector 2,Paper,17.6,30,Collected,2025-01-25,No,58.67
+B07-PLA-01,2025-01-25,Residential Sector 2,Plastic,15.7,30,Collected,2025-01-25,No,52.33
+B09-GLA-01,2025-01-25,School Zone,Glass,5.6,20,Collected,2025-01-25,No,28.0
+B09-MET-01,2025-01-25,School Zone,Metal,3.4,20,Collected,2025-01-26,No,17.0
+B09-ORG-01,2025-01-25,School Zone,Organic,27.9,30,Pending,,No,93.0
+B09-PAP-01,2025-01-25,School Zone,Paper,10.2,20,Collected,2025-01-25,No,51.0
+B09-PLA-01,2025-01-25,School Zone,Plastic,12.8,20,Collected,2025-01-26,No,64.0
+B08-GLA-01,2025-01-26,Bus Depot,Glass,8.1,20,Collected,2025-01-27,No,40.5
+B08-MET-01,2025-01-26,Bus Depot,Metal,5.7,20,Collected,2025-01-27,No,28.5
+B08-ORG-01,2025-01-26,Bus Depot,Organic,34.7,50,Collected,2025-01-26,No,69.4
+B08-PAP-01,2025-01-26,Bus Depot,Paper,17.1,20,Collected,2025-01-27,No,85.5
+B08-PLA-01,2025-01-26,Bus Depot,Plastic,27.2,30,Collected,2025-01-26,No,90.67
+B10-GLA-01,2025-01-26,Central Park,Glass,4.9,20,Pending,,No,24.5
+B10-MET-01,2025-01-26,Central Park,Metal,4.0,20,Collected,2025-01-27,No,20.0
+B10-ORG-01,2025-01-26,Central Park,Organic,19.2,30,Collected,2025-01-27,No,64.0
+B10-PAP-01,2025-01-26,Central Park,Paper,9.7,20,Collected,2025-01-26,No,48.5
+B10-PLA-01,2025-01-26,Central Park,Plastic,9.0,20,Collected,2025-01-26,No,45.0
+B06-GLA-01,2025-01-26,Hospital Zone,Glass,9.3,20,Collected,2025-01-27,No,46.5
+B06-MET-01,2025-01-26,Hospital Zone,Metal,7.9,20,Pending,,No,39.5
+B06-ORG-01,2025-01-26,Hospital Zone,Organic,54.9,50,Collected,2025-01-27,Yes,109.8
+B06-PAP-01,2025-01-26,Hospital Zone,Paper,20.3,30,Collected,2025-01-27,No,67.67
+B06-PLA-01,2025-01-26,Hospital Zone,Plastic,22.3,30,Collected,2025-01-26,No,74.33
+B03-GLA-01,2025-01-26,Industrial Zone,Glass,14.4,20,Collected,2025-01-26,No,72.0
+B03-MET-01,2025-01-26,Industrial Zone,Metal,12.0,20,Collected,2025-01-26,No,60.0
+B03-ORG-01,2025-01-26,Industrial Zone,Organic,74.8,100,Collected,2025-01-26,No,74.8
+B03-PAP-01,2025-01-26,Industrial Zone,Paper,25.4,40,Collected,2025-01-26,No,63.5
+B03-PLA-01,2025-01-26,Industrial Zone,Plastic,27.7,40,Collected,2025-01-26,No,69.25
+B04-GLA-01,2025-01-26,Mall Complex,Glass,13.0,20,Pending,,No,65.0
+B04-MET-01,2025-01-26,Mall Complex,Metal,10.4,20,Collected,2025-01-26,No,52.0
+B04-ORG-01,2025-01-26,Mall Complex,Organic,73.4,90,Pending,,No,81.56
+B04-PAP-01,2025-01-26,Mall Complex,Paper,14.9,30,Collected,2025-01-27,No,49.67
+B04-PLA-01,2025-01-26,Mall Complex,Plastic,37.4,50,Collected,2025-01-26,No,74.8
+B01-GLA-01,2025-01-26,Market Area,Glass,21.9,20,Collected,2025-01-26,Yes,109.5
+B01-MET-01,2025-01-26,Market Area,Metal,12.1,20,Collected,2025-01-26,No,60.5
+B01-ORG-01,2025-01-26,Market Area,Organic,83.8,90,Collected,2025-01-27,No,93.11
+B01-PAP-01,2025-01-26,Market Area,Paper,33.4,50,Collected,2025-01-26,No,66.8
+B01-PLA-01,2025-01-26,Market Area,Plastic,30.3,40,Pending,,No,75.75
+B02-GLA-01,2025-01-26,Railway Station,Glass,17.4,20,Collected,2025-01-26,No,87.0
+B02-MET-01,2025-01-26,Railway Station,Metal,12.4,20,Collected,2025-01-26,No,62.0
+B02-ORG-01,2025-01-26,Railway Station,Organic,72.3,80,Collected,2025-01-26,No,90.38
+B02-PAP-01,2025-01-26,Railway Station,Paper,35.9,40,Collected,2025-01-26,No,89.75
+B02-PLA-01,2025-01-26,Railway Station,Plastic,27.0,30,Collected,2025-01-26,No,90.0
+B05-GLA-01,2025-01-26,Residential Sector 1,Glass,9.2,20,Collected,2025-01-27,No,46.0
+B05-MET-01,2025-01-26,Residential Sector 1,Metal,10.3,20,Pending,,No,51.5
+B05-ORG-01,2025-01-26,Residential Sector 1,Organic,74.3,60,Collected,2025-01-26,Yes,123.83
+B05-PAP-01,2025-01-26,Residential Sector 1,Paper,19.8,20,Collected,2025-01-26,No,99.0
+B05-PLA-01,2025-01-26,Residential Sector 1,Plastic,20.0,30,Collected,2025-01-27,No,66.67
+B07-GLA-01,2025-01-26,Residential Sector 2,Glass,9.5,20,Collected,2025-01-26,No,47.5
+B07-MET-01,2025-01-26,Residential Sector 2,Metal,6.6,20,Collected,2025-01-26,No,33.0
+B07-ORG-01,2025-01-26,Residential Sector 2,Organic,52.7,70,Pending,,No,75.29
+B07-PAP-01,2025-01-26,Residential Sector 2,Paper,17.1,30,Collected,2025-01-26,No,57.0
+B07-PLA-01,2025-01-26,Residential Sector 2,Plastic,17.8,30,Collected,2025-01-26,No,59.33
+B09-GLA-01,2025-01-26,School Zone,Glass,7.1,20,Collected,2025-01-26,No,35.5
+B09-MET-01,2025-01-26,School Zone,Metal,4.4,20,Collected,2025-01-27,No,22.0
+B09-ORG-01,2025-01-26,School Zone,Organic,26.6,30,Collected,2025-01-26,No,88.67
+B09-PAP-01,2025-01-26,School Zone,Paper,8.5,20,Collected,2025-01-26,No,42.5
+B09-PLA-01,2025-01-26,School Zone,Plastic,14.5,20,Collected,2025-01-26,No,72.5
+B08-GLA-01,2025-01-27,Bus Depot,Glass,6.6,20,Collected,2025-01-27,No,33.0
+B08-MET-01,2025-01-27,Bus Depot,Metal,5.7,20,Collected,2025-01-27,No,28.5
+B08-ORG-01,2025-01-27,Bus Depot,Organic,34.3,50,Collected,2025-01-27,No,68.6
+B08-PAP-01,2025-01-27,Bus Depot,Paper,15.4,20,Collected,2025-01-28,No,77.0
+B08-PLA-01,2025-01-27,Bus Depot,Plastic,19.3,30,Pending,,No,64.33
+B10-GLA-01,2025-01-27,Central Park,Glass,5.7,20,Collected,2025-01-27,No,28.5
+B10-MET-01,2025-01-27,Central Park,Metal,3.1,20,Collected,2025-01-27,No,15.5
+B10-ORG-01,2025-01-27,Central Park,Organic,15.9,30,Collected,2025-01-27,No,53.0
+B10-PAP-01,2025-01-27,Central Park,Paper,7.7,20,Collected,2025-01-27,No,38.5
+B10-PLA-01,2025-01-27,Central Park,Plastic,11.2,20,Collected,2025-01-28,No,56.0
+B06-GLA-01,2025-01-27,Hospital Zone,Glass,7.6,20,Collected,2025-01-27,No,38.0
+B06-MET-01,2025-01-27,Hospital Zone,Metal,5.3,20,Collected,2025-01-27,No,26.5
+B06-ORG-01,2025-01-27,Hospital Zone,Organic,42.7,50,Collected,2025-01-28,No,85.4
+B06-PAP-01,2025-01-27,Hospital Zone,Paper,16.3,30,Collected,2025-01-27,No,54.33
+B06-PLA-01,2025-01-27,Hospital Zone,Plastic,20.4,30,Collected,2025-01-27,No,68.0
+B03-GLA-01,2025-01-27,Industrial Zone,Glass,13.2,20,Collected,2025-01-27,No,66.0
+B03-MET-01,2025-01-27,Industrial Zone,Metal,11.6,20,Collected,2025-01-27,No,58.0
+B03-ORG-01,2025-01-27,Industrial Zone,Organic,61.7,100,Collected,2025-01-27,No,61.7
+B03-PAP-01,2025-01-27,Industrial Zone,Paper,25.2,40,Collected,2025-01-27,No,63.0
+B03-PLA-01,2025-01-27,Industrial Zone,Plastic,33.2,40,Collected,2025-01-27,No,83.0
+B04-GLA-01,2025-01-27,Mall Complex,Glass,16.3,20,Collected,2025-01-27,No,81.5
+B04-MET-01,2025-01-27,Mall Complex,Metal,8.2,20,Collected,2025-01-28,No,41.0
+B04-ORG-01,2025-01-27,Mall Complex,Organic,51.9,90,Collected,2025-01-28,No,57.67
+B04-PAP-01,2025-01-27,Mall Complex,Paper,22.5,30,Collected,2025-01-27,No,75.0
+B04-PLA-01,2025-01-27,Mall Complex,Plastic,24.7,50,Collected,2025-01-27,No,49.4
+B01-GLA-01,2025-01-27,Market Area,Glass,23.4,20,Collected,2025-01-28,Yes,117.0
+B01-MET-01,2025-01-27,Market Area,Metal,15.0,20,Pending,,No,75.0
+B01-ORG-01,2025-01-27,Market Area,Organic,84.4,90,Collected,2025-01-27,No,93.78
+B01-PAP-01,2025-01-27,Market Area,Paper,32.8,50,Collected,2025-01-27,No,65.6
+B01-PLA-01,2025-01-27,Market Area,Plastic,31.3,40,Collected,2025-01-27,No,78.25
+B02-GLA-01,2025-01-27,Railway Station,Glass,15.4,20,Collected,2025-01-27,No,77.0
+B02-MET-01,2025-01-27,Railway Station,Metal,14.3,20,Pending,,No,71.5
+B02-ORG-01,2025-01-27,Railway Station,Organic,42.6,80,Collected,2025-01-27,No,53.25
+B02-PAP-01,2025-01-27,Railway Station,Paper,28.5,40,Collected,2025-01-27,No,71.25
+B02-PLA-01,2025-01-27,Railway Station,Plastic,27.3,30,Collected,2025-01-28,No,91.0
+B05-GLA-01,2025-01-27,Residential Sector 1,Glass,10.7,20,Collected,2025-01-27,No,53.5
+B05-MET-01,2025-01-27,Residential Sector 1,Metal,10.3,20,Collected,2025-01-27,No,51.5
+B05-ORG-01,2025-01-27,Residential Sector 1,Organic,54.2,60,Collected,2025-01-27,No,90.33
+B05-PAP-01,2025-01-27,Residential Sector 1,Paper,14.1,20,Pending,,No,70.5
+B05-PLA-01,2025-01-27,Residential Sector 1,Plastic,22.9,30,Collected,2025-01-27,No,76.33
+B07-GLA-01,2025-01-27,Residential Sector 2,Glass,6.9,20,Collected,2025-01-27,No,34.5
+B07-MET-01,2025-01-27,Residential Sector 2,Metal,6.5,20,Collected,2025-01-28,No,32.5
+B07-ORG-01,2025-01-27,Residential Sector 2,Organic,42.2,70,Pending,,No,60.29
+B07-PAP-01,2025-01-27,Residential Sector 2,Paper,17.6,30,Collected,2025-01-27,No,58.67
+B07-PLA-01,2025-01-27,Residential Sector 2,Plastic,21.2,30,Collected,2025-01-28,No,70.67
+B09-GLA-01,2025-01-27,School Zone,Glass,5.6,20,Collected,2025-01-27,No,28.0
+B09-MET-01,2025-01-27,School Zone,Metal,3.2,20,Collected,2025-01-27,No,16.0
+B09-ORG-01,2025-01-27,School Zone,Organic,22.7,30,Collected,2025-01-28,No,75.67
+B09-PAP-01,2025-01-27,School Zone,Paper,10.8,20,Collected,2025-01-28,No,54.0
+B09-PLA-01,2025-01-27,School Zone,Plastic,11.0,20,Collected,2025-01-27,No,55.0
+B08-GLA-01,2025-01-28,Bus Depot,Glass,7.2,20,Collected,2025-01-28,No,36.0
+B08-MET-01,2025-01-28,Bus Depot,Metal,6.4,20,Collected,2025-01-28,No,32.0
+B08-ORG-01,2025-01-28,Bus Depot,Organic,27.6,50,Collected,2025-01-28,No,55.2
+B08-PAP-01,2025-01-28,Bus Depot,Paper,18.2,20,Collected,2025-01-29,No,91.0
+B08-PLA-01,2025-01-28,Bus Depot,Plastic,17.6,30,Collected,2025-01-29,No,58.67
+B10-GLA-01,2025-01-28,Central Park,Glass,5.7,20,Collected,2025-01-28,No,28.5
+B10-MET-01,2025-01-28,Central Park,Metal,3.3,20,Collected,2025-01-29,No,16.5
+B10-ORG-01,2025-01-28,Central Park,Organic,18.9,30,Pending,,No,63.0
+B10-PAP-01,2025-01-28,Central Park,Paper,6.2,20,Pending,,No,31.0
+B10-PLA-01,2025-01-28,Central Park,Plastic,9.5,20,Collected,2025-01-28,No,47.5
+B06-GLA-01,2025-01-28,Hospital Zone,Glass,8.4,20,Collected,2025-01-28,No,42.0
+B06-MET-01,2025-01-28,Hospital Zone,Metal,6.7,20,Collected,2025-01-28,No,33.5
+B06-ORG-01,2025-01-28,Hospital Zone,Organic,44.7,50,Pending,,No,89.4
+B06-PAP-01,2025-01-28,Hospital Zone,Paper,24.2,30,Collected,2025-01-29,No,80.67
+B06-PLA-01,2025-01-28,Hospital Zone,Plastic,19.4,30,Collected,2025-01-28,No,64.67
+B03-GLA-01,2025-01-28,Industrial Zone,Glass,13.7,20,Pending,,No,68.5
+B03-MET-01,2025-01-28,Industrial Zone,Metal,9.9,20,Collected,2025-01-28,No,49.5
+B03-ORG-01,2025-01-28,Industrial Zone,Organic,62.0,100,Collected,2025-01-28,No,62.0
+B03-PAP-01,2025-01-28,Industrial Zone,Paper,28.1,40,Collected,2025-01-28,No,70.25
+B03-PLA-01,2025-01-28,Industrial Zone,Plastic,26.0,40,Collected,2025-01-28,No,65.0
+B04-GLA-01,2025-01-28,Mall Complex,Glass,10.9,20,Pending,,No,54.5
+B04-MET-01,2025-01-28,Mall Complex,Metal,9.1,20,Collected,2025-01-28,No,45.5
+B04-ORG-01,2025-01-28,Mall Complex,Organic,61.6,90,Collected,2025-01-28,No,68.44
+B04-PAP-01,2025-01-28,Mall Complex,Paper,23.2,30,Collected,2025-01-28,No,77.33
+B04-PLA-01,2025-01-28,Mall Complex,Plastic,35.9,50,Collected,2025-01-28,No,71.8
+B01-ORG-01,2025-01-28,Market Area,Organic,77.0,90,Collected,2025-01-28,No,85.56
+B01-PAP-01,2025-01-28,Market Area,Paper,37.1,50,Collected,2025-01-28,No,74.2
+B01-PLA-01,2025-01-28,Market Area,Plastic,33.0,40,Collected,2025-01-28,No,82.5
+B02-GLA-01,2025-01-28,Railway Station,Glass,15.1,20,Collected,2025-01-29,No,75.5
+B02-MET-01,2025-01-28,Railway Station,Metal,15.4,20,Collected,2025-01-28,No,77.0
+B02-ORG-01,2025-01-28,Railway Station,Organic,52.5,80,Collected,2025-01-28,No,65.62
+B02-PAP-01,2025-01-28,Railway Station,Paper,29.3,40,Pending,,No,73.25
+B02-PLA-01,2025-01-28,Railway Station,Plastic,31.7,30,Pending,,Yes,105.67
+B05-GLA-01,2025-01-28,Residential Sector 1,Glass,8.2,20,Collected,2025-01-28,No,41.0
+B05-MET-01,2025-01-28,Residential Sector 1,Metal,9.4,20,Collected,2025-01-28,No,47.0
+B05-ORG-01,2025-01-28,Residential Sector 1,Organic,44.1,60,Collected,2025-01-28,No,73.5
+B05-PAP-01,2025-01-28,Residential Sector 1,Paper,17.6,20,Collected,2025-01-29,No,88.0
+B05-PLA-01,2025-01-28,Residential Sector 1,Plastic,21.8,30,Collected,2025-01-29,No,72.67
+B07-GLA-01,2025-01-28,Residential Sector 2,Glass,8.9,20,Collected,2025-01-28,No,44.5
+B07-MET-01,2025-01-28,Residential Sector 2,Metal,6.9,20,Collected,2025-01-28,No,34.5
+B07-ORG-01,2025-01-28,Residential Sector 2,Organic,43.8,70,Collected,2025-01-28,No,62.57
+B07-PAP-01,2025-01-28,Residential Sector 2,Paper,15.6,30,Collected,2025-01-28,No,52.0
+B07-PLA-01,2025-01-28,Residential Sector 2,Plastic,21.9,30,Pending,,No,73.0
+B09-GLA-01,2025-01-28,School Zone,Glass,6.3,20,Collected,2025-01-28,No,31.5
+B09-MET-01,2025-01-28,School Zone,Metal,3.8,20,Collected,2025-01-28,No,19.0
+B09-ORG-01,2025-01-28,School Zone,Organic,19.3,30,Collected,2025-01-28,No,64.33
+B09-PAP-01,2025-01-28,School Zone,Paper,10.0,20,Collected,2025-01-29,No,50.0
+B09-PLA-01,2025-01-28,School Zone,Plastic,11.5,20,Pending,,No,57.5
+B08-GLA-01,2025-01-29,Bus Depot,Glass,7.6,20,Collected,2025-01-29,No,38.0
+B08-MET-01,2025-01-29,Bus Depot,Metal,5.7,20,Collected,2025-01-30,No,28.5
+B08-ORG-01,2025-01-29,Bus Depot,Organic,27.2,50,Pending,,No,54.4
+B08-PAP-01,2025-01-29,Bus Depot,Paper,16.8,20,Collected,2025-01-29,No,84.0
+B08-PLA-01,2025-01-29,Bus Depot,Plastic,19.8,30,Collected,2025-01-29,No,66.0
+B10-GLA-01,2025-01-29,Central Park,Glass,5.7,20,Collected,2025-01-29,No,28.5
+B10-MET-01,2025-01-29,Central Park,Metal,4.3,20,Collected,2025-01-29,No,21.5
+B10-ORG-01,2025-01-29,Central Park,Organic,16.2,30,Collected,2025-01-29,No,54.0
+B10-PAP-01,2025-01-29,Central Park,Paper,6.4,20,Collected,2025-01-29,No,32.0
+B10-PLA-01,2025-01-29,Central Park,Plastic,11.8,20,Collected,2025-01-29,No,59.0
+B06-GLA-01,2025-01-29,Hospital Zone,Glass,9.3,20,Collected,2025-01-29,No,46.5
+B06-MET-01,2025-01-29,Hospital Zone,Metal,7.7,20,Collected,2025-01-29,No,38.5
+B06-ORG-01,2025-01-29,Hospital Zone,Organic,43.6,50,Collected,2025-01-30,No,87.2
+B06-PAP-01,2025-01-29,Hospital Zone,Paper,13.0,30,Collected,2025-01-30,No,43.33
+B06-PLA-01,2025-01-29,Hospital Zone,Plastic,17.9,30,Collected,2025-01-29,No,59.67
+B03-GLA-01,2025-01-29,Industrial Zone,Glass,10.9,20,Pending,,No,54.5
+B03-MET-01,2025-01-29,Industrial Zone,Metal,12.6,20,Collected,2025-01-30,No,63.0
+B03-ORG-01,2025-01-29,Industrial Zone,Organic,59.3,100,Collected,2025-01-29,No,59.3
+B03-PAP-01,2025-01-29,Industrial Zone,Paper,34.6,40,Pending,,No,86.5
+B03-PLA-01,2025-01-29,Industrial Zone,Plastic,27.4,40,Collected,2025-01-29,No,68.5
+B04-GLA-01,2025-01-29,Mall Complex,Glass,14.6,20,Collected,2025-01-30,No,73.0
+B04-MET-01,2025-01-29,Mall Complex,Metal,11.4,20,Collected,2025-01-29,No,57.0
+B04-ORG-01,2025-01-29,Mall Complex,Organic,66.5,90,Collected,2025-01-30,No,73.89
+B04-PAP-01,2025-01-29,Mall Complex,Paper,13.5,30,Collected,2025-01-29,No,45.0
+B04-PLA-01,2025-01-29,Mall Complex,Plastic,29.1,50,Collected,2025-01-29,No,58.2
+B01-GLA-01,2025-01-29,Market Area,Glass,18.8,20,Pending,,No,94.0
+B01-MET-01,2025-01-29,Market Area,Metal,12.8,20,Collected,2025-01-29,No,64.0
+B01-ORG-01,2025-01-29,Market Area,Organic,75.2,90,Collected,2025-01-29,No,83.56
+B01-PLA-01,2025-01-29,Market Area,Plastic,35.2,40,Collected,2025-01-29,No,88.0
+B02-GLA-01,2025-01-29,Railway Station,Glass,10.4,20,Collected,2025-01-29,No,52.0
+B02-MET-01,2025-01-29,Railway Station,Metal,16.3,20,Collected,2025-01-30,No,81.5
+B02-ORG-01,2025-01-29,Railway Station,Organic,51.1,80,Collected,2025-01-30,No,63.88
+B02-PAP-01,2025-01-29,Railway Station,Paper,27.8,40,Pending,,No,69.5
+B02-PLA-01,2025-01-29,Railway Station,Plastic,29.4,30,Collected,2025-01-30,No,98.0
+B05-GLA-01,2025-01-29,Residential Sector 1,Glass,10.8,20,Pending,,No,54.0
+B05-MET-01,2025-01-29,Residential Sector 1,Metal,7.6,20,Pending,,No,38.0
+B05-ORG-01,2025-01-29,Residential Sector 1,Organic,43.8,60,Collected,2025-01-29,No,73.0
+B05-PAP-01,2025-01-29,Residential Sector 1,Paper,20.1,20,Collected,2025-01-29,Yes,100.5
+B05-PLA-01,2025-01-29,Residential Sector 1,Plastic,29.9,30,Collected,2025-01-29,No,99.67
+B07-GLA-01,2025-01-29,Residential Sector 2,Glass,8.7,20,Pending,,No,43.5
+B07-MET-01,2025-01-29,Residential Sector 2,Metal,8.3,20,Collected,2025-01-30,No,41.5
+B07-ORG-01,2025-01-29,Residential Sector 2,Organic,55.5,70,Collected,2025-01-29,No,79.29
+B07-PAP-01,2025-01-29,Residential Sector 2,Paper,20.8,30,Collected,2025-01-29,No,69.33
+B07-PLA-01,2025-01-29,Residential Sector 2,Plastic,18.3,30,Collected,2025-01-29,No,61.0
+B09-GLA-01,2025-01-29,School Zone,Glass,7.4,20,Collected,2025-01-29,No,37.0
+B09-MET-01,2025-01-29,School Zone,Metal,3.3,20,Collected,2025-01-29,No,16.5
+B09-ORG-01,2025-01-29,School Zone,Organic,23.4,30,Collected,2025-01-29,No,78.0
+B09-PAP-01,2025-01-29,School Zone,Paper,8.5,20,Collected,2025-01-29,No,42.5
+B09-PLA-01,2025-01-29,School Zone,Plastic,10.5,20,Collected,2025-01-29,No,52.5
+B08-GLA-01,2025-01-30,Bus Depot,Glass,8.0,20,Collected,2025-01-30,No,40.0
+B08-MET-01,2025-01-30,Bus Depot,Metal,6.2,20,Collected,2025-01-31,No,31.0
+B08-ORG-01,2025-01-30,Bus Depot,Organic,30.3,50,Collected,2025-01-30,No,60.6
+B08-PAP-01,2025-01-30,Bus Depot,Paper,14.8,20,Collected,2025-01-31,No,74.0
+B08-PLA-01,2025-01-30,Bus Depot,Plastic,16.0,30,Collected,2025-01-30,No,53.33
+B10-GLA-01,2025-01-30,Central Park,Glass,5.4,20,Collected,2025-01-30,No,27.0
+B10-MET-01,2025-01-30,Central Park,Metal,2.7,20,Collected,2025-01-31,No,13.5
+B10-ORG-01,2025-01-30,Central Park,Organic,18.0,30,Collected,2025-01-30,No,60.0
+B10-PAP-01,2025-01-30,Central Park,Paper,6.0,20,Collected,2025-01-30,No,30.0
+B10-PLA-01,2025-01-30,Central Park,Plastic,10.9,20,Collected,2025-01-30,No,54.5
+B06-GLA-01,2025-01-30,Hospital Zone,Glass,9.9,20,Collected,2025-01-30,No,49.5
+B06-MET-01,2025-01-30,Hospital Zone,Metal,6.4,20,Collected,2025-01-30,No,32.0
+B06-ORG-01,2025-01-30,Hospital Zone,Organic,45.4,50,Collected,2025-01-30,No,90.8
+B06-PAP-01,2025-01-30,Hospital Zone,Paper,21.5,30,Collected,2025-01-30,No,71.67
+B06-PLA-01,2025-01-30,Hospital Zone,Plastic,16.5,30,Collected,2025-01-30,No,55.0
+B03-GLA-01,2025-01-30,Industrial Zone,Glass,10.1,20,Collected,2025-01-30,No,50.5
+B03-MET-01,2025-01-30,Industrial Zone,Metal,11.1,20,Collected,2025-01-31,No,55.5
+B03-ORG-01,2025-01-30,Industrial Zone,Organic,70.4,100,Collected,2025-01-30,No,70.4
+B03-PAP-01,2025-01-30,Industrial Zone,Paper,25.4,40,Collected,2025-01-31,No,63.5
+B03-PLA-01,2025-01-30,Industrial Zone,Plastic,34.3,40,Collected,2025-01-30,No,85.75
+B04-GLA-01,2025-01-30,Mall Complex,Glass,13.6,20,Collected,2025-01-30,No,68.0
+B04-MET-01,2025-01-30,Mall Complex,Metal,12.2,20,Collected,2025-01-31,No,61.0
+B04-ORG-01,2025-01-30,Mall Complex,Organic,58.0,90,Collected,2025-01-30,No,64.44
+B04-PAP-01,2025-01-30,Mall Complex,Paper,19.1,30,Collected,2025-01-30,No,63.67
+B04-PLA-01,2025-01-30,Mall Complex,Plastic,21.1,50,Collected,2025-01-30,No,42.2
+B01-GLA-01,2025-01-30,Market Area,Glass,15.6,20,Collected,2025-01-30,No,78.0
+B01-MET-01,2025-01-30,Market Area,Metal,10.7,20,Collected,2025-01-30,No,53.5
+B01-PAP-01,2025-01-30,Market Area,Paper,34.5,50,Collected,2025-01-31,No,69.0
+B01-PLA-01,2025-01-30,Market Area,Plastic,33.2,40,Collected,2025-01-31,No,83.0
+B02-GLA-01,2025-01-30,Railway Station,Glass,13.3,20,Collected,2025-01-31,No,66.5
+B02-MET-01,2025-01-30,Railway Station,Metal,12.8,20,Pending,,No,64.0
+B02-ORG-01,2025-01-30,Railway Station,Organic,55.6,80,Collected,2025-01-30,No,69.5
+B02-PAP-01,2025-01-30,Railway Station,Paper,23.8,40,Collected,2025-01-31,No,59.5
+B02-PLA-01,2025-01-30,Railway Station,Plastic,24.7,30,Collected,2025-01-30,No,82.33
+B05-GLA-01,2025-01-30,Residential Sector 1,Glass,10.0,20,Collected,2025-01-30,No,50.0
+B05-MET-01,2025-01-30,Residential Sector 1,Metal,9.2,20,Collected,2025-01-31,No,46.0
+B05-ORG-01,2025-01-30,Residential Sector 1,Organic,44.8,60,Pending,,No,74.67
+B05-PAP-01,2025-01-30,Residential Sector 1,Paper,21.0,20,Collected,2025-01-31,Yes,105.0
+B05-PLA-01,2025-01-30,Residential Sector 1,Plastic,25.7,30,Collected,2025-01-30,No,85.67
+B07-GLA-01,2025-01-30,Residential Sector 2,Glass,8.1,20,Pending,,No,40.5
+B07-MET-01,2025-01-30,Residential Sector 2,Metal,6.5,20,Collected,2025-01-30,No,32.5
+B07-ORG-01,2025-01-30,Residential Sector 2,Organic,47.3,70,Collected,2025-01-31,No,67.57
+B07-PAP-01,2025-01-30,Residential Sector 2,Paper,21.1,30,Collected,2025-01-30,No,70.33
+B07-PLA-01,2025-01-30,Residential Sector 2,Plastic,19.9,30,Collected,2025-01-30,No,66.33
+B09-GLA-01,2025-01-30,School Zone,Glass,5.9,20,Collected,2025-01-30,No,29.5
+B09-MET-01,2025-01-30,School Zone,Metal,4.3,20,Collected,2025-01-30,No,21.5
+B09-ORG-01,2025-01-30,School Zone,Organic,26.7,30,Collected,2025-01-30,No,89.0
+B09-PAP-01,2025-01-30,School Zone,Paper,10.9,20,Collected,2025-01-30,No,54.5
+B09-PLA-01,2025-01-30,School Zone,Plastic,11.0,20,Pending,,No,55.0
