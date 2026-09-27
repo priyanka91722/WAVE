@@ -248,16 +248,3 @@ smart_waste_bda/                       (Windows: Desktop\smart_waste_bda)
 
 ---
 
-## Final Project Checklist
-
-- [x] Checkpoint 0 — Software checked, plan agreed
-- [x] Checkpoint 1 — Dataset generated and cleaned (89,571 records)
-- [x] Checkpoint 2 — HDFS running, data uploaded
-- [x] Checkpoint 3 — 5 MapReduce jobs run successfully
-- [x] Checkpoint 4 — 7 PySpark analyses run successfully
-- [x] Checkpoint 5 — K-Means clustering (2 High / 6 Medium / 2 Low) + chart
-- [x] Checkpoint 6 — Bloom Filter + DGIM demonstrated
-- [x] Checkpoint 7 — MongoDB loaded (4 collections)
-- [x] Checkpoint 8 — Streamlit dashboard working
-- [ ] Checkpoint 9 — Integration + README (this document)
-- [ ] Checkpoint 10 — Final testing + viva preparation
