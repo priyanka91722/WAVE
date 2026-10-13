@@ -1,0 +1,6 @@
+StoreLocation,Total_Waste_Qty,Avg_Waste_Qty,Avg_Spoilage_Chance,Spoilage_Rate_Pct,cluster,Waste_Level
+Kanpur,20953.0,77.03,0.884,48.53,1,Medium
+Delhi,16461.0,70.65,0.7844,31.33,1,Medium
+Bangalore,14064.0,79.46,0.8329,44.07,1,Medium
+Chennai,12783.0,61.75,0.7281,41.55,2,Low
+Mumbai,10726.0,96.63,0.8577,62.16,0,High

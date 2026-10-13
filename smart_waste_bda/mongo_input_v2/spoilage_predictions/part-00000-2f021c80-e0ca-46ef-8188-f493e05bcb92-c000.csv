@@ -1,0 +1,1001 @@
+StoreID,ItemName,Category,StoreLocation,DaysUntilExpiry,SpoilageChance,Predicted_Spoiled,Predicted_Spoilage_Prob,IsSpoiled
+Kanpur_15,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9986,true
+Kanpur_188,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9986,true
+Kanpur_214,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9986,true
+Kanpur_32,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9986,true
+Kanpur_38,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9986,true
+Kanpur_103,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_131,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_174,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_179,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_195,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_210,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_222,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_223,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_265,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_58,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.996,true
+Kanpur_155,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9921,true
+Kanpur_156,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9921,true
+Kanpur_175,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9921,true
+Kanpur_8,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9921,true
+Kanpur_83,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9921,true
+Kanpur_98,Chicken Breast 500g,Meat,Kanpur,7.0,1.0,1,0.9921,true
+Bangalore_11,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_114,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_119,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_121,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_124,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_131,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_133,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_136,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_137,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_148,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_15,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_151,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_171,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_176,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_33,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_54,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_71,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_72,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_90,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_93,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Bangalore_98,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9901,true
+Delhi_107,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_115,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_12,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_121,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_123,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_147,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_15,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_155,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_157,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_169,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_172,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_174,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_209,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_212,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_23,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_39,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_45,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_47,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_48,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_55,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_58,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_62,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_71,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Delhi_9,Kurkure Masala,Snacks,Delhi,0.5,1.0,1,0.9734,true
+Bangalore_140,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9696,true
+Bangalore_26,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9696,true
+Bangalore_3,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9696,true
+Bangalore_34,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9696,true
+Bangalore_35,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9696,true
+Bangalore_38,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9696,true
+Bangalore_44,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9696,true
+Bangalore_82,Kurkure Masala,Snacks,Bangalore,8.0,1.0,1,0.9696,true
+Kanpur_18,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9352,true
+Kanpur_161,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9317,true
+Kanpur_204,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9317,true
+Kanpur_75,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9317,true
+Kanpur_159,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9314,true
+Kanpur_16,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9314,true
+Kanpur_181,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9314,true
+Kanpur_221,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9314,true
+Kanpur_242,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9314,true
+Kanpur_42,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9314,true
+Kanpur_52,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9314,true
+Kanpur_78,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9314,true
+Kanpur_129,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_163,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_176,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_249,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_268,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_6,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_63,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_64,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_95,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9313,true
+Kanpur_101,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9309,true
+Kanpur_14,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9288,true
+Kanpur_96,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9288,true
+Mumbai_108,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9281,true
+Mumbai_71,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9281,true
+Kanpur_116,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9275,true
+Kanpur_46,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.9275,true
+Mumbai_4,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9272,true
+Mumbai_68,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9272,true
+Mumbai_20,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9265,true
+Mumbai_3,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9265,true
+Mumbai_45,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9265,true
+Mumbai_47,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9265,true
+Mumbai_70,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9265,true
+Mumbai_82,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9265,true
+Mumbai_91,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9265,true
+Mumbai_31,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9248,true
+Mumbai_36,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9248,true
+Mumbai_43,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9248,true
+Mumbai_46,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9248,true
+Mumbai_90,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9248,true
+Mumbai_102,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9247,true
+Mumbai_103,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9247,true
+Mumbai_106,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9247,true
+Mumbai_12,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9247,true
+Mumbai_21,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9247,true
+Mumbai_33,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9247,true
+Mumbai_53,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9247,true
+Mumbai_85,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9247,true
+Kanpur_134,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9244,true
+Kanpur_264,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9238,true
+Kanpur_71,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9231,true
+Bangalore_157,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9225,true
+Chennai_121,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9223,true
+Kanpur_107,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9218,true
+Kanpur_169,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9218,true
+Kanpur_122,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9217,true
+Kanpur_17,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9217,true
+Kanpur_250,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9217,true
+Kanpur_269,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9217,true
+Kanpur_27,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9217,true
+Kanpur_60,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9217,true
+Bangalore_146,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9216,true
+Bangalore_19,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9216,true
+Bangalore_28,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9216,true
+Bangalore_96,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9216,true
+Kanpur_31,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9214,true
+Kanpur_5,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9212,true
+Kanpur_225,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.921,true
+Kanpur_73,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9209,true
+Kanpur_247,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9205,true
+Chennai_55,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9203,true
+Kanpur_114,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9203,true
+Kanpur_125,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9203,true
+Kanpur_207,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9203,true
+Kanpur_244,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9203,true
+Kanpur_77,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9203,true
+Kanpur_144,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9201,true
+Kanpur_0,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9201,true
+Kanpur_168,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9201,true
+Kanpur_19,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9201,true
+Kanpur_68,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9201,true
+Chennai_79,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9201,true
+Kanpur_141,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.92,true
+Kanpur_124,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9199,true
+Kanpur_228,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9199,true
+Kanpur_241,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9199,true
+Kanpur_34,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9199,true
+Kanpur_74,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9199,true
+Kanpur_88,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9196,true
+Bangalore_150,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9196,true
+Bangalore_159,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9196,true
+Bangalore_6,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9196,true
+Bangalore_83,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9196,true
+Bangalore_91,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9195,true
+Kanpur_201,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9192,true
+Chennai_198,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9192,true
+Chennai_89,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.919,true
+Mumbai_54,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9189,true
+Kanpur_186,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9188,true
+Kanpur_11,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9186,true
+Kanpur_111,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9186,true
+Kanpur_154,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9186,true
+Kanpur_232,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9186,true
+Kanpur_239,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9186,true
+Kanpur_251,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9186,true
+Kanpur_79,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9186,true
+Kanpur_93,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9186,true
+Chennai_102,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9184,true
+Chennai_166,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9184,true
+Chennai_181,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9183,true
+Mumbai_19,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9178,true
+Kanpur_233,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9177,true
+Kanpur_51,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9177,true
+Bangalore_69,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9176,true
+Mumbai_29,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9176,true
+Mumbai_63,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9176,true
+Chennai_143,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9175,true
+Chennai_47,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9175,true
+Kanpur_184,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9174,true
+Kanpur_224,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9174,true
+Mumbai_109,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9173,true
+Chennai_122,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9173,true
+Kanpur_126,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9172,true
+Kanpur_178,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9172,true
+Kanpur_206,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9172,true
+Kanpur_263,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9172,true
+Kanpur_39,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9172,true
+Kanpur_99,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9172,true
+Chennai_130,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9171,true
+Chennai_194,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.917,true
+Kanpur_91,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9169,true
+Chennai_168,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9166,true
+Kanpur_108,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9164,true
+Chennai_10,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9163,true
+Chennai_142,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9163,true
+Chennai_84,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9163,true
+Chennai_126,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.916,true
+Chennai_87,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.916,true
+Chennai_113,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.916,true
+Chennai_77,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.916,true
+Chennai_88,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.916,true
+Kanpur_105,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9156,true
+Chennai_2,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9155,true
+Chennai_51,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9155,true
+Mumbai_5,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9155,true
+Mumbai_14,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9155,true
+Mumbai_76,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9152,true
+Chennai_86,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9151,true
+Chennai_128,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.915,true
+Bangalore_104,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9148,true
+Bangalore_153,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9148,true
+Chennai_170,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9146,true
+Bangalore_165,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9146,true
+Bangalore_48,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9146,true
+Chennai_152,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9141,true
+Mumbai_10,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9141,true
+Mumbai_62,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9137,true
+Mumbai_78,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9133,true
+Chennai_179,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9133,true
+Mumbai_1,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.913,true
+Mumbai_101,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.913,true
+Mumbai_34,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.913,true
+Mumbai_56,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.913,true
+Mumbai_61,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.913,true
+Mumbai_73,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.913,true
+Mumbai_94,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.913,true
+Mumbai_95,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.913,true
+Mumbai_99,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9129,true
+Mumbai_11,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9129,true
+Mumbai_13,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9129,true
+Mumbai_16,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9129,true
+Mumbai_32,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9129,true
+Mumbai_55,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9129,true
+Bangalore_173,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9125,true
+Chennai_195,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9116,true
+Chennai_154,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9116,true
+Chennai_167,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9116,true
+Chennai_91,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9116,true
+Mumbai_15,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_26,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_40,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_51,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_65,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_66,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_74,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_83,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_84,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_87,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_88,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Mumbai_93,Banana 6pcs,Produce,Mumbai,0.5,1.0,1,0.9116,true
+Bangalore_162,Fish Fillet 300g,Meat,Bangalore,1.0,1.0,1,0.9116,true
+Chennai_93,Lays Chips 100g,Snacks,Chennai,0.5,1.0,1,0.9112,true
+Mumbai_25,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.911,true
+Mumbai_59,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.911,true
+Mumbai_104,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9094,true
+Mumbai_69,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9094,true
+Chennai_162,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9084,true
+Chennai_204,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9084,true
+Chennai_29,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9084,true
+Chennai_6,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9084,true
+Chennai_95,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9084,true
+Mumbai_75,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9081,true
+Kanpur_234,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9077,true
+Kanpur_47,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9077,true
+Mumbai_64,Brown Bun Pack,Bakery,Mumbai,0.5,1.0,1,0.9076,true
+Kanpur_248,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9068,true
+Kanpur_238,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.9065,true
+Mumbai_96,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.9053,true
+Chennai_115,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9045,true
+Chennai_97,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9045,true
+Kanpur_90,Multigrain Cookies,Bakery,Kanpur,1.0,1.0,1,0.9032,true
+Delhi_59,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.9027,true
+Chennai_49,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.901,true
+Chennai_123,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9005,true
+Chennai_185,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9005,true
+Chennai_136,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.9003,true
+Bangalore_61,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8993,true
+Bangalore_139,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8984,true
+Bangalore_36,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8976,true
+Chennai_173,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8971,true
+Bangalore_2,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8968,true
+Bangalore_112,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8957,true
+Bangalore_49,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8957,true
+Bangalore_126,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8956,true
+Bangalore_164,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8956,true
+Bangalore_50,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8956,true
+Delhi_0,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8955,true
+Delhi_167,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8955,true
+Bangalore_120,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8954,true
+Bangalore_14,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8954,true
+Kanpur_145,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8953,true
+Kanpur_40,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8953,true
+Mumbai_52,Fish Fillet 300g,Meat,Mumbai,0.5,1.0,1,0.8953,true
+Bangalore_100,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8946,true
+Delhi_100,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8945,true
+Delhi_122,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8945,true
+Delhi_14,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8945,true
+Delhi_143,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8945,true
+Delhi_201,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8945,true
+Kanpur_196,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8944,true
+Kanpur_213,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8944,true
+Kanpur_23,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8944,true
+Kanpur_81,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8944,true
+Kanpur_148,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8935,true
+Kanpur_158,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8935,true
+Kanpur_4,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8932,true
+Bangalore_65,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8931,true
+Kanpur_120,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.8923,true
+Kanpur_45,Lays Chips 100g,Snacks,Kanpur,0.5,1.0,1,0.8923,true
+Bangalore_59,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8913,true
+Bangalore_80,Fish Fillet 300g,Meat,Bangalore,0.5,1.0,1,0.8913,true
+Chennai_13,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.891,true
+Chennai_71,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.891,true
+Chennai_36,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8908,true
+Chennai_129,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8899,true
+Delhi_177,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8894,true
+Delhi_52,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8894,true
+Chennai_15,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8891,true
+Delhi_154,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Delhi_18,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Delhi_180,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Delhi_196,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Delhi_210,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Delhi_22,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Delhi_225,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Delhi_226,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Delhi_91,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8873,true
+Kanpur_139,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8866,true
+Chennai_138,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8862,true
+Chennai_106,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.886,true
+Kanpur_254,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8857,true
+Kanpur_87,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8857,true
+Chennai_141,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8857,true
+Delhi_206,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8855,true
+Delhi_3,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8855,true
+Delhi_86,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8855,true
+Delhi_112,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8852,true
+Delhi_116,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8852,true
+Delhi_202,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8852,true
+Delhi_217,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8852,true
+Delhi_69,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8852,true
+Chennai_61,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8835,true
+Delhi_190,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8833,true
+Delhi_227,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8833,true
+Chennai_155,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8829,true
+Chennai_172,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8829,true
+Chennai_81,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8829,true
+Delhi_29,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8751,true
+Delhi_64,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8741,true
+Delhi_66,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8741,true
+Kanpur_253,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8727,true
+Chennai_146,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8683,true
+Chennai_190,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8683,true
+Chennai_76,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8683,true
+Delhi_26,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.868,true
+Chennai_163,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.868,true
+Chennai_80,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.868,true
+Chennai_189,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8674,true
+Chennai_66,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8674,true
+Delhi_181,Mutton Mince 250g,Meat,Delhi,0.5,1.0,1,0.8671,true
+Chennai_192,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8667,true
+Chennai_8,Fish Fillet 300g,Meat,Chennai,0.5,1.0,1,0.8659,true
+Delhi_95,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,1,0.8648,true
+Kanpur_193,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8612,true
+Kanpur_217,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8612,true
+Kanpur_80,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8534,true
+Kanpur_102,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8478,true
+Kanpur_160,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8478,true
+Kanpur_153,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8475,true
+Kanpur_219,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8475,true
+Chennai_137,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8462,true
+Chennai_26,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8462,true
+Chennai_24,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8434,true
+Kanpur_132,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.8432,true
+Delhi_158,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.842,true
+Delhi_74,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.842,true
+Delhi_184,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.841,true
+Delhi_28,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.841,true
+Chennai_206,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8404,true
+Delhi_221,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.8403,true
+Kanpur_94,Spinach Bunch,Produce,Kanpur,0.5,1.0,1,0.84,true
+Delhi_97,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.8394,true
+Chennai_112,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8374,true
+Chennai_43,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8373,true
+Delhi_103,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.837,true
+Delhi_168,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.837,true
+Delhi_6,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.837,true
+Chennai_3,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8355,true
+Chennai_134,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8351,true
+Chennai_203,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8351,true
+Chennai_159,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8345,true
+Chennai_188,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8345,true
+Chennai_21,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8345,true
+Delhi_151,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.8343,true
+Delhi_208,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.8343,true
+Chennai_78,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8291,true
+Delhi_137,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.827,true
+Chennai_41,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8247,true
+Chennai_28,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8238,true
+Chennai_205,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8223,true
+Chennai_94,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8223,true
+Chennai_177,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8184,true
+Chennai_199,Kurkure Masala,Snacks,Chennai,0.5,1.0,1,0.8151,true
+Delhi_126,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.7941,true
+Bangalore_13,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7751,true
+Bangalore_101,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7742,true
+Bangalore_143,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7742,true
+Bangalore_8,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7742,true
+Bangalore_169,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7734,true
+Bangalore_17,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.772,true
+Bangalore_135,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7695,true
+Bangalore_55,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7695,true
+Bangalore_118,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.767,true
+Delhi_203,Chicken Breast 500g,Meat,Delhi,0.5,1.0,1,0.7655,true
+Bangalore_102,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7639,true
+Bangalore_77,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7599,true
+Bangalore_116,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7573,true
+Bangalore_106,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7515,true
+Bangalore_154,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7515,true
+Bangalore_79,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.7415,true
+Bangalore_158,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.739,true
+Bangalore_88,Mother Dairy Butter 100g,Dairy,Bangalore,0.5,1.0,1,0.6941,true
+Kanpur_104,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.5317,false
+Kanpur_246,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.5314,false
+Kanpur_172,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.5285,false
+Kanpur_1,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.5147,false
+Kanpur_36,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.5141,false
+Kanpur_255,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.5093,false
+Kanpur_56,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.5062,false
+Kanpur_33,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.5039,false
+Kanpur_209,Tomato 1kg,Produce,Kanpur,0.5,1.0,1,0.501,false
+Kanpur_112,Tomato 1kg,Produce,Kanpur,0.5,1.0,0,0.4951,false
+Kanpur_157,Tomato 1kg,Produce,Kanpur,0.5,1.0,0,0.4902,false
+Kanpur_256,Tomato 1kg,Produce,Kanpur,0.5,1.0,0,0.4902,false
+Kanpur_26,Tomato 1kg,Produce,Kanpur,0.5,1.0,0,0.4902,false
+Kanpur_137,Tomato 1kg,Produce,Kanpur,0.5,1.0,0,0.4899,false
+Kanpur_235,Tomato 1kg,Produce,Kanpur,0.5,1.0,0,0.4899,false
+Kanpur_76,Tomato 1kg,Produce,Kanpur,0.5,1.0,0,0.4871,false
+Chennai_39,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2221,false
+Chennai_171,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2173,false
+Chennai_63,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2167,false
+Chennai_70,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2153,false
+Chennai_109,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2147,false
+Chennai_72,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2147,false
+Chennai_180,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2145,false
+Chennai_161,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2128,false
+Chennai_108,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2117,false
+Chennai_54,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2117,false
+Chennai_148,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2069,false
+Chennai_33,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2057,false
+Chennai_0,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2056,false
+Chennai_110,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2052,false
+Chennai_117,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2052,false
+Chennai_42,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.2045,false
+Chennai_31,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1997,false
+Chennai_169,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1981,false
+Chennai_183,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1974,false
+Chennai_153,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1964,false
+Chennai_182,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1964,false
+Chennai_119,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1963,false
+Chennai_197,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1963,false
+Chennai_92,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1963,false
+Chennai_201,Bingo Mad Angles,Snacks,Chennai,0.5,1.0,0,0.1956,false
+Kanpur_271,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1621,false
+Kanpur_212,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1617,false
+Kanpur_24,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1617,false
+Kanpur_30,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1617,false
+Kanpur_53,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1607,false
+Kanpur_261,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1591,false
+Kanpur_143,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1588,false
+Kanpur_252,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1588,false
+Kanpur_262,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1588,false
+Kanpur_267,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1588,false
+Kanpur_199,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1582,false
+Kanpur_10,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1578,false
+Kanpur_192,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1578,false
+Kanpur_227,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1578,false
+Kanpur_240,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1578,false
+Kanpur_28,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1578,false
+Kanpur_138,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1525,false
+Kanpur_150,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1517,false
+Kanpur_229,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1517,false
+Kanpur_41,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1507,false
+Kanpur_110,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1505,false
+Kanpur_215,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.1503,false
+Kanpur_121,Bingo Mad Angles,Snacks,Kanpur,0.5,0.76,0,0.143,false
+Delhi_20,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1425,false
+Bangalore_1,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1275,false
+Bangalore_127,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1275,false
+Bangalore_18,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1275,false
+Delhi_4,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1252,false
+Bangalore_76,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1247,false
+Delhi_101,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1247,false
+Delhi_132,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1247,false
+Delhi_134,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1247,false
+Delhi_40,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1247,false
+Delhi_63,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1247,false
+Delhi_70,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1247,false
+Bangalore_144,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1246,false
+Bangalore_63,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1246,false
+Delhi_88,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.1241,false
+Delhi_77,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1229,false
+Delhi_194,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1217,false
+Bangalore_115,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1215,false
+Delhi_166,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.1206,false
+Delhi_80,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1204,false
+Delhi_120,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.1188,false
+Delhi_153,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1176,false
+Kanpur_182,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1167,false
+Bangalore_170,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1155,false
+Bangalore_107,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.115,false
+Bangalore_12,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.115,false
+Bangalore_53,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.115,false
+Delhi_178,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.1145,false
+Bangalore_160,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1125,false
+Delhi_165,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1122,false
+Delhi_54,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1104,false
+Delhi_142,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1096,false
+Delhi_119,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1081,false
+Delhi_197,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1081,false
+Delhi_34,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1081,false
+Delhi_111,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1076,false
+Delhi_148,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1076,false
+Delhi_24,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1076,false
+Delhi_31,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1076,false
+Delhi_73,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1076,false
+Delhi_82,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1076,false
+Delhi_109,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1073,false
+Kanpur_259,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1073,false
+Kanpur_92,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1073,false
+Delhi_105,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1062,false
+Delhi_114,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1062,false
+Delhi_38,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1062,false
+Delhi_84,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1062,false
+Delhi_93,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1062,false
+Delhi_175,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.105,false
+Delhi_176,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1043,false
+Delhi_56,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1043,false
+Delhi_7,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1043,false
+Delhi_85,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1043,false
+Delhi_87,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1043,false
+Delhi_99,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1043,false
+Bangalore_21,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.104,false
+Bangalore_62,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.104,false
+Delhi_124,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1032,false
+Delhi_188,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1032,false
+Delhi_199,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1032,false
+Delhi_61,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1032,false
+Delhi_92,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.1032,false
+Bangalore_141,Nestlé Yogurt 150g,Dairy,Bangalore,0.5,1.0,0,0.1022,false
+Delhi_102,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.1013,false
+Kanpur_109,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1001,false
+Kanpur_133,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1001,false
+Kanpur_164,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1001,false
+Kanpur_165,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1001,false
+Kanpur_20,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1001,false
+Kanpur_237,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1001,false
+Kanpur_3,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1001,false
+Kanpur_67,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.1001,false
+Bangalore_5,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0999,false
+Kanpur_147,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0998,false
+Kanpur_194,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0998,false
+Kanpur_142,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0997,false
+Kanpur_190,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0997,false
+Kanpur_50,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0997,false
+Bangalore_145,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0995,false
+Bangalore_30,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0995,false
+Kanpur_167,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.098,false
+Kanpur_152,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0974,false
+Kanpur_189,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0974,false
+Kanpur_200,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0974,false
+Delhi_131,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.0971,false
+Delhi_19,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.0971,false
+Delhi_214,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.0971,false
+Delhi_68,Spinach Bunch,Produce,Delhi,0.5,1.0,0,0.0971,false
+Kanpur_218,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.097,false
+Kanpur_220,Mother Dairy Butter 100g,Dairy,Kanpur,0.5,1.0,0,0.0953,false
+Delhi_205,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.094,false
+Delhi_191,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.0933,false
+Delhi_223,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.0933,false
+Delhi_141,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0926,false
+Delhi_161,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0926,false
+Delhi_195,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0926,false
+Delhi_220,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0926,false
+Delhi_78,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0926,false
+Bangalore_45,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0923,false
+Delhi_53,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.092,false
+Delhi_185,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0918,false
+Delhi_150,Chicken Breast 500g,Meat,Delhi,0.5,1.0,0,0.0913,false
+Delhi_17,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0905,false
+Delhi_182,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0905,false
+Delhi_65,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0905,false
+Delhi_2,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0846,false
+Delhi_72,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0846,false
+Delhi_35,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0825,false
+Delhi_171,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0822,false
+Delhi_16,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0809,false
+Delhi_125,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0789,false
+Delhi_186,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0789,false
+Delhi_211,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0788,false
+Delhi_222,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0788,false
+Delhi_67,Brown Bun Pack,Bakery,Delhi,0.5,0.6,0,0.0788,false
+Chennai_140,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0759,false
+Delhi_144,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0756,false
+Bangalore_168,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0744,false
+Bangalore_84,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0744,false
+Delhi_1,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0698,false
+Delhi_192,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0698,false
+Bangalore_108,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0691,false
+Delhi_139,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0668,false
+Bangalore_125,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0665,false
+Delhi_135,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0665,false
+Delhi_215,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0664,false
+Bangalore_99,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.066,false
+Chennai_101,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0647,false
+Delhi_128,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0644,false
+Delhi_156,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0644,false
+Delhi_179,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0644,false
+Delhi_110,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.064,false
+Delhi_140,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.064,false
+Delhi_173,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.064,false
+Delhi_193,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.064,false
+Delhi_228,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.064,false
+Delhi_32,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.064,false
+Delhi_49,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.064,false
+Delhi_162,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0636,false
+Bangalore_167,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0634,false
+Bangalore_41,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0634,false
+Bangalore_86,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0634,false
+Bangalore_92,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0634,false
+Chennai_34,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0631,false
+Bangalore_129,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.063,false
+Bangalore_149,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.063,false
+Bangalore_75,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.063,false
+Delhi_232,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0622,false
+Delhi_30,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0622,false
+Mumbai_18,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0622,false
+Mumbai_23,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0622,false
+Mumbai_24,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0622,false
+Mumbai_37,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0622,false
+Mumbai_6,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0622,false
+Bangalore_51,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.062,false
+Bangalore_29,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0616,false
+Bangalore_46,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0616,false
+Bangalore_47,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0616,false
+Mumbai_0,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0615,false
+Mumbai_30,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0615,false
+Mumbai_89,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0615,false
+Bangalore_57,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0611,false
+Mumbai_28,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0611,false
+Mumbai_42,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0611,false
+Mumbai_97,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0611,false
+Delhi_117,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0604,false
+Delhi_164,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0604,false
+Delhi_33,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0604,false
+Mumbai_81,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0604,false
+Delhi_204,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0604,false
+Mumbai_79,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0602,false
+Chennai_184,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0595,false
+Chennai_83,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0595,false
+Mumbai_41,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0594,false
+Mumbai_110,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.059,false
+Mumbai_35,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.059,false
+Mumbai_67,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.059,false
+Chennai_52,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0588,false
+Chennai_65,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0588,false
+Kanpur_12,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0583,false
+Mumbai_80,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0583,false
+Mumbai_98,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0583,false
+Bangalore_109,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.058,false
+Bangalore_32,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.058,false
+Chennai_14,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0579,false
+Chennai_156,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0579,false
+Chennai_18,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0579,false
+Chennai_23,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0579,false
+Kanpur_119,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0576,false
+Kanpur_123,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0576,false
+Kanpur_136,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0576,false
+Kanpur_22,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0576,false
+Kanpur_54,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0576,false
+Kanpur_61,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0576,false
+Kanpur_85,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0576,false
+Kanpur_243,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0575,false
+Kanpur_258,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0575,false
+Kanpur_35,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0575,false
+Kanpur_48,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0575,false
+Chennai_100,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0572,false
+Chennai_25,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0572,false
+Chennai_38,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0572,false
+Delhi_127,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0572,false
+Delhi_216,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0572,false
+Delhi_11,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0568,false
+Delhi_207,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0568,false
+Delhi_51,Nestlé Yogurt 150g,Dairy,Delhi,0.5,1.0,0,0.0568,false
+Chennai_150,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0566,false
+Chennai_120,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0559,false
+Bangalore_42,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0558,false
+Delhi_27,Chicken Breast 500g,Meat,Delhi,7.0,0.57,0,0.0545,false
+Bangalore_78,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0544,false
+Bangalore_97,Amul Milk 500ml,Dairy,Bangalore,0.5,1.0,0,0.0544,false
+Kanpur_2,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0542,false
+Kanpur_208,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0542,false
+Kanpur_29,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0542,false
+Kanpur_140,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0534,false
+Kanpur_197,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0534,false
+Kanpur_270,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0525,false
+Kanpur_128,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0522,false
+Kanpur_203,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0522,false
+Kanpur_62,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0522,false
+Mumbai_58,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0518,false
+Mumbai_9,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0518,false
+Mumbai_92,Nestlé Yogurt 150g,Dairy,Mumbai,0.5,1.0,0,0.0518,false
+Chennai_16,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0513,false
+Kanpur_72,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0511,false
+Kanpur_89,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0511,false
+Kanpur_118,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.051,false
+Kanpur_177,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.051,false
+Kanpur_236,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.051,false
+Kanpur_55,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.051,false
+Kanpur_49,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0496,false
+Kanpur_86,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0496,false
+Kanpur_183,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.049,false
+Kanpur_231,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.049,false
+Kanpur_135,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0489,false
+Kanpur_180,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0489,false
+Kanpur_21,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0489,false
+Kanpur_211,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0489,false
+Kanpur_260,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0489,false
+Kanpur_70,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0489,false
+Chennai_58,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0489,false
+Chennai_9,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0489,false
+Kanpur_113,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_151,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_162,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_185,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_187,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_216,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_230,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_266,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_65,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_66,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_69,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Kanpur_97,Brown Bun Pack,Bakery,Kanpur,0.5,0.69,0,0.0481,false
+Bangalore_64,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0459,false
+Kanpur_9,Bingo Mad Angles,Snacks,Kanpur,9.0,0.49,0,0.0457,false
+Kanpur_106,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0442,false
+Kanpur_130,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0442,false
+Kanpur_171,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0442,false
+Kanpur_202,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0442,false
+Kanpur_84,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0442,false
+Bangalore_172,White Bread,Bakery,Bangalore,4.0,0.57,0,0.043,false
+Chennai_53,Amul Milk 500ml,Dairy,Chennai,0.5,0.31,0,0.0429,false
+Kanpur_25,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0424,false
+Bangalore_147,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0399,false
+Bangalore_58,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0399,false
+Bangalore_7,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0399,false
+Bangalore_128,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0398,false
+Bangalore_22,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0398,false
+Bangalore_52,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0398,false
+Bangalore_43,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0388,false
+Bangalore_74,White Bread,Bakery,Bangalore,4.0,0.57,0,0.0388,false
+Bangalore_105,White Bread,Bakery,Bangalore,4.0,0.57,0,0.037,false
+Bangalore_110,White Bread,Bakery,Bangalore,4.0,0.57,0,0.037,false
+Bangalore_113,White Bread,Bakery,Bangalore,4.0,0.57,0,0.037,false
+Bangalore_123,White Bread,Bakery,Bangalore,4.0,0.57,0,0.037,false
+Bangalore_138,White Bread,Bakery,Bangalore,4.0,0.57,0,0.037,false
+Bangalore_25,White Bread,Bakery,Bangalore,4.0,0.57,0,0.037,false
+Bangalore_39,White Bread,Bakery,Bangalore,4.0,0.57,0,0.037,false
+Kanpur_191,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0365,false
+Kanpur_44,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0365,false
+Kanpur_59,Lays Chips 100g,Snacks,Kanpur,5.0,0.96,0,0.0365,false
+Chennai_103,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0344,false
+Chennai_158,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0344,false
+Delhi_13,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0269,false
+Delhi_218,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0269,false
+Bangalore_103,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0266,false
+Chennai_104,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0261,false
+Chennai_12,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0261,false
+Chennai_132,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0261,false
+Chennai_147,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0261,false
+Chennai_64,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0261,false
+Chennai_68,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0261,false
+Chennai_75,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0261,false
+Delhi_136,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0259,false
+Delhi_219,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0259,false
+Bangalore_27,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0248,false
+Delhi_106,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0244,false
+Delhi_113,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0244,false
+Delhi_133,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0244,false
+Delhi_230,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0244,false
+Delhi_50,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0244,false
+Chennai_116,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_131,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_135,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_149,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_151,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_176,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_196,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_5,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_69,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Chennai_82,Brown Bun Pack,Bakery,Chennai,5.0,0.99,0,0.0243,false
+Bangalore_122,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0219,false
+Bangalore_156,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0207,false
+Bangalore_37,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0207,false
+Bangalore_87,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0207,false
+Bangalore_161,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0195,false
+Bangalore_163,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0195,false
+Bangalore_174,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0195,false
+Bangalore_56,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0195,false
+Bangalore_89,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0195,false
+Bangalore_10,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0188,false
+Bangalore_142,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0188,false
+Bangalore_111,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Bangalore_155,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Bangalore_31,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Bangalore_4,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Bangalore_67,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Bangalore_70,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Bangalore_73,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Bangalore_94,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Bangalore_95,White Bread,Bakery,Bangalore,6.0,0.43,0,0.0178,false
+Delhi_10,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0175,false
+Delhi_160,Mutton Mince 250g,Meat,Delhi,6.0,1.0,0,0.0175,false
+Bangalore_132,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0166,false
+Bangalore_16,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0166,false
+Bangalore_166,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0166,false
+Bangalore_23,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0166,false
+Bangalore_24,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0166,false
+Bangalore_66,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0166,false
+Bangalore_68,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0166,false
+Bangalore_9,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0166,false
+Bangalore_0,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_117,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_130,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_134,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_152,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_175,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_20,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_40,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_60,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_81,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Bangalore_85,Mutton Mince 250g,Meat,Bangalore,5.0,0.48,0,0.0148,false
+Chennai_165,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0137,false
+Chennai_56,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0137,false
+Mumbai_107,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0134,false
+Chennai_105,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_111,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_114,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_118,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_124,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_127,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_145,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_157,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_164,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_174,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_175,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_187,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_19,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_37,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_40,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_48,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_57,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_60,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_62,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_7,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_73,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_85,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Chennai_99,Brown Bun Pack,Bakery,Chennai,2.0,0.38,0,0.0131,false
+Mumbai_39,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0071,false
+Mumbai_100,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_105,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_2,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_22,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_27,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_48,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_49,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_50,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_57,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_60,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_77,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_8,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Mumbai_86,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,0.0063,false
+Chennai_1,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_107,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_125,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_133,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_139,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_144,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_178,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_20,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_200,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_22,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_32,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_35,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_44,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_67,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_74,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Chennai_90,Amul Milk 500ml,Dairy,Chennai,2.0,0.26,0,0.0062,false
+Delhi_104,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_129,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_163,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_170,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_187,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_224,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_46,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_5,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_57,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_89,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_90,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0043,false
+Delhi_108,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_130,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_138,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_145,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_146,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_149,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_159,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_183,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_189,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_200,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_231,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_36,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_41,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_79,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_81,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_83,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_94,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Delhi_96,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0043,false
+Kanpur_100,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_115,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_117,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_127,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_13,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_146,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_149,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_166,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_170,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_173,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_198,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_205,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_226,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_245,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_257,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_37,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_43,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_57,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_7,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Kanpur_82,Multigrain Cookies,Bakery,Kanpur,2.0,0.58,0,0.0043,false
+Delhi_152,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0041,false
+Chennai_11,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_160,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_17,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_186,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_191,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_202,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_27,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_30,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_4,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_45,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_46,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_50,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_59,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_96,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Chennai_98,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0039,false
+Delhi_198,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0035,false
+Delhi_21,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0035,false
+Delhi_213,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0035,false
+Delhi_229,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0035,false
+Delhi_42,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0035,false
+Delhi_60,Mutton Mince 250g,Meat,Delhi,3.0,0.29,0,0.0035,false
+Delhi_118,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0035,false
+Delhi_25,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0035,false
+Delhi_37,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0035,false
+Delhi_44,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0035,false
+Delhi_75,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0035,false
+Delhi_76,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0035,false
+Delhi_8,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0035,false
+Delhi_43,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0023,false
+Delhi_98,Bingo Mad Angles,Snacks,Delhi,5.0,0.11,0,0.0023,false
+Chennai_193,Brown Bun Pack,Bakery,Chennai,10.0,0.08,0,0.0021,false
+Mumbai_44,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,9.0E-4,false
+Mumbai_17,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,1.0E-4,false
+Mumbai_38,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,1.0E-4,false
+Mumbai_7,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,1.0E-4,false
+Mumbai_72,Bingo Mad Angles,Snacks,Mumbai,4.0,0.21,0,1.0E-4,false

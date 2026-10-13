@@ -1,0 +1,1001 @@
+StoreID,ItemName,Brand,Category,StoreLocation,ArrivalDate,ExpiryDate,DaysUntilExpiry,StockQty,DailySaleAvg,SpoilageChance,IsSpoiled,Waste_Status,Waste_Qty,SuggestedAction,OnPromotion,TemperatureSensitive,DistanceToNearestStore,AvgDailySaleInNearbyStores
+Bangalore_108,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,2.6,10.348409020574636
+Bangalore_109,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,2.6,9.60525678390045
+Bangalore_125,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,13.6,10.020489187922127
+Bangalore_129,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,8.0,8.18699023028556
+Bangalore_145,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,8.1,10.452536281998968
+Bangalore_149,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,8.2,9.657045244961642
+Bangalore_167,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,13.0,8.916514785437435
+Bangalore_168,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,9.8,10.18338746110151
+Bangalore_29,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,8.9,7.929286760497273
+Bangalore_30,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,7.3,10.678006118328062
+Bangalore_32,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,2.4,8.065967435703437
+Bangalore_41,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,13.0,9.45090723296851
+Bangalore_42,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,14.0,8.732652868346557
+Bangalore_45,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,14.2,10.583978531923828
+Bangalore_46,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,8.8,7.338581390866389
+Bangalore_47,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,6.0,7.940442140309595
+Bangalore_5,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,9.6,10.489396985263976
+Bangalore_51,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,11.7,7.17597651239238
+Bangalore_57,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,3.8,10.042931704321076
+Bangalore_75,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,7.9,8.529438371873344
+Bangalore_78,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,13.9,8.062770302050492
+Bangalore_84,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,11.8,10.202690607477072
+Bangalore_86,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,12.4,8.566405803315137
+Bangalore_92,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,9.9,9.089118015851694
+Bangalore_97,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,14.7,7.930679598336809
+Bangalore_99,Amul Milk 500ml,Amul,Dairy,Bangalore,2025-06-12,2025-06-23,0.5,185,8.9,1.0,False,Not Spoiled,0,donate,No,True,5.9,9.778841068179794
+Chennai_106,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,3.5,11.88427412278119
+Chennai_115,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,4.7,15.351088945468328
+Chennai_123,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,14.9,11.733275224856168
+Chennai_126,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,12.4,14.49412176328148
+Chennai_129,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,8.6,11.876623880583743
+Chennai_13,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,12.5,11.378239723077362
+Chennai_136,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,2.9,15.149454540293474
+Chennai_138,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,10.5,10.375337518618322
+Chennai_162,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,7.8,13.25171780992536
+Chennai_173,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,3.5,12.731534342496731
+Chennai_185,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,14.2,11.81983937365849
+Chennai_195,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,14.3,12.746056544896662
+Chennai_204,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,7.7,14.498749233806484
+Chennai_29,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,6.8,13.969919007215994
+Chennai_36,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,5.6,11.640395062835443
+Chennai_49,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,7.1,13.008126073258577
+Chennai_6,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,6.2,14.039093464301198
+Chennai_61,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,9.0,10.362075091380772
+Chennai_71,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,13.5,11.2417768226525
+Chennai_87,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,12.6,14.85469028492091
+Chennai_89,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,13.8,14.835714342006728
+Chennai_95,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,8.2,13.217883524381651
+Chennai_97,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-12,2025-06-15,0.5,283,12.9,1.0,True,Spoiled,283,donate,No,False,4.0,14.248520669248045
+Delhi_107,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,8.6,0.6175419389685596
+Delhi_115,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,11.7,0.6450992947629896
+Delhi_12,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,2.6,0.5083488890258426
+Delhi_121,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,10.3,0.5720589443969031
+Delhi_123,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,2.7,0.6127549131149951
+Delhi_147,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,11.3,0.6922566269189463
+Delhi_15,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,7.0,0.5418861462103061
+Delhi_155,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,2.4,0.5731994707354353
+Delhi_157,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,6.2,0.6947808618861377
+Delhi_169,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,9.4,0.5269256433020819
+Delhi_172,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,13.1,0.5070248955491956
+Delhi_174,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,4.8,0.6010220573719921
+Delhi_209,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,12.3,0.6471431054473554
+Delhi_212,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,5.6,0.5958982673144816
+Delhi_23,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,9.3,0.5482437834889199
+Delhi_39,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,4.6,0.5320828498705751
+Delhi_45,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,4.2,0.6619376184179412
+Delhi_47,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,10.8,0.4906095136331367
+Delhi_48,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,3.2,0.5619642523536623
+Delhi_55,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,13.1,0.5856789004589457
+Delhi_58,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,13.6,0.542974294852877
+Delhi_62,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,5.0,0.7025049138748536
+Delhi_71,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,9.8,0.6566348041614615
+Delhi_9,Kurkure Masala,PepsiCo,Snacks,Delhi,2025-06-12,2025-06-19,0.5,148,0.6,1.0,True,Spoiled,148,donate,No,False,4.9,0.7125352148857804
+Kanpur_102,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,8.4,10.883757491802358
+Kanpur_132,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,5.6,10.207279040927482
+Kanpur_139,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,4.1,13.833024804094496
+Kanpur_145,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,5.3,13.234473319126645
+Kanpur_148,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,9.6,12.877247858264996
+Kanpur_153,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,12.1,10.952986208941685
+Kanpur_158,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,8.6,12.913868872995362
+Kanpur_160,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,9.7,10.541434372700364
+Kanpur_193,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,8.0,11.519269944554663
+Kanpur_196,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,10.0,13.242858649535831
+Kanpur_213,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,6.6,13.82115632942281
+Kanpur_217,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,7.2,11.512632416332387
+Kanpur_219,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,10.7,10.489499098318188
+Kanpur_23,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,9.1,13.459271894035728
+Kanpur_253,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,8.0,11.841425546600089
+Kanpur_254,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,4.1,12.795010002227473
+Kanpur_4,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,11.0,12.784893077313455
+Kanpur_40,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,5.3,14.543511428200455
+Kanpur_80,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,4.3,11.72572826822866
+Kanpur_81,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,9.8,14.796663912228402
+Kanpur_87,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,3.8,12.698578489971064
+Kanpur_94,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-12,2025-06-15,0.5,253,12.6,1.0,True,Spoiled,253,donate,Yes,True,4.7,11.027608593902045
+Bangalore_1,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,11.8,17.509534591270622
+Bangalore_107,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,8.7,21.722909965720515
+Bangalore_115,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,13.5,22.10603646725325
+Bangalore_12,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,7.2,22.32471749672883
+Bangalore_127,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,11.9,19.823305278803964
+Bangalore_141,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,2.3,21.066517606433905
+Bangalore_144,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,4.5,17.77610857967271
+Bangalore_160,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,4.6,22.680690810111805
+Bangalore_170,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,9.7,22.53142552129391
+Bangalore_18,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,12.0,20.602001128667425
+Bangalore_21,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,3.4,21.81097293384916
+Bangalore_53,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,6.7,24.128619966780523
+Bangalore_62,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,3.4,22.71143828859967
+Bangalore_63,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,4.0,18.1943594540982
+Bangalore_76,Nestlé Yogurt 150g,Nestlé,Dairy,Bangalore,2025-06-13,2025-06-16,0.5,267,21.8,1.0,False,Not Spoiled,0,donate,No,True,12.0,26.018518169682004
+Chennai_102,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,14.5,11.54013123970384
+Chennai_121,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,14.6,15.921234692262596
+Chennai_128,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,5.3,12.32621819224195
+Chennai_130,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,11.1,12.487053269999937
+Chennai_143,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,12.9,12.912321228648253
+Chennai_152,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,7.2,12.434583559536245
+Chennai_154,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,9.6,11.600768776467657
+Chennai_166,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,13.6,15.014629760260418
+Chennai_167,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,8.4,12.053602031257917
+Chennai_170,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,13.3,11.854859927394438
+Chennai_181,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,3.4,13.873090129690144
+Chennai_194,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,4.2,15.758941363435058
+Chennai_2,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,8.6,15.228350037244736
+Chennai_47,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,10.9,12.758948404014006
+Chennai_51,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,10.1,16.280982284271946
+Chennai_55,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,13.7,13.42249464331372
+Chennai_91,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-14,2025-06-24,0.5,144,13.6,1.0,True,Spoiled,144,donate,No,False,6.3,11.770174768884557
+Kanpur_113,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,6.4,26.869915008196084
+Kanpur_118,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,5.9,20.717172452933134
+Kanpur_12,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,2.2,26.642722144997595
+Kanpur_135,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,10.9,21.727267415673357
+Kanpur_151,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,8.5,25.873977840680386
+Kanpur_162,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,13.2,25.09260531254039
+Kanpur_177,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,13.9,19.91118421588256
+Kanpur_180,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,13.7,23.056029677770777
+Kanpur_183,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,4.4,24.087942254967203
+Kanpur_185,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,9.2,28.818681399700043
+Kanpur_187,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,5.8,27.23201934767796
+Kanpur_21,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,7.0,21.37123939017293
+Kanpur_211,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,12.5,22.677183061765025
+Kanpur_216,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,9.4,25.00747520243153
+Kanpur_230,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,8.3,27.294884221209347
+Kanpur_231,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,3.4,23.46658274928864
+Kanpur_236,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,6.7,19.62504889756188
+Kanpur_260,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,13.7,23.10319440055141
+Kanpur_266,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,14.3,25.681618661960293
+Kanpur_55,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,14.4,19.471943181066912
+Kanpur_65,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,12.3,28.119218017332276
+Kanpur_66,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,8.7,25.949991711395334
+Kanpur_69,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,12.7,24.84764168338715
+Kanpur_70,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,13.1,23.231400920898924
+Kanpur_72,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,4.0,20.330771716349467
+Kanpur_89,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,3.3,20.15606764234592
+Kanpur_97,Brown Bun Pack,Harvest Gold,Bakery,Kanpur,2025-06-14,2025-06-17,0.5,42,24.3,0.69,False,Not Spoiled,0,monitor,Yes,False,12.9,27.902147499500995
+Kanpur_116,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,5.0,5.652635685503178
+Kanpur_120,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,6.2,8.249257448728095
+Kanpur_129,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,7.9,6.038922101754295
+Kanpur_14,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,2.9,5.999938443126327
+Kanpur_159,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,10.8,6.998829111998647
+Kanpur_16,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,11.7,6.374635213367254
+Kanpur_163,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,5.5,5.868449424863041
+Kanpur_176,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,6.5,7.737654460937962
+Kanpur_18,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,14.3,8.08786726529187
+Kanpur_181,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,12.5,5.832903377585052
+Kanpur_221,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,13.5,7.08690901570316
+Kanpur_242,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,11.1,7.157070501253891
+Kanpur_249,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,5.1,5.986685184054143
+Kanpur_268,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,8.0,6.255189906190623
+Kanpur_42,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,13.4,7.044138071645772
+Kanpur_45,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,5.8,8.269674635607801
+Kanpur_46,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,4.0,7.7106281302908
+Kanpur_52,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,11.0,6.179841336439774
+Kanpur_6,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,5.5,7.872625900508424
+Kanpur_63,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,8.6,7.379854424987331
+Kanpur_64,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,5.1,7.556049566667808
+Kanpur_78,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,11.0,7.945850315215377
+Kanpur_95,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,5.7,6.134536125197542
+Kanpur_96,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-14,2025-06-22,0.5,116,7.0,1.0,True,Spoiled,116,donate,Yes,False,2.4,7.091181372420424
+Mumbai_1,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,10.4,4.641459733319056
+Mumbai_101,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,3.8,5.266013226358782
+Mumbai_15,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,3.6,6.091653324219069
+Mumbai_19,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,14.8,5.934264599052246
+Mumbai_26,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,5.1,6.582404722490617
+Mumbai_34,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,9.6,5.505978646556903
+Mumbai_40,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,11.6,5.873471608229895
+Mumbai_51,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,8.5,6.453984277672255
+Mumbai_56,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,13.6,5.539929788588992
+Mumbai_61,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,11.4,4.544372787099518
+Mumbai_62,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,2.1,6.1205044204542505
+Mumbai_65,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,7.2,6.117340392336169
+Mumbai_66,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,7.9,6.340055650822869
+Mumbai_73,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,10.1,5.481977000802756
+Mumbai_74,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,11.2,6.232631236018964
+Mumbai_76,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,2.1,4.98256470170341
+Mumbai_83,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,10.0,6.652943335168645
+Mumbai_84,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,9.7,5.958392547419873
+Mumbai_87,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,8.8,5.7883712611048725
+Mumbai_88,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,11.6,6.555872031267727
+Mumbai_93,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,8.7,6.0806690173675575
+Mumbai_94,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,10.5,4.537030900580715
+Mumbai_95,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,4.3,4.886359560559466
+Mumbai_99,Banana 6pcs,Local Farmer,Produce,Mumbai,2025-06-14,2025-06-21,0.5,154,5.6,1.0,True,Spoiled,154,donate,Yes,True,2.4,6.512379676850839
+Delhi_100,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,12.7,1.5154031148548326
+Delhi_122,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,3.4,1.5738278458766606
+Delhi_14,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,5.8,1.6182931314505011
+Delhi_143,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,11.9,1.361633322251627
+Delhi_154,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,8.5,1.7998938737879229
+Delhi_18,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,12.5,2.0263337017272645
+Delhi_180,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,12.5,1.6713508126011036
+Delhi_181,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,2.0,1.6803430358594762
+Delhi_196,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,10.3,2.0025846832697813
+Delhi_201,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,5.6,1.4097471602919196
+Delhi_206,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,3.9,1.8292674644664335
+Delhi_210,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,11.8,1.8518140542093773
+Delhi_22,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,12.5,1.919567728107321
+Delhi_225,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,7.0,1.827944082262083
+Delhi_226,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,11.7,1.9994704577753035
+Delhi_29,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,14.5,1.3959341513881651
+Delhi_3,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,3.9,1.7582630979301153
+Delhi_86,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,4.6,1.8087876818347903
+Delhi_91,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-15,2025-06-19,0.5,265,1.7,1.0,True,Spoiled,265,donate,Yes,True,11.4,2.0139481084436333
+Kanpur_107,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,3.5,18.392930241972405
+Kanpur_114,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,6.2,17.663302642363565
+Kanpur_125,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,7.7,17.141262433427496
+Kanpur_141,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,10.4,17.248218503440253
+Kanpur_169,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,13.7,18.770964705740187
+Kanpur_184,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,12.3,15.018894910875517
+Kanpur_201,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,4.2,14.926487253656076
+Kanpur_207,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,9.6,18.61690112611116
+Kanpur_224,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,11.3,14.778878145195756
+Kanpur_233,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,7.9,16.191320403369406
+Kanpur_234,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,6.5,13.169978557908692
+Kanpur_238,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,12.5,13.063539959052562
+Kanpur_244,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,8.7,18.74512591948224
+Kanpur_247,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,2.4,16.319854360526517
+Kanpur_248,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,7.1,12.703644460700565
+Kanpur_264,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,14.5,17.348187003496214
+Kanpur_31,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,2.1,14.416310164098212
+Kanpur_47,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,7.2,13.631404595093173
+Kanpur_5,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,14.6,13.67137272910468
+Kanpur_71,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,2.9,17.156042321792455
+Kanpur_77,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-15,2025-06-22,0.5,145,15.8,1.0,True,Spoiled,145,donate,No,True,6.9,18.001614911016613
+Kanpur_10,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,8.1,12.961849562308917
+Kanpur_110,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,13.8,11.89711289955298
+Kanpur_121,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,14.0,12.634150803196174
+Kanpur_138,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,14.7,11.042663657901128
+Kanpur_143,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,9.5,16.386089794477606
+Kanpur_150,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,9.2,12.278950528763666
+Kanpur_192,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,9.6,12.82686342029544
+Kanpur_199,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,13.8,15.110117496618114
+Kanpur_212,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,10.5,14.92022858273261
+Kanpur_215,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,3.6,14.659972475938352
+Kanpur_227,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,6.3,12.644678264513766
+Kanpur_229,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,9.5,12.219922330959962
+Kanpur_24,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,11.3,13.216134383084889
+Kanpur_240,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,7.7,13.094577911381904
+Kanpur_252,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,8.4,14.271208248167898
+Kanpur_261,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,6.5,11.86793753055304
+Kanpur_262,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,6.2,14.798117959561363
+Kanpur_267,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,9.4,14.455924608709957
+Kanpur_271,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,13.1,11.079897994309633
+Kanpur_28,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,6.5,12.682904385072469
+Kanpur_30,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,10.6,15.962288650992871
+Kanpur_41,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,4.8,11.884317134292465
+Kanpur_53,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-15,2025-06-24,0.5,26,13.7,0.76,False,Not Spoiled,0,discount,No,False,13.6,13.07631332467675
+Mumbai_11,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,7.0,4.6464642259741336
+Mumbai_13,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,4.7,4.490401128412628
+Mumbai_16,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,5.8,4.068771751310263
+Mumbai_31,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,4.9,3.744706920676577
+Mumbai_32,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,4.5,4.209856272769771
+Mumbai_36,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,5.9,3.95623152522928
+Mumbai_4,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,7.9,3.669707921238142
+Mumbai_43,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,3.0,3.871756136815013
+Mumbai_46,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,4.9,3.557497985863892
+Mumbai_5,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,2.2,4.632835114944544
+Mumbai_52,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,11.0,4.746548124694665
+Mumbai_55,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,5.2,4.39142944053127
+Mumbai_68,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,13.4,3.639042753446352
+Mumbai_75,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,15.0,4.305852691189448
+Mumbai_90,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,2.6,3.9123676144912856
+Mumbai_96,Fish Fillet 300g,FreshCatch,Meat,Mumbai,2025-06-15,2025-06-18,0.5,37,4.2,1.0,True,Spoiled,37,donate,Yes,True,10.2,5.013892874612957
+Chennai_100,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,11.6,15.17451041017672
+Chennai_101,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,7.5,12.067135158150975
+Chennai_120,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,9.4,16.583530751520023
+Chennai_14,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,3.6,13.47911058697356
+Chennai_140,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,14.1,12.538684187122485
+Chennai_150,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,3.4,16.561513465153958
+Chennai_156,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,4.6,14.49571722942411
+Chennai_16,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,13.3,14.462011272377628
+Chennai_18,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,6.8,13.89741866423125
+Chennai_184,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,3.1,12.159726106139352
+Chennai_23,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,6.6,13.860342051167274
+Chennai_25,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,7.4,14.429563680939829
+Chennai_34,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,8.1,13.614357954235231
+Chennai_38,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,8.1,13.663122501148452
+Chennai_52,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,5.4,11.495258125951658
+Chennai_53,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,12.5,16.543789603102397
+Chennai_58,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,8.1,15.89196032218575
+Chennai_65,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,5.4,11.744531627414586
+Chennai_83,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,3.5,11.839120231305175
+Chennai_9,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-16,2025-06-28,0.5,11,14.1,0.31,False,Not Spoiled,0,none,Yes,True,8.5,16.390997538160125
+Delhi_0,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,12.8,1.9979465960935088
+Delhi_11,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,14.9,2.616908010993007
+Delhi_110,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,8.8,3.2858773544263955
+Delhi_112,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,5.8,1.9701492892774155
+Delhi_116,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,5.6,1.646924882754377
+Delhi_117,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,2.9,2.766038076926375
+Delhi_120,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,13.2,2.3026901275143974
+Delhi_128,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,10.8,2.4713487878259186
+Delhi_140,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,8.5,2.7507403540727777
+Delhi_156,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,12.2,2.9508460507688614
+Delhi_164,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,2.5,3.197128802308417
+Delhi_166,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,3.4,2.2946845289339453
+Delhi_167,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,13.5,2.0843979504039547
+Delhi_173,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,5.5,2.8930145944417536
+Delhi_177,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,11.3,1.7182878772560797
+Delhi_178,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,10.0,2.4419283060288484
+Delhi_179,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,10.4,2.631551965719093
+Delhi_190,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,4.0,2.2305578155720784
+Delhi_193,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,6.7,2.840035001211501
+Delhi_202,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,6.5,1.8713152806356876
+Delhi_207,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,14.2,3.345416066023808
+Delhi_217,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,9.4,1.9177765681330503
+Delhi_227,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,4.3,2.338317483590292
+Delhi_228,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,9.4,3.3169780461904232
+Delhi_232,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,4.5,2.45134834160596
+Delhi_26,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,14.8,2.0956991224080253
+Delhi_30,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,4.1,2.9112452589964097
+Delhi_32,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,6.7,2.5049774972086585
+Delhi_33,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,3.7,2.5485089194796022
+Delhi_49,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,6.0,2.627913430941493
+Delhi_51,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,14.9,2.8478040858955174
+Delhi_52,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,12.1,2.2424720551489257
+Delhi_59,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,13.5,1.6317317995550134
+Delhi_64,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,2.2,2.3680444957371174
+Delhi_66,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,2.1,2.3446876672383694
+Delhi_69,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,10.5,1.856378100223694
+Delhi_88,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-24,0.5,217,2.8,1.0,False,Not Spoiled,0,donate,No,True,8.1,2.300268637304102
+Delhi_95,Nestlé Yogurt 150g,Nestlé,Dairy,Delhi,2025-06-16,2025-06-20,0.5,262,2.0,1.0,True,Spoiled,262,donate,No,True,3.0,1.921394960427638
+Delhi_101,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,5.2,5.641237402868888
+Delhi_105,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,9.9,4.326110545700052
+Delhi_114,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,9.5,4.767143387631463
+Delhi_124,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,2.2,5.591706986163033
+Delhi_131,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,14.2,4.35013418688547
+Delhi_132,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,11.5,5.867087146132548
+Delhi_134,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,7.2,5.770051946806015
+Delhi_176,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,4.9,5.59944874708335
+Delhi_188,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,2.0,4.755648541970072
+Delhi_19,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,13.9,5.123480003013667
+Delhi_194,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,3.2,5.686552611103084
+Delhi_199,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,3.4,5.207514455230429
+Delhi_214,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,14.2,4.251222095508072
+Delhi_38,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,11.7,4.953354735954428
+Delhi_40,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,6.5,5.811750067291721
+Delhi_56,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,4.6,4.415558039121852
+Delhi_61,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,3.4,4.240478699423167
+Delhi_63,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,11.6,5.794683856860759
+Delhi_68,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,14.0,4.18544826516638
+Delhi_7,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,3.9,5.049429827839362
+Delhi_70,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,6.6,5.81288303599399
+Delhi_77,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,3.9,5.707045758416684
+Delhi_84,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,7.6,5.147934427138068
+Delhi_85,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,4.0,5.119796129137923
+Delhi_87,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,5.0,4.696634253197571
+Delhi_92,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,2.3,5.41810370590031
+Delhi_93,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,8.3,4.739313385114578
+Delhi_99,Spinach Bunch,Local Farmer,Produce,Delhi,2025-06-16,2025-06-24,0.5,268,4.9,1.0,False,Not Spoiled,0,donate,Yes,True,5.0,5.116066595573322
+Kanpur_105,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,7.1,19.39432382381348
+Kanpur_108,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,7.9,20.40636556628172
+Kanpur_11,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,13.4,22.221072305584546
+Kanpur_111,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,11.1,22.363598781649703
+Kanpur_126,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,9.4,22.23261251994117
+Kanpur_144,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,2.8,21.073792299675198
+Kanpur_154,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,11.4,22.075199756659227
+Kanpur_178,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,6.8,23.704495744871156
+Kanpur_186,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,3.9,26.22736760312019
+Kanpur_206,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,3.8,18.565151256286715
+Kanpur_225,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,2.3,21.12483492528416
+Kanpur_232,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,12.1,23.84484191445153
+Kanpur_239,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,12.5,21.373021958271867
+Kanpur_251,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,11.8,25.30869081141249
+Kanpur_263,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,7.3,24.085895398837483
+Kanpur_39,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,4.5,19.29114541952609
+Kanpur_51,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,10.7,20.042690037882352
+Kanpur_79,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,11.5,24.41996071327996
+Kanpur_88,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,13.7,20.165572809954742
+Kanpur_91,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,13.6,19.462911382423467
+Kanpur_93,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,11.4,24.11003359332278
+Kanpur_99,Spinach Bunch,Local Farmer,Produce,Kanpur,2025-06-16,2025-06-23,0.5,115,22.4,1.0,True,Spoiled,115,donate,Yes,True,10.2,22.531991263279156
+Bangalore_101,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,8.1,12.80488705572395
+Bangalore_102,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,6.5,13.64593675798288
+Bangalore_106,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,13.0,12.135413440042312
+Bangalore_116,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,11.9,11.195858559135056
+Bangalore_118,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,7.4,11.748754746728231
+Bangalore_13,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,3.9,14.362006955130177
+Bangalore_135,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,9.0,14.84646824081812
+Bangalore_143,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,8.6,12.257783399597786
+Bangalore_154,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,13.2,11.878546020059424
+Bangalore_158,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,11.4,10.849766621995665
+Bangalore_169,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,3.0,14.390993823551106
+Bangalore_17,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,5.5,12.759736556997032
+Bangalore_55,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,9.2,14.774970045290672
+Bangalore_77,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,14.1,13.261310482428732
+Bangalore_79,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,6.0,10.90341112051324
+Bangalore_8,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,7.8,12.785956280752709
+Bangalore_88,Mother Dairy Butter 100g,Mother Dairy,Dairy,Bangalore,2025-06-18,2025-06-28,0.5,38,12.7,1.0,True,Spoiled,38,donate,No,True,13.5,10.299338572123386
+Bangalore_104,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,3.1,17.717025652219263
+Bangalore_146,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,8.0,16.85855411125313
+Bangalore_150,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,11.0,16.742482625078775
+Bangalore_153,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,3.3,17.297551059359
+Bangalore_157,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,4.4,16.856177096364807
+Bangalore_159,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,11.8,19.575315768370587
+Bangalore_162,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,12.5,19.368119496043352
+Bangalore_165,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,8.0,13.944082323668312
+Bangalore_173,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,10.4,16.093955772562914
+Bangalore_19,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,7.6,19.01522912007285
+Bangalore_28,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,5.8,18.607592502434525
+Bangalore_48,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,5.8,14.6554837991467
+Bangalore_6,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,11.7,16.774538800564105
+Bangalore_69,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,2.7,16.089499509280625
+Bangalore_83,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,10.8,16.85225458122838
+Bangalore_91,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,10.3,18.870089024982786
+Bangalore_96,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-18,2025-06-29,1.0,206,17.1,1.0,True,Spoiled,206,donate,No,True,6.7,18.546091400437884
+Kanpur_0,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,5.0,8.98111835739282
+Kanpur_101,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,14.1,7.972352958330712
+Kanpur_122,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,8.5,9.741409861587668
+Kanpur_124,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,11.2,9.91352706161199
+Kanpur_134,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,7.6,8.20189107263788
+Kanpur_161,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,3.9,7.254525038874465
+Kanpur_168,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,4.0,9.767687796825204
+Kanpur_17,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,5.8,10.21187760000722
+Kanpur_19,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,4.1,10.505198533313992
+Kanpur_204,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,4.4,7.877193354171585
+Kanpur_228,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,12.5,9.949074682290082
+Kanpur_241,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,10.8,9.379078679603492
+Kanpur_250,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,6.6,10.588888695736667
+Kanpur_269,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,6.4,9.798090273210336
+Kanpur_27,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,6.3,9.010450801444533
+Kanpur_34,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,11.3,9.213323677272925
+Kanpur_60,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,8.1,9.401435141061894
+Kanpur_68,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,4.5,9.773977023436345
+Kanpur_73,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,13.7,9.232483398435948
+Kanpur_74,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,11.8,9.259686023144122
+Kanpur_75,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,5.2,7.758000339879617
+Kanpur_90,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-18,2025-06-29,1.0,224,9.0,1.0,True,Spoiled,224,donate,No,False,3.8,10.797208222647493
+Kanpur_1,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,8.8,11.07599655764262
+Kanpur_104,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,7.6,11.469523926826046
+Kanpur_112,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,4.8,9.28850360078035
+Kanpur_137,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,10.5,8.236992950766934
+Kanpur_157,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,8.8,8.120199338163925
+Kanpur_172,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,4.7,11.618140625829335
+Kanpur_209,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,13.5,9.80566134760325
+Kanpur_235,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,11.1,8.70306968101482
+Kanpur_246,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,11.9,11.47429471050086
+Kanpur_255,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,6.7,10.204446511390572
+Kanpur_256,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,7.8,8.450181262716706
+Kanpur_26,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,9.0,8.244037845131242
+Kanpur_33,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,2.8,10.741726907279364
+Kanpur_36,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,2.7,7.993618184606953
+Kanpur_56,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,3.5,10.42982204275028
+Kanpur_76,Tomato 1kg,Local Farmer,Produce,Kanpur,2025-06-18,2025-06-21,0.5,204,9.7,1.0,False,Not Spoiled,0,donate,Yes,True,3.5,8.166836518268466
+Mumbai_10,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,2.6,26.952747719811818
+Mumbai_102,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,9.1,25.56415330993607
+Mumbai_103,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,11.9,27.1227373849636
+Mumbai_104,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,8.2,19.03784744741816
+Mumbai_106,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,10.3,25.24555262707244
+Mumbai_108,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,14.3,25.78339231658847
+Mumbai_109,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,5.9,23.308596799396067
+Mumbai_12,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,13.5,28.055176116730717
+Mumbai_14,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,11.0,21.99009772489602
+Mumbai_20,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,8.2,27.93714902190828
+Mumbai_21,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,9.5,24.23643333807484
+Mumbai_25,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,14.1,18.814315526292077
+Mumbai_29,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,5.4,27.23316253672581
+Mumbai_3,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,7.5,25.50253095085909
+Mumbai_33,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,12.7,27.673166033037933
+Mumbai_45,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,6.5,27.199579812994195
+Mumbai_47,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,6.5,24.358722802864985
+Mumbai_53,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,10.0,24.1678938880974
+Mumbai_54,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,14.6,21.9665684074342
+Mumbai_59,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,14.7,20.777600100301687
+Mumbai_63,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,5.4,24.689916482143747
+Mumbai_64,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,11.0,20.563842855249465
+Mumbai_69,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,5.9,20.21402804691491
+Mumbai_70,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,7.3,24.16938635963582
+Mumbai_71,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,14.8,26.92200031001928
+Mumbai_78,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,2.7,20.897142678267524
+Mumbai_82,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,5.8,25.977572207957905
+Mumbai_85,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,9.8,25.240645432335423
+Mumbai_91,Brown Bun Pack,Harvest Gold,Bakery,Mumbai,2025-06-18,2025-06-22,0.5,222,23.4,1.0,True,Spoiled,222,donate,No,False,6.1,25.16644644307385
+Chennai_105,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,3.3,8.423097028665678
+Chennai_111,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,4.8,9.467705753086133
+Chennai_114,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,11.2,11.677863075180996
+Chennai_118,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,7.2,10.216208952635952
+Chennai_124,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,10.1,10.67635726786521
+Chennai_127,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,6.8,8.287639072952793
+Chennai_145,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,11.3,9.588932925479632
+Chennai_157,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,3.1,11.062741692092656
+Chennai_164,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,13.4,9.876587831953254
+Chennai_174,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,2.1,11.970789495487464
+Chennai_175,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,6.6,11.841669058782742
+Chennai_187,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,14.9,10.107709782148085
+Chennai_19,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,7.2,11.245337713915871
+Chennai_37,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,14.0,11.976405613326694
+Chennai_40,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,5.1,11.530870972023166
+Chennai_48,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,2.9,11.760386169777416
+Chennai_57,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,9.5,9.693836281243703
+Chennai_60,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,2.3,12.359708712555516
+Chennai_62,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,9.6,10.491756679883473
+Chennai_7,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,9.2,11.742330189454153
+Chennai_73,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,11.9,8.731847990864736
+Chennai_85,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,4.9,12.24402042875302
+Chennai_99,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-19,2025-06-30,2.0,39,10.3,0.38,False,Not Spoiled,0,none,No,False,13.4,9.846202970021164
+Delhi_102,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,14.0,12.006698724759405
+Delhi_103,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,6.3,14.034222669382595
+Delhi_104,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,5.0,22.10243026155949
+Delhi_109,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,13.0,9.483156511383934
+Delhi_111,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,7.2,10.302097307262024
+Delhi_119,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,2.2,9.601335914256032
+Delhi_126,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,2.6,12.22282720625095
+Delhi_129,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,9.7,24.35878163868319
+Delhi_137,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,6.8,13.376033758242883
+Delhi_142,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,8.3,8.846704055807692
+Delhi_148,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,5.9,10.125259637016248
+Delhi_150,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,13.8,10.31429168045675
+Delhi_151,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,4.2,15.278699070662691
+Delhi_153,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,5.6,12.171411677651568
+Delhi_158,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,11.9,16.108848064141124
+Delhi_163,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,6.8,18.05130595467905
+Delhi_165,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,10.8,9.031626314047005
+Delhi_168,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,6.0,16.251003384392455
+Delhi_170,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,4.2,17.63556276603117
+Delhi_175,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,4.6,10.025570715720503
+Delhi_184,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,2.5,16.44203073849381
+Delhi_187,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,4.5,24.693511343447057
+Delhi_191,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,14.4,11.250493983196026
+Delhi_197,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,2.2,9.39201619068601
+Delhi_198,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,13.3,22.58484817328391
+Delhi_20,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,11.3,12.354655675574234
+Delhi_203,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,3.4,12.175737830801936
+Delhi_208,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,4.4,16.441007818527435
+Delhi_21,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,14.5,22.22429238026684
+Delhi_213,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,11.9,22.37415625346665
+Delhi_221,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,9.3,15.065210878518036
+Delhi_223,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,14.5,10.888170215502663
+Delhi_224,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,4.7,21.189529022406223
+Delhi_229,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,10.9,24.061869137558315
+Delhi_24,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,6.8,11.502856061971968
+Delhi_28,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,2.4,15.847439076056627
+Delhi_31,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,6.2,9.70245420339668
+Delhi_34,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,2.8,9.373530564809643
+Delhi_4,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,12.4,12.047109475475253
+Delhi_42,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,12.4,18.55922787501462
+Delhi_46,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,10.5,22.769063607823448
+Delhi_5,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,3.7,23.368097843347567
+Delhi_54,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,13.3,9.766950230782566
+Delhi_57,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,6.5,20.90565717245647
+Delhi_6,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,6.9,14.1371559016738
+Delhi_60,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,12.2,22.34855652566437
+Delhi_73,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,8.6,9.730065196962492
+Delhi_74,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,8.8,15.950129015630123
+Delhi_80,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,13.5,11.965990175029
+Delhi_82,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-25,0.5,47,10.3,1.0,False,Not Spoiled,0,donate,Yes,True,8.9,10.95564777619931
+Delhi_89,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,3.6,22.999188604050147
+Delhi_90,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-19,2025-07-01,3.0,96,22.0,0.29,False,Not Spoiled,0,none,Yes,True,10.7,18.107754637333585
+Delhi_97,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-19,2025-06-24,0.5,263,14.3,1.0,True,Spoiled,263,donate,Yes,True,3.4,13.613452497916551
+Kanpur_109,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,10.3,13.518353305956584
+Kanpur_133,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,14.7,13.551284138043174
+Kanpur_142,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,7.5,13.652995302782406
+Kanpur_147,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,4.3,14.022780267466052
+Kanpur_152,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,11.9,15.8338594152068
+Kanpur_164,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,12.4,15.235592722567972
+Kanpur_165,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,9.7,13.319056604171784
+Kanpur_167,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,2.9,14.247888515838993
+Kanpur_182,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,2.5,12.767742308265616
+Kanpur_189,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,10.9,11.01549951833112
+Kanpur_190,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,5.9,11.5376985985715
+Kanpur_194,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,4.9,15.543037823756263
+Kanpur_20,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,14.9,13.282495525656303
+Kanpur_200,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,10.7,15.759351459194187
+Kanpur_218,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,8.9,11.273404411568729
+Kanpur_220,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,3.4,16.353823767958314
+Kanpur_237,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,14.9,14.105468414352032
+Kanpur_259,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,14.1,12.335016945990317
+Kanpur_3,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,11.7,13.74722070854663
+Kanpur_50,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,6.4,14.523430718350882
+Kanpur_67,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,13.4,14.275960131734236
+Kanpur_92,Mother Dairy Butter 100g,Mother Dairy,Dairy,Kanpur,2025-06-19,2025-06-23,0.5,220,13.7,1.0,False,Not Spoiled,0,donate,No,True,10.9,12.199073404627992
+Chennai_0,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,6.1,13.178196371286637
+Chennai_108,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,13.8,14.239816358187642
+Chennai_109,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,8.1,11.41120944035918
+Chennai_110,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,3.1,10.508786293252117
+Chennai_112,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,12.3,14.19509229993054
+Chennai_117,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,4.1,9.867972969078398
+Chennai_119,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,4.5,12.639882316555756
+Chennai_134,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,7.3,10.250566741149582
+Chennai_137,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,14.6,13.191294412977332
+Chennai_148,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,9.8,14.239491936294382
+Chennai_153,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,5.2,12.615190992430634
+Chennai_159,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,10.8,12.311311054426277
+Chennai_161,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,9.9,13.539025771650149
+Chennai_169,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,4.9,11.525834261352092
+Chennai_171,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,9.3,11.321067780402648
+Chennai_177,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,2.2,11.075866225149282
+Chennai_180,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,6.1,10.702411417261455
+Chennai_182,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,5.3,12.404345650315472
+Chennai_183,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,7.2,12.001188947958356
+Chennai_188,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,8.0,14.638086614531998
+Chennai_197,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,3.0,14.466216218567787
+Chennai_199,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,5.1,12.389840242059408
+Chennai_201,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,5.5,13.363139786072711
+Chennai_203,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,10.2,10.558141547331662
+Chennai_205,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,6.7,10.687148044789929
+Chennai_206,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,9.3,13.303781076200666
+Chennai_21,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,13.1,12.484980536156511
+Chennai_24,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,10.8,13.162922750062908
+Chennai_26,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,13.8,14.062615978526711
+Chennai_28,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,3.9,10.362352461066893
+Chennai_3,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,13.1,12.034553856048332
+Chennai_31,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,2.2,10.107821446394412
+Chennai_33,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,14.8,13.994454189529112
+Chennai_39,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,13.0,12.423330080312384
+Chennai_41,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,2.4,13.86809376292993
+Chennai_42,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,6.6,9.999784946387043
+Chennai_43,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,14.6,12.370107727344044
+Chennai_54,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,14.6,13.522657867703318
+Chennai_63,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,12.7,10.417276000201364
+Chennai_70,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,11.5,14.402281125816357
+Chennai_72,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,9.8,11.49509621967574
+Chennai_78,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,12.5,11.074195210657054
+Chennai_92,Bingo Mad Angles,ITC,Snacks,Chennai,2025-06-20,2025-06-28,0.5,92,12.1,1.0,False,Not Spoiled,0,donate,No,False,2.7,14.2319456944845
+Chennai_94,Kurkure Masala,PepsiCo,Snacks,Chennai,2025-06-20,2025-06-23,0.5,59,12.2,1.0,True,Spoiled,59,donate,Yes,False,6.5,10.02413099232051
+Chennai_141,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,14.4,14.15478323450002
+Chennai_146,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,8.6,10.363547355251528
+Chennai_15,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,10.0,13.152453893814828
+Chennai_155,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,11.2,14.287406128012307
+Chennai_163,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,12.4,11.557765924117144
+Chennai_172,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,12.3,13.95030478930274
+Chennai_189,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,3.0,10.785834718926106
+Chennai_190,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,9.4,11.052201933337283
+Chennai_192,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,5.3,10.40319885214396
+Chennai_66,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,3.8,11.406465769956569
+Chennai_76,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,7.6,10.085701996920864
+Chennai_8,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,7.2,11.247595042159588
+Chennai_80,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,11.0,10.05024697580687
+Chennai_81,Fish Fillet 300g,FreshCatch,Meat,Chennai,2025-06-21,2025-06-25,0.5,40,12.5,1.0,True,Spoiled,40,donate,Yes,True,12.0,13.8743013715726
+Chennai_10,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,13.1,13.44976881297342
+Chennai_113,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,5.2,13.123216451250704
+Chennai_122,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,14.3,12.327351112468664
+Chennai_142,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,13.3,15.499591945449415
+Chennai_168,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,4.5,14.73713511886439
+Chennai_179,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,9.8,13.828170219903392
+Chennai_198,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,14.5,12.87973731450738
+Chennai_77,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,5.1,15.882960365965214
+Chennai_79,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,14.3,13.75127491274202
+Chennai_84,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,11.5,13.76848084643357
+Chennai_86,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,7.5,15.922376598581147
+Chennai_88,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,5.2,13.163816451169293
+Chennai_93,Lays Chips 100g,PepsiCo,Snacks,Chennai,2025-06-21,2025-06-24,0.5,165,13.4,1.0,True,Spoiled,165,donate,Yes,False,3.9,12.147626584893615
+Delhi_10,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,2.3,8.311994451510696
+Delhi_106,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,11.2,7.479835536289964
+Delhi_113,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,14.3,7.22778967542782
+Delhi_13,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,6.1,10.30982092360926
+Delhi_133,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,12.5,9.26103891402193
+Delhi_136,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,2.8,9.229978271135623
+Delhi_160,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,2.4,9.93753535260322
+Delhi_218,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,8.0,8.707032915706423
+Delhi_219,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,3.4,9.704905536305532
+Delhi_230,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,14.6,10.02817951268888
+Delhi_50,Mutton Mince 250g,Godrej,Meat,Delhi,2025-06-22,2025-07-04,6.0,271,8.9,1.0,False,Not Spoiled,0,donate,No,True,12.2,7.7715421048199325
+Delhi_108,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,5.4,18.458554742334247
+Delhi_118,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,14.0,18.395498379887396
+Delhi_130,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,8.8,21.143932731584567
+Delhi_138,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,4.7,22.49607093428052
+Delhi_145,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,7.3,23.23810904359745
+Delhi_146,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,9.7,25.281749819477213
+Delhi_149,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,3.5,25.569787857474573
+Delhi_152,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,3.3,21.67527639931437
+Delhi_159,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,4.4,24.335591027041183
+Delhi_183,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,7.3,23.37069985513017
+Delhi_189,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,3.6,21.000394409515764
+Delhi_200,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,7.9,19.17814072628489
+Delhi_231,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,3.5,20.65317201988212
+Delhi_25,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,11.7,21.406196309089346
+Delhi_36,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,5.5,19.911568912019725
+Delhi_37,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,13.1,17.51829701159428
+Delhi_41,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,6.4,24.26385863647381
+Delhi_43,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,2.3,19.1635945697461
+Delhi_44,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,14.2,21.716830736960773
+Delhi_75,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,14.4,19.765669316848
+Delhi_76,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,12.4,17.914487859743474
+Delhi_79,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,5.6,18.667704932770867
+Delhi_8,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,13.5,19.39404919312268
+Delhi_81,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,4.7,19.37254866401526
+Delhi_83,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,4.4,25.30248462655541
+Delhi_94,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,5.0,17.786175045570573
+Delhi_96,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,9.2,21.337503123645256
+Delhi_98,Bingo Mad Angles,ITC,Snacks,Delhi,2025-06-22,2025-07-03,5.0,60,21.6,0.11,False,Not Spoiled,0,none,Yes,False,3.0,25.841357221061926
+Bangalore_100,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,2.7,17.047183366306175
+Bangalore_112,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,3.7,24.30874531463553
+Bangalore_120,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,2.3,17.852615084986827
+Bangalore_126,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,11.5,20.24285875909083
+Bangalore_139,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,6.3,22.038369972068587
+Bangalore_14,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,2.2,18.413361407489653
+Bangalore_164,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,11.3,20.339801673361137
+Bangalore_2,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,8.8,18.62830601996076
+Bangalore_36,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,7.6,20.15506463076117
+Bangalore_49,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,4.0,22.753051504744672
+Bangalore_50,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,10.8,20.22652683912352
+Bangalore_59,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,13.0,23.670415065118046
+Bangalore_61,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,11.9,20.902399402311715
+Bangalore_65,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,14.5,17.317146653456742
+Bangalore_80,Fish Fillet 300g,FreshCatch,Meat,Bangalore,2025-06-23,2025-06-27,0.5,228,20.6,1.0,True,Spoiled,228,donate,No,True,13.2,22.43332510184643
+Kanpur_106,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,7.6,8.467968221326093
+Kanpur_130,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,7.0,10.731116597299891
+Kanpur_171,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,6.8,9.872459860238
+Kanpur_191,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,2.5,10.865375998456203
+Kanpur_2,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,6.1,8.330349530467792
+Kanpur_202,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,6.9,11.11104481062035
+Kanpur_208,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,6.0,8.205506290633803
+Kanpur_25,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,9.9,10.508048178652446
+Kanpur_270,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,5.2,8.7426952225948
+Kanpur_29,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,6.0,8.908025722771482
+Kanpur_44,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,3.1,11.080239510630287
+Kanpur_49,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,11.5,11.014136717955552
+Kanpur_59,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,2.0,9.720289320273668
+Kanpur_84,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,3.6,9.51526125521794
+Kanpur_86,Lays Chips 100g,PepsiCo,Snacks,Kanpur,2025-06-23,2025-07-03,5.0,232,9.7,0.96,False,Not Spoiled,0,donate,No,False,10.8,10.536581554965286
+Mumbai_0,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,10.3,17.169272791481962
+Mumbai_110,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,7.0,20.99262238883111
+Mumbai_18,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,4.3,18.20194660505756
+Mumbai_23,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,4.1,20.174992897688828
+Mumbai_24,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,4.3,17.696946058517483
+Mumbai_28,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,5.8,20.83254297603935
+Mumbai_30,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,11.5,19.617000721230163
+Mumbai_35,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,8.6,21.3944949692761
+Mumbai_37,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,4.8,17.6546739557074
+Mumbai_41,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,9.7,23.757265752428918
+Mumbai_42,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,6.2,17.033001997425085
+Mumbai_58,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,14.5,21.756714995396383
+Mumbai_6,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,5.0,19.36241314112598
+Mumbai_67,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,6.8,22.43370908722094
+Mumbai_79,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,3.8,21.35162990775796
+Mumbai_80,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,2.5,22.97536936442909
+Mumbai_81,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,2.2,20.829370522979804
+Mumbai_89,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,9.7,18.34282778349184
+Mumbai_9,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,13.7,22.75786321811597
+Mumbai_92,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,14.3,23.774418343765674
+Mumbai_97,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,6.0,16.66534004430852
+Mumbai_98,Nestlé Yogurt 150g,Nestlé,Dairy,Mumbai,2025-06-23,2025-06-26,0.5,201,20.1,1.0,False,Not Spoiled,0,donate,Yes,True,2.7,21.46133173876345
+Bangalore_11,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,4.9,3.232295424218532
+Bangalore_114,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,14.6,3.777889058948044
+Bangalore_119,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,13.6,3.627678471425022
+Bangalore_121,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,2.2,3.420471061176944
+Bangalore_124,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,8.1,3.581924206168432
+Bangalore_131,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,2.9,3.1970788499046443
+Bangalore_133,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,9.5,4.016805248125252
+Bangalore_136,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,9.2,3.517685293914393
+Bangalore_137,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,4.3,3.3003581242343483
+Bangalore_140,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,9.8,4.114875092383835
+Bangalore_148,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,14.6,3.655711709367197
+Bangalore_15,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,2.3,3.093421931383636
+Bangalore_151,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,11.6,3.612708939642911
+Bangalore_171,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,2.5,3.7025333960638185
+Bangalore_176,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,5.8,2.9900170244378423
+Bangalore_26,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,4.5,4.164353553482537
+Bangalore_3,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,9.7,4.092703423630954
+Bangalore_33,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,2.7,3.800676979590456
+Bangalore_34,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,2.4,4.24657132219609
+Bangalore_35,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,10.3,4.06408059362634
+Bangalore_38,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,3.8,4.045695449188197
+Bangalore_44,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,5.1,4.146823306707194
+Bangalore_54,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,10.1,3.739505297361616
+Bangalore_71,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,5.7,2.9827240250238485
+Bangalore_72,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,14.1,3.8041754957362266
+Bangalore_82,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,3.1,4.122240895756639
+Bangalore_90,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,7.0,3.4152974304333354
+Bangalore_93,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,9.5,3.5162482759440548
+Bangalore_98,Kurkure Masala,PepsiCo,Snacks,Bangalore,2025-06-24,2025-07-06,8.0,224,3.6,1.0,True,Spoiled,224,donate,Yes,False,12.2,3.202623545698137
+Delhi_141,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,6.9,18.570221897306823
+Delhi_16,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,14.9,19.37586535714822
+Delhi_161,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,6.2,19.116389684504824
+Delhi_17,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,6.0,23.97651286857272
+Delhi_182,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,11.0,25.068129653628223
+Delhi_185,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,4.2,22.13021906997019
+Delhi_195,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,8.9,17.909164131207454
+Delhi_2,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,13.4,18.638055308412195
+Delhi_211,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,14.1,21.419837801432934
+Delhi_220,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,9.3,20.30264637410144
+Delhi_222,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,14.5,22.804773475604215
+Delhi_35,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,13.6,23.416833020590364
+Delhi_53,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,5.4,17.90196827158625
+Delhi_65,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,9.8,24.41307412946513
+Delhi_67,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,13.7,22.680813393028416
+Delhi_72,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,12.8,19.999840821490977
+Delhi_78,Brown Bun Pack,Harvest Gold,Bakery,Delhi,2025-06-24,2025-06-27,0.5,32,21.3,0.6,False,Not Spoiled,0,monitor,No,False,7.7,17.948713865793838
+Bangalore_10,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,2.1,18.723659710900108
+Bangalore_111,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,13.8,18.276663945362973
+Bangalore_142,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,2.3,23.29146593476464
+Bangalore_155,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,13.7,18.708418622336463
+Bangalore_156,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,3.9,22.290328857286674
+Bangalore_161,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,7.0,19.37145633815048
+Bangalore_163,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,8.7,19.611621704669112
+Bangalore_174,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,7.6,17.61908611807344
+Bangalore_31,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,8.0,16.465170989448005
+Bangalore_37,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,5.0,17.75095303066924
+Bangalore_4,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,13.3,19.4716923235652
+Bangalore_56,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,7.4,22.39338601283704
+Bangalore_67,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,13.0,17.038609525328575
+Bangalore_70,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,13.7,21.93787663666374
+Bangalore_73,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,9.2,21.328680734084564
+Bangalore_87,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,5.6,17.582836787670487
+Bangalore_89,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,7.3,22.07303851906876
+Bangalore_94,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,9.6,17.11238072743419
+Bangalore_95,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-25,2025-07-04,6.0,261,20.0,0.43,False,Not Spoiled,0,none,No,False,10.3,19.966088229015963
+Chennai_103,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,4.3,9.7422248002142
+Chennai_104,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,7.5,10.241206530629285
+Chennai_116,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,12.0,10.250617551898102
+Chennai_12,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,2.9,10.270561948039616
+Chennai_131,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,10.4,10.18787271667167
+Chennai_132,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,6.0,8.995481855633571
+Chennai_135,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,11.6,9.06406760881262
+Chennai_147,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,8.9,10.981281111425004
+Chennai_149,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,9.3,11.88198602954918
+Chennai_151,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,14.9,10.91916718938718
+Chennai_158,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,4.0,11.680515413012596
+Chennai_176,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,10.5,8.877307708285212
+Chennai_196,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,14.7,8.69213549331709
+Chennai_5,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,11.7,9.18473360546113
+Chennai_64,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,2.5,9.776070940105727
+Chennai_68,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,3.1,11.160228903739764
+Chennai_69,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,12.6,10.449095397748405
+Chennai_75,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,2.0,9.817111047417637
+Chennai_82,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-25,2025-07-03,5.0,247,10.0,0.99,False,Not Spoiled,0,donate,No,False,11.5,11.454159129912185
+Delhi_1,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,4.3,13.056745783367658
+Delhi_125,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,3.6,15.507438675638465
+Delhi_127,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,4.1,10.749727595663206
+Delhi_135,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,2.6,12.384087380441992
+Delhi_139,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,9.7,12.039332614653349
+Delhi_144,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,13.1,13.5002280555623
+Delhi_162,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,8.4,11.92301284252422
+Delhi_171,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,10.2,13.900687638209948
+Delhi_186,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,6.0,13.136601876025182
+Delhi_192,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,5.3,12.604929401364451
+Delhi_204,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,9.3,11.274620934679158
+Delhi_205,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,3.0,14.376531096484015
+Delhi_215,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,14.4,12.434282773095315
+Delhi_216,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,4.1,11.030047395469095
+Delhi_27,Chicken Breast 500g,Godrej,Meat,Delhi,2025-06-25,2025-07-05,7.0,260,13.0,0.57,False,Not Spoiled,0,monitor,Yes,True,10.7,10.7416799081772
+Kanpur_100,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,9.9,10.770168252292232
+Kanpur_115,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,6.1,10.501131687735436
+Kanpur_117,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,9.9,10.135195292690074
+Kanpur_127,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,10.1,11.095432132326478
+Kanpur_13,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,8.4,9.98253092546004
+Kanpur_146,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,3.1,11.462173897979266
+Kanpur_149,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,11.7,12.350157391087208
+Kanpur_166,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,10.5,8.523139014801444
+Kanpur_170,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,6.3,10.110982769426844
+Kanpur_173,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,2.3,10.051771106913534
+Kanpur_198,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,3.9,9.286593282603071
+Kanpur_205,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,10.2,11.097148875692204
+Kanpur_226,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,9.8,10.758763750059364
+Kanpur_245,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,13.1,9.464282202785178
+Kanpur_257,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,12.9,9.58140169139343
+Kanpur_37,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,7.0,8.802100373396888
+Kanpur_43,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,2.5,10.238863490818952
+Kanpur_57,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,6.9,10.701597085127837
+Kanpur_7,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,9.6,9.98200467382371
+Kanpur_82,Multigrain Cookies,Sunfeast,Bakery,Kanpur,2025-06-25,2025-06-30,2.0,60,10.4,0.58,False,Not Spoiled,0,monitor,No,False,2.6,8.878790528401783
+Mumbai_100,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,8.3,13.54032802652621
+Mumbai_105,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,9.4,15.755799829875484
+Mumbai_107,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,5.4,16.60672753383782
+Mumbai_17,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,13.1,12.951608562206818
+Mumbai_2,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,7.8,13.991406596879864
+Mumbai_22,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,9.7,15.315659113325752
+Mumbai_27,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,4.0,15.395012608922611
+Mumbai_38,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,12.9,15.617590881451887
+Mumbai_39,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,11.5,16.620783701064234
+Mumbai_44,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,10.7,13.963864174267435
+Mumbai_48,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,6.6,16.08396551099308
+Mumbai_49,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,5.0,12.440804004244828
+Mumbai_50,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,8.8,13.392068607308442
+Mumbai_57,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,8.7,15.046790809543902
+Mumbai_60,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,7.9,13.12068291276261
+Mumbai_7,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,12.9,12.211658230858292
+Mumbai_72,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,13.4,13.1054964795421
+Mumbai_77,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,7.9,14.277671798150946
+Mumbai_8,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,7.6,12.187361634089305
+Mumbai_86,Bingo Mad Angles,ITC,Snacks,Mumbai,2025-06-25,2025-07-02,4.0,63,14.9,0.21,False,Not Spoiled,0,none,No,False,7.9,14.633212229777584
+Bangalore_105,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,10.6,13.964695316667791
+Bangalore_110,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,10.8,13.584989623364429
+Bangalore_113,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,10.5,15.468870050339676
+Bangalore_123,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,11.5,14.204715923339144
+Bangalore_128,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,2.7,12.527983908636417
+Bangalore_138,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,10.8,13.76812365341941
+Bangalore_147,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,3.8,12.583945033939884
+Bangalore_172,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,9.8,17.039634768834066
+Bangalore_22,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,2.6,11.889274821751078
+Bangalore_25,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,14.9,15.169216917531031
+Bangalore_39,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,13.4,12.639068693362814
+Bangalore_43,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,5.9,11.47451307067723
+Bangalore_52,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,3.0,14.166250600342126
+Bangalore_58,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,3.6,12.975287969198172
+Bangalore_64,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,5.0,16.59424312273914
+Bangalore_7,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,5.5,12.600092038979565
+Bangalore_74,White Bread,Harvest Gold,Bakery,Bangalore,2025-06-26,2025-07-02,4.0,162,14.2,0.57,False,Not Spoiled,0,monitor,No,False,5.7,16.116253557101818
+Bangalore_0,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,14.7,25.49873415828835
+Bangalore_103,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,3.5,20.5521012353542
+Bangalore_117,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,9.9,22.06536090700512
+Bangalore_122,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,13.6,20.335979392632726
+Bangalore_130,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,10.9,25.367353181538903
+Bangalore_132,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,7.0,24.94405664750555
+Bangalore_134,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,11.1,27.991599689787225
+Bangalore_152,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,11.5,27.655517857602437
+Bangalore_16,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,6.3,20.166159122013624
+Bangalore_166,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,5.2,28.80459372813251
+Bangalore_175,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,10.6,23.220521972388628
+Bangalore_20,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,10.2,20.026615284641725
+Bangalore_23,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,7.8,25.95818349732222
+Bangalore_24,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,8.1,20.864712789593103
+Bangalore_27,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,2.4,20.20134884813332
+Bangalore_40,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,14.0,28.14099413357596
+Bangalore_60,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,11.9,28.122298979017923
+Bangalore_66,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,4.4,23.63884078994608
+Bangalore_68,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,5.2,23.33539214056197
+Bangalore_81,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,14.2,23.917429437323158
+Bangalore_85,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,12.6,23.41387694087732
+Bangalore_9,Mutton Mince 250g,Godrej,Meat,Bangalore,2025-06-26,2025-07-03,5.0,295,24.6,0.48,False,Not Spoiled,0,none,No,True,4.5,25.21630286082133
+Chennai_11,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,8.1,23.620404920821787
+Chennai_160,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,12.2,22.775294543142145
+Chennai_17,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,7.2,21.841969714487057
+Chennai_186,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,3.6,26.22304656495545
+Chennai_191,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,10.5,24.06140036852484
+Chennai_193,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,2.7,19.492043192257743
+Chennai_202,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,4.9,22.38972858219116
+Chennai_27,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,6.0,22.1217299779756
+Chennai_30,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,7.0,23.035786089339567
+Chennai_4,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,12.1,21.38176281187417
+Chennai_45,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,5.5,19.058312939768246
+Chennai_46,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,12.2,19.815661800152085
+Chennai_50,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,8.6,23.55534509047028
+Chennai_59,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,13.1,19.01041207737472
+Chennai_96,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,11.5,25.281463532369653
+Chennai_98,Brown Bun Pack,Harvest Gold,Bakery,Chennai,2025-06-26,2025-07-08,10.0,90,22.4,0.08,False,Not Spoiled,0,none,Yes,False,12.3,23.723111916588703
+Chennai_1,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,2.7,4.323283412622314
+Chennai_107,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,14.0,4.976973227179308
+Chennai_125,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,6.1,4.456910425256532
+Chennai_133,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,11.5,5.439193436766369
+Chennai_139,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,5.8,4.068557410058201
+Chennai_144,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,7.2,4.540764693450455
+Chennai_165,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,12.2,3.715375522211909
+Chennai_178,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,2.8,5.136800993019709
+Chennai_20,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,14.3,4.636375909755498
+Chennai_200,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,9.4,4.772054046836002
+Chennai_22,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,10.2,5.134156827101357
+Chennai_32,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,2.3,4.255563482929404
+Chennai_35,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,8.0,5.204514120956164
+Chennai_44,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,5.8,5.025474200250203
+Chennai_56,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,5.1,4.014848053364737
+Chennai_67,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,8.1,5.326234856770132
+Chennai_74,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,4.7,4.626973509872407
+Chennai_90,Amul Milk 500ml,Amul,Dairy,Chennai,2025-06-26,2025-06-30,2.0,12,4.6,0.26,False,Not Spoiled,0,none,No,True,2.3,4.26058741781639
+Kanpur_103,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,11.9,3.252302271837733
+Kanpur_131,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,11.7,2.620940803573796
+Kanpur_15,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,10.7,2.440977496682479
+Kanpur_155,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,2.3,2.5785351939844605
+Kanpur_156,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,2.7,3.096250423059108
+Kanpur_174,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,5.4,2.88440506669908
+Kanpur_175,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,2.8,2.9351913910758545
+Kanpur_179,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,8.1,3.1144793246733578
+Kanpur_188,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,6.2,2.321210500184616
+Kanpur_195,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,14.6,2.6216425575446887
+Kanpur_210,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,11.8,2.8552561678005426
+Kanpur_214,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,5.5,2.2958471086655816
+Kanpur_222,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,12.7,3.264450282224206
+Kanpur_223,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,8.1,3.1736709141000023
+Kanpur_265,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,10.3,2.826396302857047
+Kanpur_32,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,9.0,2.3923402711384227
+Kanpur_38,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,9.5,2.2757395746719924
+Kanpur_58,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,8.1,2.99794281262086
+Kanpur_8,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,3.8,3.057532088603736
+Kanpur_83,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,4.5,2.7417436562911277
+Kanpur_98,Chicken Breast 500g,Godrej,Meat,Kanpur,2025-06-26,2025-07-05,7.0,100,2.8,1.0,True,Spoiled,100,donate,Yes,True,5.0,2.673409442141009
+Kanpur_119,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,8.9,12.905509886974516
+Kanpur_123,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,8.8,15.078476566225554
+Kanpur_128,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,12.4,15.76223841267872
+Kanpur_136,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,7.3,12.679821212486994
+Kanpur_140,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,2.5,14.67100424644981
+Kanpur_197,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,2.4,13.007213324389664
+Kanpur_203,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,14.6,12.6357024450719
+Kanpur_22,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,4.4,11.901207415708171
+Kanpur_243,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,12.3,11.880677904696348
+Kanpur_258,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,11.6,14.878317076043372
+Kanpur_35,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,10.9,12.627603001687785
+Kanpur_48,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,11.7,12.221381162809507
+Kanpur_54,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,6.2,11.55730828601303
+Kanpur_61,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,3.6,14.755742143776828
+Kanpur_62,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,15.0,13.594152912692476
+Kanpur_85,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,4.0,14.443160940418446
+Kanpur_9,Bingo Mad Angles,ITC,Snacks,Kanpur,2025-06-27,2025-07-07,9.0,289,13.2,0.49,False,Not Spoiled,0,none,No,False,12.7,10.8573474923481

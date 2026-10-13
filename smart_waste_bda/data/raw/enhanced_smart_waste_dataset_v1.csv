@@ -1,0 +1,1001 @@
+ItemName,Brand,Category,StockQty,ArrivalDate,ExpiryDate,DaysUntilExpiry,DailySaleAvg,SpoilageChance,SuggestedAction,StoreLocation,IsSpoiled,OnPromotion,TemperatureSensitive,StoreID,Zone,TemperatureSupport,DistanceToNearestStore,AvgDailySaleInNearbyStores
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_0,,,6.1,13.178196371286637
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_0,,,5.0,8.98111835739282
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_0,West,False,10.3,17.169272791481962
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_1,,,8.8,11.07599655764262
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_1,West,False,10.4,4.6414597333190555
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_0,North,True,12.8,1.9979465960935092
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_2,,,6.1,8.330349530467792
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_0,,,14.7,25.49873415828835
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_1,,,2.7,4.323283412622314
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_1,North,True,4.3,13.056745783367658
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_2,North,True,13.4,18.638055308412195
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_3,,,11.7,13.74722070854663
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_2,,,8.6,15.228350037244736
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_3,,,13.1,12.034553856048333
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_4,,,12.1,21.381762811874175
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_4,,,11.0,12.784893077313457
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_5,,,14.6,13.671372729104679
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_1,,,11.8,17.509534591270622
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_5,,,11.7,9.18473360546113
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_2,,,8.8,18.628306019960757
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_3,North,True,3.9,1.7582630979301153
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_2,West,False,7.8,13.991406596879864
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_6,,,6.2,14.039093464301198
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_6,,,5.5,7.8726259005084245
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_4,North,True,12.4,12.047109475475253
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_3,West,False,7.5,25.50253095085909
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_5,North,True,3.7,23.368097843347567
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_3,,,9.7,4.092703423630954
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_7,,,9.6,9.98200467382371
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_4,,,13.3,19.471692323565197
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_6,North,True,6.9,14.1371559016738
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_5,,,9.6,10.489396985263976
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_7,North,True,3.9,5.049429827839362
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_6,,,11.7,16.774538800564105
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_8,North,True,13.5,19.394049193122676
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_8,,,3.8,3.057532088603736
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_7,,,9.2,11.742330189454153
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_8,,,7.2,11.247595042159588
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_9,North,True,4.9,0.7125352148857804
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_4,West,False,7.9,3.669707921238142
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_7,,,5.5,12.600092038979565
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_9,,,12.7,10.857347492348099
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_10,North,True,2.3,8.311994451510696
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_9,,,8.5,16.390997538160125
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_11,North,True,14.9,2.616908010993007
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_10,,,13.1,13.44976881297342
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_10,,,8.1,12.961849562308917
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_11,,,13.4,22.221072305584546
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_12,,,2.2,26.642722144997595
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_8,,,7.8,12.785956280752707
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_12,North,True,2.6,0.5083488890258426
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_13,,,8.4,9.98253092546004
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_11,,,8.1,23.620404920821787
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_13,North,True,6.1,10.309820923609259
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_9,,,4.5,25.216302860821326
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_14,North,True,5.8,1.6182931314505011
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_15,North,True,7.0,0.5418861462103061
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_12,,,2.9,10.270561948039616
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_13,,,12.5,11.378239723077362
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_16,North,True,14.9,19.37586535714822
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_17,North,True,6.0,23.976512868572716
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_14,,,2.9,5.999938443126327
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_15,,,10.7,2.440977496682479
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_5,West,False,2.2,4.632835114944544
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_16,,,11.7,6.374635213367254
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_6,West,False,5.0,19.36241314112598
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_7,West,False,12.9,12.211658230858292
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_17,,,5.8,10.21187760000722
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_18,,,14.3,8.08786726529187
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_14,,,3.6,13.47911058697356
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_10,,,2.1,18.723659710900108
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_15,,,10.0,13.152453893814828
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_19,,,4.1,10.505198533313992
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_18,North,True,12.5,2.0263337017272645
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_19,North,True,13.9,5.123480003013667
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_20,,,14.9,13.282495525656303
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_8,West,False,7.6,12.187361634089303
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_16,,,13.3,14.462011272377628
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_20,North,True,11.3,12.354655675574234
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_21,,,7.0,21.371239390172935
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_21,North,True,14.5,22.224292380266842
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_22,,,4.4,11.901207415708171
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_11,,,4.9,3.232295424218532
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_23,,,9.1,13.459271894035728
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_17,,,7.2,21.841969714487057
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_24,,,11.3,13.216134383084887
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_18,,,6.8,13.89741866423125
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_9,West,False,13.7,22.75786321811597
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_19,,,7.2,11.245337713915873
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_25,,,9.9,10.508048178652446
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_22,North,True,12.5,1.9195677281073207
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_20,,,14.3,4.636375909755498
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_23,North,True,9.3,0.5482437834889199
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_12,,,7.2,22.32471749672883
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_26,,,9.0,8.244037845131242
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_24,North,True,6.8,11.502856061971967
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_21,,,13.1,12.484980536156513
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_13,,,3.9,14.362006955130177
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_22,,,10.2,5.134156827101357
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_10,West,False,2.6,26.952747719811818
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_27,,,6.3,9.010450801444533
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_14,,,2.2,18.413361407489653
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_15,,,2.3,3.0934219313836357
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_28,,,6.5,12.682904385072467
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_29,,,6.0,8.908025722771482
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_23,,,6.6,13.860342051167274
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_16,,,6.3,20.166159122013624
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_30,,,10.6,15.962288650992873
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_25,North,True,11.7,21.406196309089346
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_24,,,10.8,13.162922750062908
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_31,,,2.1,14.416310164098213
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_32,,,9.0,2.3923402711384227
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_17,,,5.5,12.759736556997032
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_11,West,False,7.0,4.6464642259741336
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_33,,,2.8,10.741726907279363
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_34,,,11.3,9.213323677272925
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_26,North,True,14.8,2.0956991224080253
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_35,,,10.9,12.627603001687785
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_36,,,2.7,7.993618184606953
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_37,,,7.0,8.802100373396888
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_18,,,12.0,20.602001128667425
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_12,West,False,13.5,28.055176116730713
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_25,,,7.4,14.429563680939827
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_19,,,7.6,19.015229120072846
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_27,North,True,10.7,10.741679908177199
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_38,,,9.5,2.2757395746719924
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_26,,,13.8,14.062615978526713
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_28,North,True,2.4,15.847439076056629
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_39,,,4.5,19.29114541952609
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_27,,,6.0,22.1217299779756
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_20,,,10.2,20.026615284641725
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_28,,,3.9,10.362352461066891
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_29,,,6.8,13.969919007215994
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_13,West,False,4.7,4.490401128412628
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_29,North,True,14.5,1.3959341513881653
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_40,,,5.3,14.543511428200455
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_30,North,True,4.1,2.9112452589964097
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_21,,,3.4,21.81097293384916
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_41,,,4.8,11.884317134292463
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_42,,,13.4,7.044138071645772
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_14,West,False,11.0,21.99009772489602
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_31,North,True,6.2,9.70245420339668
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_32,North,True,6.7,2.5049774972086585
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_22,,,2.6,11.889274821751078
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_43,,,2.5,10.238863490818952
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_30,,,7.0,23.035786089339567
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_33,North,True,3.7,2.5485089194796022
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_31,,,2.2,10.107821446394412
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_34,North,True,2.8,9.373530564809643
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_44,,,3.1,11.080239510630289
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_32,,,2.3,4.255563482929404
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_45,,,5.8,8.269674635607801
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_33,,,14.8,13.994454189529113
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_34,,,8.1,13.614357954235233
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_23,,,7.8,25.95818349732222
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_46,,,4.0,7.7106281302908
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_35,North,True,13.6,23.416833020590364
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_47,,,7.2,13.631404595093173
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_24,,,8.1,20.864712789593106
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_36,North,True,5.5,19.911568912019725
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_37,North,True,13.1,17.51829701159428
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_38,North,True,11.7,4.953354735954428
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_15,West,False,3.6,6.091653324219069
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_48,,,11.7,12.221381162809509
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_39,North,True,4.6,0.5320828498705751
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_25,,,14.9,15.169216917531031
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_26,,,4.5,4.164353553482537
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_49,,,11.5,11.014136717955552
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_35,,,8.0,5.204514120956164
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_27,,,2.4,20.201348848133318
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_50,,,6.4,14.523430718350882
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_28,,,5.8,18.607592502434525
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_40,North,True,6.5,5.811750067291721
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_51,,,10.7,20.042690037882352
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_36,,,5.6,11.640395062835445
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_52,,,11.0,6.179841336439774
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_37,,,14.0,11.976405613326694
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_41,North,True,6.4,24.26385863647381
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_38,,,8.1,13.663122501148452
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_16,West,False,5.8,4.068771751310263
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_17,West,False,13.1,12.951608562206818
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_42,North,True,12.4,18.55922787501462
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_43,North,True,2.3,19.1635945697461
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_39,,,13.0,12.423330080312383
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_44,North,True,14.2,21.716830736960773
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_40,,,5.1,11.530870972023166
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_53,,,13.6,13.07631332467675
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_41,,,2.4,13.86809376292993
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_18,West,False,4.3,18.201946605057557
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_42,,,6.6,9.999784946387045
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_19,West,False,14.8,5.934264599052246
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_20,West,False,8.2,27.937149021908276
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_43,,,14.6,12.370107727344045
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_45,North,True,4.2,0.6619376184179412
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_46,North,True,10.5,22.769063607823448
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_44,,,5.8,5.025474200250203
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_45,,,5.5,19.058312939768246
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_46,,,12.2,19.815661800152085
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_21,West,False,9.5,24.23643333807484
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_54,,,6.2,11.55730828601303
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_47,,,10.9,12.758948404014006
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_29,,,8.9,7.929286760497273
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_47,North,True,10.8,0.4906095136331367
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_55,,,14.4,19.471943181066912
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_30,,,7.3,10.678006118328062
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_56,,,3.5,10.429822042750281
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_31,,,8.0,16.465170989448005
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_48,,,2.9,11.760386169777416
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_49,,,7.1,13.008126073258575
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_48,North,True,3.2,0.5619642523536623
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_49,North,True,6.0,2.6279134309414935
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_50,,,8.6,23.555345090470276
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_50,North,True,12.2,7.7715421048199325
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_57,,,6.9,10.701597085127835
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_58,,,8.1,2.99794281262086
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_51,,,10.1,16.280982284271946
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_32,,,2.4,8.065967435703437
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_59,,,2.0,9.720289320273668
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_22,West,False,9.7,15.315659113325752
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_33,,,2.7,3.8006769795904556
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_60,,,8.1,9.401435141061894
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_61,,,3.6,14.755742143776828
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_51,North,True,14.9,2.8478040858955174
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_52,North,True,12.1,2.2424720551489257
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_34,,,2.4,4.24657132219609
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_35,,,10.3,4.06408059362634
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_52,,,5.4,11.495258125951658
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_53,,,12.5,16.543789603102397
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_36,,,7.6,20.155064630761174
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_37,,,5.0,17.75095303066924
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_53,North,True,5.4,17.90196827158625
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_38,,,3.8,4.045695449188197
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_54,North,True,13.3,9.766950230782566
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_55,North,True,13.1,0.5856789004589457
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_56,North,True,4.6,4.415558039121852
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_54,,,14.6,13.522657867703318
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_57,North,True,6.5,20.90565717245647
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_55,,,13.7,13.42249464331372
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_39,,,13.4,12.639068693362814
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_23,West,False,4.1,20.174992897688828
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_58,North,True,13.6,0.542974294852877
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_59,North,True,13.5,1.6317317995550134
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_40,,,14.0,28.14099413357596
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_60,North,True,12.2,22.348556525664375
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_56,,,5.1,4.014848053364737
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_57,,,9.5,9.693836281243703
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_61,North,True,3.4,4.240478699423167
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_62,,,15.0,13.594152912692476
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_58,,,8.1,15.89196032218575
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_63,,,8.6,7.379854424987331
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_59,,,13.1,19.010412077374717
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_41,,,13.0,9.45090723296851
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_42,,,14.0,8.732652868346557
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_64,,,5.1,7.5560495666678085
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_43,,,5.9,11.47451307067723
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_65,,,12.3,28.119218017332273
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_66,,,8.7,25.949991711395338
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_67,,,13.4,14.275960131734237
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_62,North,True,5.0,0.7025049138748536
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_68,,,4.5,9.773977023436345
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_24,West,False,4.3,17.696946058517483
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_69,,,12.7,24.84764168338715
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_60,,,2.3,12.359708712555515
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_70,,,13.1,23.231400920898924
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_71,,,2.9,17.156042321792455
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_72,,,4.0,20.330771716349467
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_73,,,13.7,9.232483398435948
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_74,,,11.8,9.259686023144122
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_44,,,5.1,4.146823306707194
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_61,,,9.0,10.362075091380772
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_62,,,9.6,10.491756679883471
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_45,,,14.2,10.583978531923828
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_63,North,True,11.6,5.794683856860759
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_63,,,12.7,10.417276000201365
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_64,,,2.5,9.776070940105727
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_75,,,5.2,7.758000339879617
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_65,,,5.4,11.744531627414586
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_25,West,False,14.1,18.814315526292074
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_46,,,8.8,7.338581390866389
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_64,North,True,2.2,2.3680444957371174
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_47,,,6.0,7.940442140309595
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_76,,,3.5,8.166836518268466
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_65,North,True,9.8,24.41307412946513
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_77,,,6.9,18.001614911016613
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_66,,,3.8,11.406465769956569
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_78,,,11.0,7.945850315215377
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_26,West,False,5.1,6.582404722490617
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_48,,,5.8,14.655483799146701
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_66,North,True,2.1,2.3446876672383694
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_27,West,False,4.0,15.395012608922613
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_67,North,True,13.7,22.680813393028416
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_79,,,11.5,24.41996071327996
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_80,,,4.3,11.72572826822866
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_68,North,True,14.0,4.18544826516638
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_67,,,8.1,5.326234856770132
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_69,North,True,10.5,1.856378100223694
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_81,,,9.8,14.796663912228402
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_82,,,2.6,8.878790528401783
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_28,West,False,5.8,20.83254297603935
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_49,,,4.0,22.753051504744672
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_83,,,4.5,2.7417436562911273
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_68,,,3.1,11.160228903739764
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_29,West,False,5.4,27.233162536725814
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_30,West,False,11.5,19.617000721230163
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_69,,,12.6,10.449095397748403
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_50,,,10.8,20.226526839123522
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_51,,,11.7,7.1759765123923795
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_84,,,3.6,9.51526125521794
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_52,,,3.0,14.166250600342126
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_70,North,True,6.6,5.81288303599399
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_31,West,False,4.9,3.744706920676577
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_71,North,True,9.8,0.6566348041614615
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_53,,,6.7,24.128619966780523
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_32,West,False,4.5,4.209856272769771
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_70,,,11.5,14.402281125816355
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_72,North,True,12.8,19.999840821490977
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_54,,,10.1,3.739505297361616
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_73,North,True,8.6,9.730065196962492
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_55,,,9.2,14.774970045290672
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_71,,,13.5,11.241776822652499
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_74,North,True,8.8,15.950129015630123
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_56,,,7.4,22.393386012837038
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_85,,,4.0,14.443160940418446
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_75,North,True,14.4,19.765669316847998
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_86,,,10.8,10.536581554965286
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_87,,,3.8,12.698578489971064
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_33,West,False,12.7,27.673166033037933
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_88,,,13.7,20.165572809954742
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_89,,,3.3,20.15606764234592
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_90,,,3.8,10.797208222647493
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_72,,,9.8,11.495096219675741
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_91,,,13.6,19.462911382423467
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_92,,,10.9,12.199073404627992
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_34,West,False,9.6,5.505978646556903
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_73,,,11.9,8.731847990864736
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_57,,,3.8,10.042931704321077
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_74,,,4.7,4.626973509872407
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_58,,,3.6,12.975287969198172
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_76,North,True,12.4,17.914487859743474
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_75,,,2.0,9.817111047417635
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_93,,,11.4,24.11003359332278
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_94,,,4.7,11.027608593902045
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_35,West,False,8.6,21.3944949692761
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_59,,,13.0,23.670415065118046
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_95,,,5.7,6.134536125197542
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_77,North,True,3.9,5.707045758416684
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_96,,,2.4,7.091181372420424
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_78,North,True,7.7,17.948713865793838
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_97,,,12.9,27.902147499500995
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_60,,,11.9,28.122298979017923
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_98,,,5.0,2.6734094421410095
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_76,,,7.6,10.085701996920863
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_36,West,False,5.9,3.9562315252292803
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_61,,,11.9,20.902399402311715
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_79,North,True,5.6,18.667704932770867
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_99,,,10.2,22.531991263279153
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_80,North,True,13.5,11.965990175029
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_81,North,True,4.7,19.37254866401526
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_82,North,True,8.9,10.95564777619931
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_100,,,9.9,10.770168252292232
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_62,,,3.4,22.71143828859967
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_77,,,5.1,15.882960365965214
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_63,,,4.0,18.1943594540982
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_101,,,14.1,7.972352958330712
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_83,North,True,4.4,25.30248462655541
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_102,,,8.4,10.883757491802358
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_64,,,5.0,16.59424312273914
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_103,,,11.9,3.2523022718377335
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_84,North,True,7.6,5.147934427138068
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_104,,,7.6,11.469523926826046
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_85,North,True,4.0,5.119796129137923
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_78,,,12.5,11.074195210657054
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_86,North,True,4.6,1.8087876818347906
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_105,,,7.1,19.39432382381348
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_65,,,14.5,17.317146653456742
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_66,,,4.4,23.638840789946077
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_106,,,7.6,8.467968221326093
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_37,West,False,4.8,17.6546739557074
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_107,,,3.5,18.392930241972405
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_87,North,True,5.0,4.696634253197571
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_108,,,7.9,20.406365566281718
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_109,,,10.3,13.518353305956584
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_38,West,False,12.9,15.617590881451887
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_39,West,False,11.5,16.620783701064234
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_79,,,14.3,13.751274912742021
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_67,,,13.0,17.038609525328575
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_80,,,11.0,10.05024697580687
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_81,,,12.0,13.874301371572601
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_88,North,True,8.1,2.300268637304102
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_68,,,5.2,23.33539214056197
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_89,North,True,3.6,22.999188604050147
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_90,North,True,10.7,18.107754637333585
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_69,,,2.7,16.089499509280625
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_91,North,True,11.4,2.0139481084436333
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_70,,,13.7,21.93787663666374
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_92,North,True,2.3,5.41810370590031
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_71,,,5.7,2.9827240250238485
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_110,,,13.8,11.89711289955298
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_93,North,True,8.3,4.739313385114578
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_40,West,False,11.6,5.873471608229895
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_111,,,11.1,22.363598781649706
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_82,,,11.5,11.454159129912185
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_112,,,4.8,9.28850360078035
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_94,North,True,5.0,17.786175045570573
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_113,,,6.4,26.869915008196084
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_114,,,6.2,17.663302642363565
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_83,,,3.5,11.839120231305175
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_72,,,14.1,3.8041754957362266
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_73,,,9.2,21.328680734084564
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_115,,,6.1,10.501131687735436
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_84,,,11.5,13.76848084643357
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_95,North,True,3.0,1.9213949604276381
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_96,North,True,9.2,21.337503123645256
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_74,,,5.7,16.116253557101818
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_85,,,4.9,12.24402042875302
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_116,,,5.0,5.652635685503178
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_117,,,9.9,10.135195292690074
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_118,,,5.9,20.717172452933138
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_86,,,7.5,15.922376598581147
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_97,North,True,3.4,13.613452497916553
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_98,North,True,3.0,25.841357221061926
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_99,North,True,5.0,5.116066595573322
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_100,North,True,12.7,1.5154031148548326
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_75,,,7.9,8.529438371873344
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_87,,,12.6,14.85469028492091
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_101,North,True,5.2,5.641237402868888
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_41,West,False,9.7,23.757265752428914
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_76,,,12.0,26.018518169682004
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_102,North,True,14.0,12.006698724759405
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_119,,,8.9,12.905509886974516
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_103,North,True,6.3,14.034222669382597
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_42,West,False,6.2,17.033001997425085
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_43,West,False,3.0,3.871756136815013
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_88,,,5.2,13.163816451169293
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_120,,,6.2,8.249257448728095
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_77,,,14.1,13.261310482428733
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_78,,,13.9,8.062770302050492
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_121,,,14.0,12.634150803196174
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_44,West,False,10.7,13.963864174267437
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_89,,,13.8,14.835714342006728
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_122,,,8.5,9.741409861587668
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_104,North,True,5.0,22.102430261559494
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_123,,,8.8,15.078476566225554
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_124,,,11.2,9.91352706161199
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_45,West,False,6.5,27.199579812994195
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_125,,,7.7,17.141262433427496
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_46,West,False,4.9,3.557497985863892
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_105,North,True,9.9,4.326110545700052
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_90,,,2.3,4.26058741781639
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_106,North,True,11.2,7.479835536289964
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_126,,,9.4,22.23261251994117
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_107,North,True,8.6,0.6175419389685596
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_127,,,10.1,11.095432132326478
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_128,,,12.4,15.76223841267872
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_47,West,False,6.5,24.358722802864985
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_108,North,True,5.4,18.458554742334247
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_79,,,6.0,10.90341112051324
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_109,North,True,13.0,9.483156511383934
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_129,,,7.9,6.038922101754295
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_91,,,6.3,11.770174768884555
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_130,,,7.0,10.731116597299893
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_131,,,11.7,2.620940803573796
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_110,North,True,8.8,3.2858773544263955
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_80,,,13.2,22.43332510184643
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_92,,,2.7,14.2319456944845
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_81,,,14.2,23.917429437323154
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_93,,,3.9,12.147626584893615
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_132,,,5.6,10.207279040927482
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_94,,,6.5,10.02413099232051
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_133,,,14.7,13.551284138043174
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_95,,,8.2,13.217883524381653
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_96,,,11.5,25.281463532369653
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_82,,,3.1,4.122240895756639
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_83,,,10.8,16.85225458122838
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_134,,,7.6,8.20189107263788
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_84,,,11.8,10.202690607477072
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_97,,,4.0,14.248520669248043
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_48,West,False,6.6,16.08396551099308
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_111,North,True,7.2,10.302097307262024
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_49,West,False,5.0,12.440804004244828
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_50,West,False,8.8,13.392068607308442
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_135,,,10.9,21.727267415673353
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_136,,,7.3,12.679821212486994
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_112,North,True,5.8,1.9701492892774155
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_98,,,12.3,23.723111916588703
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_113,North,True,14.3,7.22778967542782
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_99,,,13.4,9.846202970021164
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_114,North,True,9.5,4.767143387631463
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_85,,,12.6,23.413876940877316
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_100,,,11.6,15.174510410176719
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_101,,,7.5,12.067135158150975
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_51,West,False,8.5,6.453984277672255
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_115,North,True,11.7,0.6450992947629896
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_137,,,10.5,8.236992950766934
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_116,North,True,5.6,1.646924882754377
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_117,North,True,2.9,2.766038076926375
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_86,,,12.4,8.566405803315137
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_87,,,5.6,17.582836787670487
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_138,,,14.7,11.042663657901128
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_118,North,True,14.0,18.395498379887393
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_52,West,False,11.0,4.746548124694665
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_139,,,4.1,13.833024804094496
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_102,,,14.5,11.540131239703841
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_88,,,13.5,10.299338572123386
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_140,,,2.5,14.67100424644981
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_89,,,7.3,22.07303851906876
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_103,,,4.3,9.7422248002142
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_141,,,10.4,17.248218503440253
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_104,,,7.5,10.241206530629285
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_90,,,7.0,3.4152974304333354
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_53,West,False,10.0,24.167893888097396
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_105,,,3.3,8.423097028665678
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_54,West,False,14.6,21.966568407434202
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_106,,,3.5,11.88427412278119
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_107,,,14.0,4.976973227179308
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_142,,,7.5,13.652995302782406
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_108,,,13.8,14.239816358187642
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_109,,,8.1,11.41120944035918
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_143,,,9.5,16.386089794477606
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_91,,,10.3,18.870089024982782
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_92,,,9.9,9.089118015851694
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_144,,,2.8,21.073792299675194
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_119,North,True,2.2,9.601335914256032
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_55,West,False,5.2,4.39142944053127
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_120,North,True,13.2,2.3026901275143974
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_110,,,3.1,10.508786293252117
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_145,,,5.3,13.234473319126645
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_121,North,True,10.3,0.5720589443969031
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_56,West,False,13.6,5.539929788588992
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_57,West,False,8.7,15.046790809543902
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_146,,,3.1,11.462173897979266
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_58,West,False,14.5,21.756714995396386
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_147,,,4.3,14.022780267466052
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_59,West,False,14.7,20.777600100301687
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_148,,,9.6,12.877247858264997
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_111,,,4.8,9.467705753086133
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_60,West,False,7.9,13.12068291276261
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_149,,,11.7,12.350157391087208
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_112,,,12.3,14.19509229993054
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_93,,,9.5,3.5162482759440548
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_61,West,False,11.4,4.544372787099518
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_150,,,9.2,12.278950528763666
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_151,,,8.5,25.873977840680386
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_94,,,9.6,17.11238072743419
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_113,,,5.2,13.123216451250705
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_62,West,False,2.1,6.1205044204542505
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_152,,,11.9,15.8338594152068
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_153,,,12.1,10.952986208941685
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_63,West,False,5.4,24.689916482143747
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_64,West,False,11.0,20.563842855249465
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_154,,,11.4,22.075199756659227
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_122,North,True,3.4,1.5738278458766606
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_123,North,True,2.7,0.6127549131149951
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_155,,,2.3,2.5785351939844605
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_124,North,True,2.2,5.591706986163033
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_95,,,10.3,19.966088229015963
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_114,,,11.2,11.677863075180996
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_115,,,4.7,15.351088945468328
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_125,North,True,3.6,15.507438675638465
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_65,West,False,7.2,6.117340392336169
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_156,,,2.7,3.0962504230591077
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_96,,,6.7,18.546091400437884
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_126,North,True,2.6,12.22282720625095
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_127,North,True,4.1,10.749727595663206
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_116,,,12.0,10.250617551898102
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_97,,,14.7,7.930679598336809
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_117,,,4.1,9.867972969078398
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_66,West,False,7.9,6.340055650822869
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_128,North,True,10.8,2.4713487878259186
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_157,,,8.8,8.120199338163925
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_158,,,8.6,12.913868872995362
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_159,,,10.8,6.998829111998647
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_160,,,9.7,10.541434372700364
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_161,,,3.9,7.254525038874465
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_162,,,13.2,25.09260531254039
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_98,,,12.2,3.202623545698137
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_99,,,5.9,9.778841068179794
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_129,North,True,9.7,24.35878163868319
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_100,,,2.7,17.047183366306175
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_163,,,5.5,5.868449424863041
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_164,,,12.4,15.235592722567972
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_101,,,8.1,12.80488705572395
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_130,North,True,8.8,21.143932731584567
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_131,North,True,14.2,4.35013418688547
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_132,North,True,11.5,5.867087146132548
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_133,North,True,12.5,9.26103891402193
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_118,,,7.2,10.216208952635952
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_165,,,9.7,13.319056604171784
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_67,West,False,6.8,22.43370908722094
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_119,,,4.5,12.639882316555756
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_134,North,True,7.2,5.770051946806015
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_68,West,False,13.4,3.6390427534463523
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_135,North,True,2.6,12.384087380441992
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_136,North,True,2.8,9.229978271135625
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_120,,,9.4,16.583530751520023
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_166,,,10.5,8.523139014801444
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_121,,,14.6,15.921234692262596
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_167,,,2.9,14.247888515838993
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_137,North,True,6.8,13.376033758242885
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_122,,,14.3,12.327351112468664
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_168,,,4.0,9.767687796825204
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_102,,,6.5,13.645936757982879
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_138,North,True,4.7,22.49607093428052
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_123,,,14.9,11.733275224856168
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_169,,,13.7,18.770964705740187
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_69,West,False,5.9,20.21402804691491
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_103,,,3.5,20.552101235354197
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_170,,,6.3,10.110982769426844
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_70,West,False,7.3,24.16938635963582
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_139,North,True,9.7,12.039332614653349
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_71,West,False,14.8,26.922000310019282
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_104,,,3.1,17.717025652219263
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_105,,,10.6,13.964695316667793
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_171,,,6.8,9.872459860238
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_172,,,4.7,11.618140625829335
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_106,,,13.0,12.135413440042313
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_140,North,True,8.5,2.7507403540727777
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_141,North,True,6.9,18.570221897306826
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_173,,,2.3,10.051771106913534
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_174,,,5.4,2.88440506669908
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_142,North,True,8.3,8.846704055807692
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_143,North,True,11.9,1.361633322251627
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_175,,,2.8,2.9351913910758545
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_144,North,True,13.1,13.500228055562301
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_124,,,10.1,10.67635726786521
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_125,,,6.1,4.456910425256532
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_176,,,6.5,7.737654460937962
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_145,North,True,7.3,23.238109043597454
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_177,,,13.9,19.91118421588256
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_146,North,True,9.7,25.281749819477213
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_178,,,6.8,23.704495744871153
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_179,,,8.1,3.1144793246733578
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_107,,,8.7,21.722909965720515
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_180,,,13.7,23.056029677770777
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_147,North,True,11.3,0.6922566269189463
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_108,,,2.6,10.348409020574636
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_181,,,12.5,5.832903377585052
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_126,,,12.4,14.494121763281479
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_109,,,2.6,9.60525678390045
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_127,,,6.8,8.287639072952793
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_182,,,2.5,12.767742308265616
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_183,,,4.4,24.087942254967203
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_128,,,5.3,12.32621819224195
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_129,,,8.6,11.876623880583745
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_148,North,True,5.9,10.125259637016248
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_149,North,True,3.5,25.569787857474573
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_110,,,10.8,13.584989623364429
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_111,,,13.8,18.276663945362973
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_184,,,12.3,15.018894910875515
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_185,,,9.2,28.818681399700043
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_112,,,3.7,24.30874531463553
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_186,,,3.9,26.22736760312019
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_150,North,True,13.8,10.31429168045675
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_72,West,False,13.4,13.105496479542099
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_130,,,11.1,12.487053269999935
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_131,,,10.4,10.18787271667167
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_187,,,5.8,27.232019347677962
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_188,,,6.2,2.321210500184616
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_189,,,10.9,11.01549951833112
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_113,,,10.5,15.468870050339675
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_132,,,6.0,8.995481855633571
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_190,,,5.9,11.5376985985715
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_133,,,11.5,5.439193436766369
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_191,,,2.5,10.865375998456205
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_114,,,14.6,3.777889058948044
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_134,,,7.3,10.250566741149582
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_151,North,True,4.2,15.278699070662693
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_135,,,11.6,9.064067608812621
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_192,,,9.6,12.82686342029544
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_193,,,8.0,11.519269944554663
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_73,West,False,10.1,5.481977000802756
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_152,North,True,3.3,21.67527639931437
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_194,,,4.9,15.543037823756265
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_153,North,True,5.6,12.171411677651568
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_154,North,True,8.5,1.7998938737879229
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_195,,,14.6,2.6216425575446887
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_136,,,2.9,15.149454540293474
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_196,,,10.0,13.242858649535833
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_155,North,True,2.4,0.5731994707354353
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_156,North,True,12.2,2.9508460507688614
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_197,,,2.4,13.007213324389665
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_157,North,True,6.2,0.6947808618861377
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_137,,,14.6,13.191294412977333
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_158,North,True,11.9,16.108848064141124
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_74,West,False,11.2,6.232631236018964
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_159,North,True,4.4,24.335591027041186
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_138,,,10.5,10.375337518618322
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_198,,,3.9,9.286593282603071
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_160,North,True,2.4,9.93753535260322
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_161,North,True,6.2,19.116389684504824
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_115,,,13.5,22.106036467253254
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_199,,,13.8,15.110117496618114
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_200,,,10.7,15.759351459194187
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_139,,,5.8,4.068557410058201
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_162,North,True,8.4,11.92301284252422
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_140,,,14.1,12.538684187122485
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_201,,,4.2,14.926487253656076
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_141,,,14.4,14.154783234500021
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_202,,,6.9,11.11104481062035
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_142,,,13.3,15.499591945449417
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_143,,,12.9,12.912321228648253
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_75,West,False,15.0,4.305852691189448
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_203,,,14.6,12.6357024450719
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_144,,,7.2,4.540764693450455
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_116,,,11.9,11.195858559135056
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_163,North,True,6.8,18.051305954679055
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_204,,,4.4,7.877193354171585
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_76,West,False,2.1,4.98256470170341
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_205,,,10.2,11.097148875692204
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_145,,,11.3,9.588932925479632
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_146,,,8.6,10.363547355251528
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_147,,,8.9,10.981281111425004
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_117,,,9.9,22.06536090700512
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_206,,,3.8,18.565151256286715
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_164,North,True,2.5,3.1971288023084172
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_148,,,9.8,14.239491936294382
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_77,West,False,7.9,14.277671798150946
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_207,,,9.6,18.616901126111156
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_208,,,6.0,8.205506290633803
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_165,North,True,10.8,9.031626314047005
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_166,North,True,3.4,2.2946845289339453
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_209,,,13.5,9.80566134760325
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_210,,,11.8,2.8552561678005426
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_167,North,True,13.5,2.0843979504039547
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_168,North,True,6.0,16.251003384392455
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_149,,,9.3,11.88198602954918
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_150,,,3.4,16.561513465153958
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_169,North,True,9.4,0.5269256433020819
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_170,North,True,4.2,17.63556276603117
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_171,North,True,10.2,13.900687638209947
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_78,West,False,2.7,20.897142678267524
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_151,,,14.9,10.91916718938718
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_172,North,True,13.1,0.5070248955491956
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_79,West,False,3.8,21.351629907757957
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_173,North,True,5.5,2.8930145944417536
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_152,,,7.2,12.434583559536243
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_118,,,7.4,11.748754746728233
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_119,,,13.6,3.627678471425022
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_120,,,2.3,17.852615084986827
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_121,,,2.2,3.4204710611769436
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_122,,,13.6,20.335979392632726
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_123,,,11.5,14.204715923339144
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_174,North,True,4.8,0.6010220573719921
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_153,,,5.2,12.615190992430634
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_80,West,False,2.5,22.975369364429092
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_154,,,9.6,11.600768776467655
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_124,,,8.1,3.581924206168432
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_211,,,12.5,22.677183061765025
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_175,North,True,4.6,10.025570715720505
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_176,North,True,4.9,5.59944874708335
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_155,,,11.2,14.287406128012309
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_177,North,True,11.3,1.7182878772560795
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_156,,,4.6,14.49571722942411
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_178,North,True,10.0,2.4419283060288484
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_125,,,13.6,10.020489187922127
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_179,North,True,10.4,2.631551965719093
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_212,,,10.5,14.92022858273261
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_180,North,True,12.5,1.6713508126011036
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_213,,,6.6,13.82115632942281
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_181,North,True,2.0,1.6803430358594762
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_182,North,True,11.0,25.068129653628223
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_157,,,3.1,11.062741692092656
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_214,,,5.5,2.2958471086655816
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_183,North,True,7.3,23.370699855130166
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_158,,,4.0,11.680515413012596
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_126,,,11.5,20.24285875909083
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_127,,,11.9,19.823305278803964
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_215,,,3.6,14.659972475938352
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_128,,,2.7,12.527983908636415
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_216,,,9.4,25.00747520243153
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_159,,,10.8,12.311311054426275
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_160,,,12.2,22.775294543142145
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_184,North,True,2.5,16.44203073849381
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_161,,,9.9,13.539025771650147
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_81,West,False,2.2,20.829370522979804
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_217,,,7.2,11.512632416332387
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_162,,,7.8,13.25171780992536
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_185,North,True,4.2,22.13021906997019
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_218,,,8.9,11.273404411568727
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_186,North,True,6.0,13.136601876025182
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_129,,,8.0,8.18699023028556
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_219,,,10.7,10.489499098318188
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_130,,,10.9,25.367353181538906
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_163,,,12.4,11.557765924117145
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_220,,,3.4,16.353823767958314
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_221,,,13.5,7.08690901570316
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_131,,,2.9,3.1970788499046443
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_132,,,7.0,24.94405664750555
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_133,,,9.5,4.016805248125252
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_222,,,12.7,3.264450282224206
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_82,West,False,5.8,25.977572207957905
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_134,,,11.1,27.991599689787225
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_135,,,9.0,14.846468240818119
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_136,,,9.2,3.517685293914393
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_137,,,4.3,3.3003581242343483
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_164,,,13.4,9.876587831953254
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_138,,,10.8,13.76812365341941
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_223,,,8.1,3.1736709141000023
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_187,North,True,4.5,24.693511343447057
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_224,,,11.3,14.778878145195755
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_165,,,12.2,3.715375522211909
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_188,North,True,2.0,4.755648541970072
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_139,,,6.3,22.038369972068587
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_166,,,13.6,15.014629760260418
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_140,,,9.8,4.114875092383835
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_225,,,2.3,21.124834925284162
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_226,,,9.8,10.758763750059364
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_167,,,8.4,12.053602031257917
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_168,,,4.5,14.73713511886439
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_189,North,True,3.6,21.000394409515764
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_190,North,True,4.0,2.2305578155720784
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_141,,,2.3,21.066517606433905
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_83,West,False,10.0,6.652943335168645
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_227,,,6.3,12.644678264513766
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_191,North,True,14.4,11.250493983196026
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_228,,,12.5,9.949074682290082
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_192,North,True,5.3,12.604929401364453
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_142,,,2.3,23.29146593476464
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_143,,,8.6,12.257783399597786
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_193,North,True,6.7,2.840035001211501
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_84,West,False,9.7,5.958392547419873
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_194,North,True,3.2,5.686552611103084
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_169,,,4.9,11.525834261352093
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_144,,,4.5,17.77610857967271
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_145,,,8.1,10.452536281998967
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_229,,,9.5,12.219922330959962
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_230,,,8.3,27.294884221209347
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_195,North,True,8.9,17.909164131207454
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_196,North,True,10.3,2.0025846832697813
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_85,West,False,9.8,25.240645432335423
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_197,North,True,2.2,9.39201619068601
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_86,West,False,7.9,14.633212229777584
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_198,North,True,13.3,22.58484817328391
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_231,,,3.4,23.466582749288637
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_170,,,13.3,11.854859927394438
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_199,North,True,3.4,5.207514455230429
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_146,,,8.0,16.85855411125313
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_147,,,3.8,12.583945033939884
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_200,North,True,7.9,19.178140726284894
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_171,,,9.3,11.321067780402648
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_201,North,True,5.6,1.4097471602919196
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_232,,,12.1,23.84484191445153
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_202,North,True,6.5,1.8713152806356874
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_148,,,14.6,3.655711709367197
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_233,,,7.9,16.191320403369406
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_87,West,False,8.8,5.7883712611048725
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_203,North,True,3.4,12.175737830801937
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_88,West,False,11.6,6.555872031267727
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_172,,,12.3,13.95030478930274
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_89,West,False,9.7,18.34282778349184
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_173,,,3.5,12.731534342496731
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_174,,,2.1,11.970789495487464
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_175,,,6.6,11.841669058782742
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_204,North,True,9.3,11.274620934679158
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_205,North,True,3.0,14.376531096484017
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_176,,,10.5,8.877307708285212
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_234,,,6.5,13.169978557908692
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_206,North,True,3.9,1.8292674644664337
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_177,,,2.2,11.075866225149282
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_178,,,2.8,5.136800993019709
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_179,,,9.8,13.828170219903392
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_180,,,6.1,10.702411417261455
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_207,North,True,14.2,3.345416066023808
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_181,,,3.4,13.873090129690144
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_235,,,11.1,8.70306968101482
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_182,,,5.3,12.404345650315472
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_236,,,6.7,19.62504889756188
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_90,West,False,2.6,3.9123676144912856
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_149,,,8.2,9.657045244961642
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_150,,,11.0,16.742482625078775
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_151,,,11.6,3.612708939642911
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_208,North,True,4.4,16.441007818527435
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_152,,,11.5,27.655517857602433
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_209,North,True,12.3,0.6471431054473554
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_91,West,False,6.1,25.16644644307385
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_153,,,3.3,17.297551059359
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_92,West,False,14.3,23.774418343765674
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_154,,,13.2,11.878546020059424
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_237,,,14.9,14.105468414352032
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_183,,,7.2,12.001188947958356
+Amul Milk 500ml,Amul,Dairy,11,16-06-2025,28-06-2025,0.5,14.1,0.31,none,Chennai,False,Yes,True,Chennai_184,,,3.1,12.159726106139352
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_93,West,False,8.7,6.0806690173675575
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_155,,,13.7,18.708418622336463
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_156,,,3.9,22.290328857286674
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_238,,,12.5,13.063539959052562
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_239,,,12.5,21.373021958271867
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_240,,,7.7,13.094577911381904
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_185,,,14.2,11.81983937365849
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_186,,,3.6,26.223046564955446
+Brown Bun Pack,Harvest Gold,Bakery,39,19-06-2025,30-06-2025,2.0,10.3,0.38,none,Chennai,False,No,False,Chennai_187,,,14.9,10.107709782148085
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_210,North,True,11.8,1.8518140542093773
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_188,,,8.0,14.638086614531998
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_241,,,10.8,9.379078679603493
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_211,North,True,14.1,21.419837801432934
+Kurkure Masala,PepsiCo,Snacks,148,12-06-2025,19-06-2025,0.5,0.6,1.0,donate,Delhi,True,No,False,Delhi_212,North,True,5.6,0.5958982673144816
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_189,,,3.0,10.785834718926106
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_157,,,4.4,16.856177096364807
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_190,,,9.4,11.052201933337283
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_158,,,11.4,10.849766621995663
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_159,,,11.8,19.575315768370587
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_160,,,4.6,22.680690810111805
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_161,,,7.0,19.371456338150477
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_191,,,10.5,24.061400368524836
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_213,North,True,11.9,22.374156253466655
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_162,,,12.5,19.368119496043352
+Fish Fillet 300g,FreshCatch,Meat,40,21-06-2025,25-06-2025,0.5,12.5,1.0,donate,Chennai,True,Yes,True,Chennai_192,,,5.3,10.40319885214396
+Spinach Bunch,Local Farmer,Produce,268,16-06-2025,24-06-2025,0.5,4.9,1.0,donate,Delhi,False,Yes,True,Delhi_214,North,True,14.2,4.251222095508072
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_242,,,11.1,7.157070501253891
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_193,,,2.7,19.492043192257746
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_163,,,8.7,19.611621704669112
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_243,,,12.3,11.880677904696348
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_244,,,8.7,18.745125919482238
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_94,West,False,10.5,4.537030900580715
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_245,,,13.1,9.464282202785178
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_246,,,11.9,11.474294710500859
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_215,North,True,14.4,12.434282773095317
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_247,,,2.4,16.319854360526517
+Chicken Breast 500g,Godrej,Meat,260,25-06-2025,05-07-2025,7.0,13.0,0.57,monitor,Delhi,False,Yes,True,Delhi_216,North,True,4.1,11.030047395469097
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_248,,,7.1,12.703644460700563
+Fish Fillet 300g,FreshCatch,Meat,228,23-06-2025,27-06-2025,0.5,20.6,1.0,donate,Bangalore,True,No,True,Bangalore_164,,,11.3,20.339801673361137
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_249,,,5.1,5.986685184054143
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_95,West,False,4.3,4.886359560559466
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_165,,,8.0,13.944082323668312
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_217,North,True,9.4,1.9177765681330505
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_250,,,6.6,10.588888695736667
+Lays Chips 100g,PepsiCo,Snacks,144,14-06-2025,24-06-2025,0.5,13.6,1.0,donate,Chennai,True,No,False,Chennai_194,,,4.2,15.758941363435058
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_218,North,True,8.0,8.707032915706423
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_219,North,True,3.4,9.704905536305533
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_251,,,11.8,25.30869081141249
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_220,North,True,9.3,20.30264637410144
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_252,,,8.4,14.271208248167898
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_195,,,14.3,12.746056544896662
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_253,,,8.0,11.841425546600089
+Chicken Breast 500g,Godrej,Meat,263,19-06-2025,24-06-2025,0.5,14.3,1.0,donate,Delhi,True,Yes,True,Delhi_221,North,True,9.3,15.065210878518036
+Brown Bun Pack,Harvest Gold,Bakery,32,24-06-2025,27-06-2025,0.5,21.3,0.6,monitor,Delhi,False,No,False,Delhi_222,North,True,14.5,22.804773475604218
+Spinach Bunch,Local Farmer,Produce,253,12-06-2025,15-06-2025,0.5,12.6,1.0,donate,Kanpur,True,Yes,True,Kanpur_254,,,4.1,12.795010002227473
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_166,,,5.2,28.80459372813251
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_255,,,6.7,10.204446511390573
+Fish Fillet 300g,FreshCatch,Meat,37,15-06-2025,18-06-2025,0.5,4.2,1.0,donate,Mumbai,True,Yes,True,Mumbai_96,West,False,10.2,5.013892874612957
+Tomato 1kg,Local Farmer,Produce,204,18-06-2025,21-06-2025,0.5,9.7,1.0,donate,Kanpur,False,Yes,True,Kanpur_256,,,7.8,8.450181262716706
+Chicken Breast 500g,Godrej,Meat,47,19-06-2025,25-06-2025,0.5,10.3,1.0,donate,Delhi,False,Yes,True,Delhi_223,North,True,14.5,10.888170215502665
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_97,West,False,6.0,16.66534004430852
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_167,,,13.0,8.916514785437435
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_98,West,False,2.7,21.461331738763455
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_224,North,True,4.7,21.189529022406223
+Multigrain Cookies,Sunfeast,Bakery,60,25-06-2025,30-06-2025,2.0,10.4,0.58,monitor,Kanpur,False,No,False,Kanpur_257,,,12.9,9.58140169139343
+Amul Milk 500ml,Amul,Dairy,185,12-06-2025,23-06-2025,0.5,8.9,1.0,donate,Bangalore,False,No,True,Bangalore_168,,,9.8,10.18338746110151
+Mother Dairy Butter 100g,Mother Dairy,Dairy,38,18-06-2025,28-06-2025,0.5,12.7,1.0,donate,Bangalore,True,No,True,Bangalore_169,,,3.0,14.390993823551106
+Brown Bun Pack,Harvest Gold,Bakery,247,25-06-2025,03-07-2025,5.0,10.0,0.99,donate,Chennai,False,No,False,Chennai_196,,,14.7,8.69213549331709
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_225,North,True,7.0,1.827944082262083
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_99,West,False,2.4,6.512379676850839
+Nestlé Yogurt 150g,Nestlé,Dairy,267,13-06-2025,16-06-2025,0.5,21.8,1.0,donate,Bangalore,False,No,True,Bangalore_170,,,9.7,22.53142552129391
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_171,,,2.5,3.7025333960638185
+Bingo Mad Angles,ITC,Snacks,289,27-06-2025,07-07-2025,9.0,13.2,0.49,none,Kanpur,False,No,False,Kanpur_258,,,11.6,14.878317076043373
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_100,West,False,8.3,13.54032802652621
+Mutton Mince 250g,Godrej,Meat,265,15-06-2025,19-06-2025,0.5,1.7,1.0,donate,Delhi,True,Yes,True,Delhi_226,North,True,11.7,1.9994704577753033
+Nestlé Yogurt 150g,Nestlé,Dairy,262,16-06-2025,20-06-2025,0.5,2.0,1.0,donate,Delhi,True,No,True,Delhi_227,North,True,4.3,2.3383174835902913
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_197,,,3.0,14.466216218567787
+Banana 6pcs,Local Farmer,Produce,154,14-06-2025,21-06-2025,0.5,5.6,1.0,donate,Mumbai,True,Yes,True,Mumbai_101,West,False,3.8,5.266013226358782
+White Bread,Harvest Gold,Bakery,162,26-06-2025,02-07-2025,4.0,14.2,0.57,monitor,Bangalore,False,No,False,Bangalore_172,,,9.8,17.039634768834066
+Mother Dairy Butter 100g,Mother Dairy,Dairy,220,19-06-2025,23-06-2025,0.5,13.7,1.0,donate,Kanpur,False,No,True,Kanpur_259,,,14.1,12.335016945990315
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_102,West,False,9.1,25.56415330993607
+Lays Chips 100g,PepsiCo,Snacks,165,21-06-2025,24-06-2025,0.5,13.4,1.0,donate,Chennai,True,Yes,False,Chennai_198,,,14.5,12.879737314507379
+Fish Fillet 300g,FreshCatch,Meat,206,18-06-2025,29-06-2025,1.0,17.1,1.0,donate,Bangalore,True,No,True,Bangalore_173,,,10.4,16.093955772562914
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_260,,,13.7,23.10319440055141
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_199,,,5.1,12.389840242059407
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_103,West,False,11.9,27.122737384963596
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_228,North,True,9.4,3.3169780461904232
+Mutton Mince 250g,Godrej,Meat,96,19-06-2025,01-07-2025,3.0,22.0,0.29,none,Delhi,False,Yes,True,Delhi_229,North,True,10.9,24.061869137558315
+Amul Milk 500ml,Amul,Dairy,12,26-06-2025,30-06-2025,2.0,4.6,0.26,none,Chennai,False,No,True,Chennai_200,,,9.4,4.772054046836002
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_104,West,False,8.2,19.03784744741816
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_261,,,6.5,11.86793753055304
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_105,West,False,9.4,15.755799829875485
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_262,,,6.2,14.798117959561365
+White Bread,Harvest Gold,Bakery,261,25-06-2025,04-07-2025,6.0,20.0,0.43,none,Bangalore,False,No,False,Bangalore_174,,,7.6,17.61908611807344
+Mutton Mince 250g,Godrej,Meat,271,22-06-2025,04-07-2025,6.0,8.9,1.0,donate,Delhi,False,No,True,Delhi_230,North,True,14.6,10.02817951268888
+Spinach Bunch,Local Farmer,Produce,115,16-06-2025,23-06-2025,0.5,22.4,1.0,donate,Kanpur,True,Yes,True,Kanpur_263,,,7.3,24.085895398837483
+Spinach Bunch,Local Farmer,Produce,145,15-06-2025,22-06-2025,0.5,15.8,1.0,donate,Kanpur,True,No,True,Kanpur_264,,,14.5,17.348187003496214
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_106,West,False,10.3,25.245552627072442
+Chicken Breast 500g,Godrej,Meat,100,26-06-2025,05-07-2025,7.0,2.8,1.0,donate,Kanpur,True,Yes,True,Kanpur_265,,,10.3,2.826396302857047
+Bingo Mad Angles,ITC,Snacks,92,20-06-2025,28-06-2025,0.5,12.1,1.0,donate,Chennai,False,No,False,Chennai_201,,,5.5,13.363139786072711
+Mutton Mince 250g,Godrej,Meat,295,26-06-2025,03-07-2025,5.0,24.6,0.48,none,Bangalore,False,No,True,Bangalore_175,,,10.6,23.220521972388628
+Brown Bun Pack,Harvest Gold,Bakery,42,14-06-2025,17-06-2025,0.5,24.3,0.69,monitor,Kanpur,False,Yes,False,Kanpur_266,,,14.3,25.681618661960293
+Bingo Mad Angles,ITC,Snacks,60,22-06-2025,03-07-2025,5.0,21.6,0.11,none,Delhi,False,Yes,False,Delhi_231,North,True,3.5,20.65317201988212
+Brown Bun Pack,Harvest Gold,Bakery,90,26-06-2025,08-07-2025,10.0,22.4,0.08,none,Chennai,False,Yes,False,Chennai_202,,,4.9,22.38972858219116
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_267,,,9.4,14.455924608709955
+Bingo Mad Angles,ITC,Snacks,63,25-06-2025,02-07-2025,4.0,14.9,0.21,none,Mumbai,False,No,False,Mumbai_107,West,False,5.4,16.60672753383782
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_203,,,10.2,10.558141547331662
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_108,West,False,14.3,25.78339231658847
+Kurkure Masala,PepsiCo,Snacks,224,24-06-2025,06-07-2025,8.0,3.6,1.0,donate,Bangalore,True,Yes,False,Bangalore_176,,,5.8,2.9900170244378423
+Kurkure Masala,PepsiCo,Snacks,283,12-06-2025,15-06-2025,0.5,12.9,1.0,donate,Chennai,True,No,False,Chennai_204,,,7.7,14.498749233806484
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_205,,,6.7,10.687148044789929
+Lays Chips 100g,PepsiCo,Snacks,116,14-06-2025,22-06-2025,0.5,7.0,1.0,donate,Kanpur,True,Yes,False,Kanpur_268,,,8.0,6.255189906190623
+Multigrain Cookies,Sunfeast,Bakery,224,18-06-2025,29-06-2025,1.0,9.0,1.0,donate,Kanpur,True,No,False,Kanpur_269,,,6.4,9.798090273210336
+Nestlé Yogurt 150g,Nestlé,Dairy,217,16-06-2025,24-06-2025,0.5,2.8,1.0,donate,Delhi,False,No,True,Delhi_232,North,True,4.5,2.45134834160596
+Brown Bun Pack,Harvest Gold,Bakery,222,18-06-2025,22-06-2025,0.5,23.4,1.0,donate,Mumbai,True,No,False,Mumbai_109,West,False,5.9,23.308596799396067
+Kurkure Masala,PepsiCo,Snacks,59,20-06-2025,23-06-2025,0.5,12.2,1.0,donate,Chennai,True,Yes,False,Chennai_206,,,9.3,13.303781076200666
+Lays Chips 100g,PepsiCo,Snacks,232,23-06-2025,03-07-2025,5.0,9.7,0.96,donate,Kanpur,False,No,False,Kanpur_270,,,5.2,8.7426952225948
+Nestlé Yogurt 150g,Nestlé,Dairy,201,23-06-2025,26-06-2025,0.5,20.1,1.0,donate,Mumbai,False,Yes,True,Mumbai_110,West,False,7.0,20.99262238883111
+Bingo Mad Angles,ITC,Snacks,26,15-06-2025,24-06-2025,0.5,13.7,0.76,discount,Kanpur,False,No,False,Kanpur_271,,,13.1,11.079897994309631
